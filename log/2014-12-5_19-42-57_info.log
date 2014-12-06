@@ -1,0 +1,939 @@
+19:42:57.309 [info] Ant with pid #PID<0.106.0> has the data [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.04166666666666667]
+19:42:57.309 [info] Ant with pid #PID<0.107.0> has the data [0.1666666666666668, 0.41666666666666663, 0.06779661016949151, 0.04166666666666667]
+19:42:57.310 [info] Ant with pid #PID<0.109.0> has the data [0.11111111111111119, 0.5, 0.05084745762711865, 0.04166666666666667]
+19:42:57.310 [info] Ant with pid #PID<0.110.0> has the data [0.08333333333333327, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]
+19:42:57.310 [info] Ant with pid #PID<0.111.0> has the data [0.19444444444444448, 0.6666666666666666, 0.06779661016949151, 0.04166666666666667]
+19:42:57.310 [info] Ant with pid #PID<0.112.0> has the data [0.30555555555555564, 0.7916666666666665, 0.11864406779661016, 0.12500000000000003]
+19:42:57.310 [info] Ant with pid #PID<0.113.0> has the data [0.08333333333333327, 0.5833333333333333, 0.06779661016949151, 0.08333333333333333]
+19:42:57.310 [info] Ant with pid #PID<0.114.0> has the data [0.19444444444444448, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]
+19:42:57.310 [info] Ant with pid #PID<0.115.0> has the data [0.027777777777777922, 0.3749999999999999, 0.06779661016949151, 0.04166666666666667]
+19:42:57.311 [info] Ant with pid #PID<0.116.0> has the data [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.0]
+19:42:57.311 [info] Ant with pid #PID<0.117.0> has the data [0.30555555555555564, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]
+19:42:57.311 [info] Ant with pid #PID<0.118.0> has the data [0.13888888888888887, 0.5833333333333333, 0.1016949152542373, 0.04166666666666667]
+19:42:57.311 [info] Ant with pid #PID<0.119.0> has the data [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.0]
+19:42:57.311 [info] Ant with pid #PID<0.120.0> has the data [0.0, 0.41666666666666663, 0.016949152542372895, 0.0]
+19:42:57.311 [info] Ant with pid #PID<0.121.0> has the data [0.41666666666666663, 0.8333333333333333, 0.033898305084745756, 0.04166666666666667]
+19:42:57.311 [info] Ant with pid #PID<0.122.0> has the data [0.38888888888888895, 1.0, 0.0847457627118644, 0.12500000000000003]
+19:42:57.312 [info] Ant with pid #PID<0.123.0> has the data [0.30555555555555564, 0.7916666666666665, 0.05084745762711865, 0.12500000000000003]
+19:42:57.312 [info] Ant with pid #PID<0.124.0> has the data [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.08333333333333333]
+19:42:57.312 [info] Ant with pid #PID<0.125.0> has the data [0.38888888888888895, 0.7499999999999998, 0.11864406779661016, 0.08333333333333333]
+19:42:57.312 [info] Ant with pid #PID<0.126.0> has the data [0.22222222222222213, 0.7499999999999998, 0.0847457627118644, 0.08333333333333333]
+19:42:57.312 [info] Ant with pid #PID<0.127.0> has the data [0.30555555555555564, 0.5833333333333333, 0.11864406779661016, 0.04166666666666667]
+19:42:57.312 [info] Ant with pid #PID<0.128.0> has the data [0.22222222222222213, 0.7083333333333333, 0.0847457627118644, 0.12500000000000003]
+19:42:57.312 [info] Ant with pid #PID<0.129.0> has the data [0.08333333333333327, 0.6666666666666666, 0.0, 0.04166666666666667]
+19:42:57.312 [info] Ant with pid #PID<0.130.0> has the data [0.22222222222222213, 0.5416666666666665, 0.11864406779661016, 0.16666666666666669]
+19:42:57.313 [info] Ant with pid #PID<0.131.0> has the data [0.13888888888888887, 0.5833333333333333, 0.15254237288135591, 0.04166666666666667]
+19:42:57.313 [info] Ant with pid #PID<0.132.0> has the data [0.19444444444444448, 0.41666666666666663, 0.1016949152542373, 0.04166666666666667]
+19:42:57.313 [info] Ant with pid #PID<0.133.0> has the data [0.19444444444444448, 0.5833333333333333, 0.1016949152542373, 0.12500000000000003]
+19:42:57.313 [info] Ant with pid #PID<0.134.0> has the data [0.25000000000000006, 0.6249999999999999, 0.0847457627118644, 0.04166666666666667]
+19:42:57.313 [info] Ant with pid #PID<0.135.0> has the data [0.25000000000000006, 0.5833333333333333, 0.06779661016949151, 0.04166666666666667]
+19:42:57.313 [info] Ant with pid #PID<0.136.0> has the data [0.11111111111111119, 0.5, 0.1016949152542373, 0.04166666666666667]
+19:42:57.313 [info] Ant with pid #PID<0.137.0> has the data [0.13888888888888887, 0.4583333333333333, 0.1016949152542373, 0.04166666666666667]
+19:42:57.314 [info] Ant with pid #PID<0.138.0> has the data [0.30555555555555564, 0.5833333333333333, 0.0847457627118644, 0.12500000000000003]
+19:42:57.314 [info] Ant with pid #PID<0.139.0> has the data [0.25000000000000006, 0.8749999999999998, 0.0847457627118644, 0.0]
+19:42:57.314 [info] Ant with pid #PID<0.140.0> has the data [0.3333333333333333, 0.9166666666666666, 0.06779661016949151, 0.04166666666666667]
+19:42:57.314 [info] Ant with pid #PID<0.141.0> has the data [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]
+19:42:57.314 [info] Ant with pid #PID<0.142.0> has the data [0.19444444444444448, 0.5, 0.033898305084745756, 0.04166666666666667]
+19:42:57.314 [info] Ant with pid #PID<0.143.0> has the data [0.3333333333333333, 0.6249999999999999, 0.05084745762711865, 0.04166666666666667]
+19:42:57.314 [info] Ant with pid #PID<0.144.0> has the data [0.1666666666666668, 0.6666666666666666, 0.06779661016949151, 0.0]
+19:42:57.314 [info] Ant with pid #PID<0.145.0> has the data [0.027777777777777922, 0.41666666666666663, 0.05084745762711865, 0.04166666666666667]
+19:42:57.315 [info] Ant with pid #PID<0.146.0> has the data [0.22222222222222213, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]
+19:42:57.315 [info] Ant with pid #PID<0.147.0> has the data [0.19444444444444448, 0.6249999999999999, 0.05084745762711865, 0.08333333333333333]
+19:42:57.315 [info] Ant with pid #PID<0.148.0> has the data [0.055555555555555594, 0.1249999999999999, 0.05084745762711865, 0.08333333333333333]
+19:42:57.315 [info] Ant with pid #PID<0.149.0> has the data [0.027777777777777922, 0.5, 0.05084745762711865, 0.04166666666666667]
+19:42:57.315 [info] Ant with pid #PID<0.150.0> has the data [0.19444444444444448, 0.6249999999999999, 0.1016949152542373, 0.20833333333333334]
+19:42:57.315 [info] Ant with pid #PID<0.151.0> has the data [0.22222222222222213, 0.7499999999999998, 0.15254237288135591, 0.12500000000000003]
+19:42:57.315 [info] Ant with pid #PID<0.152.0> has the data [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.08333333333333333]
+19:42:57.315 [info] Ant with pid #PID<0.153.0> has the data [0.22222222222222213, 0.7499999999999998, 0.1016949152542373, 0.04166666666666667]
+19:42:57.316 [info] Ant with pid #PID<0.154.0> has the data [0.08333333333333327, 0.5, 0.06779661016949151, 0.04166666666666667]
+19:42:57.316 [info] Ant with pid #PID<0.155.0> has the data [0.27777777777777773, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]
+19:42:57.316 [info] Ant with pid #PID<0.156.0> has the data [0.19444444444444448, 0.5416666666666665, 0.06779661016949151, 0.04166666666666667]
+19:42:57.316 [info] Ant with pid #PID<0.157.0> has the data [0.7499999999999999, 0.5, 0.6271186440677966, 0.5416666666666666]
+19:42:57.316 [info] Ant with pid #PID<0.158.0> has the data [0.5833333333333334, 0.5, 0.5932203389830508, 0.5833333333333334]
+19:42:57.316 [info] Ant with pid #PID<0.159.0> has the data [0.7222222222222222, 0.4583333333333333, 0.6610169491525424, 0.5833333333333334]
+19:42:57.316 [info] Ant with pid #PID<0.160.0> has the data [0.3333333333333333, 0.1249999999999999, 0.5084745762711864, 0.5]
+19:42:57.316 [info] Ant with pid #PID<0.161.0> has the data [0.611111111111111, 0.3333333333333332, 0.6101694915254237, 0.5833333333333334]
+19:42:57.317 [info] Ant with pid #PID<0.162.0> has the data [0.38888888888888895, 0.3333333333333332, 0.5932203389830508, 0.5]
+19:42:57.317 [info] Ant with pid #PID<0.163.0> has the data [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625]
+19:42:57.317 [info] Ant with pid #PID<0.164.0> has the data [0.1666666666666668, 0.1666666666666666, 0.38983050847457623, 0.375]
+19:42:57.317 [info] Ant with pid #PID<0.165.0> has the data [0.6388888888888887, 0.3749999999999999, 0.6101694915254237, 0.5]
+19:42:57.317 [info] Ant with pid #PID<0.166.0> has the data [0.25000000000000006, 0.2916666666666667, 0.4915254237288135, 0.5416666666666666]
+19:42:57.317 [info] Ant with pid #PID<0.167.0> has the data [0.19444444444444448, 0.0, 0.423728813559322, 0.375]
+19:42:57.318 [info] Ant with pid #PID<0.168.0> has the data [0.44444444444444453, 0.41666666666666663, 0.5423728813559322, 0.5833333333333334]
+19:42:57.318 [info] Ant with pid #PID<0.169.0> has the data [0.4722222222222222, 0.0833333333333334, 0.5084745762711864, 0.375]
+19:42:57.318 [info] Ant with pid #PID<0.170.0> has the data [0.4999999999999999, 0.3749999999999999, 0.6271186440677966, 0.5416666666666666]
+19:42:57.318 [info] Ant with pid #PID<0.171.0> has the data [0.361111111111111, 0.3749999999999999, 0.4406779661016949, 0.5]
+19:42:57.318 [info] Ant with pid #PID<0.172.0> has the data [0.6666666666666666, 0.4583333333333333, 0.576271186440678, 0.5416666666666666]
+19:42:57.318 [info] Ant with pid #PID<0.173.0> has the data [0.361111111111111, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]
+19:42:57.318 [info] Ant with pid #PID<0.174.0> has the data [0.41666666666666663, 0.2916666666666667, 0.5254237288135593, 0.375]
+19:42:57.319 [info] Ant with pid #PID<0.175.0> has the data [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334]
+19:42:57.319 [info] Ant with pid #PID<0.176.0> has the data [0.361111111111111, 0.20833333333333331, 0.4915254237288135, 0.4166666666666667]
+19:42:57.319 [info] Ant with pid #PID<0.177.0> has the data [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334]
+19:42:57.319 [info] Ant with pid #PID<0.178.0> has the data [0.4999999999999999, 0.3333333333333332, 0.5084745762711864, 0.5]
+19:42:57.319 [info] Ant with pid #PID<0.179.0> has the data [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334]
+19:42:57.319 [info] Ant with pid #PID<0.180.0> has the data [0.4999999999999999, 0.3333333333333332, 0.6271186440677966, 0.4583333333333333]
+19:42:57.320 [info] Ant with pid #PID<0.181.0> has the data [0.5833333333333334, 0.3749999999999999, 0.559322033898305, 0.5]
+19:42:57.320 [info] Ant with pid #PID<0.182.0> has the data [0.6388888888888887, 0.41666666666666663, 0.576271186440678, 0.5416666666666666]
+19:42:57.320 [info] Ant with pid #PID<0.183.0> has the data [0.6944444444444443, 0.3333333333333332, 0.6440677966101694, 0.5416666666666666]
+19:42:57.320 [info] Ant with pid #PID<0.184.0> has the data [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666]
+19:42:57.320 [info] Ant with pid #PID<0.185.0> has the data [0.4722222222222222, 0.3749999999999999, 0.5932203389830508, 0.5833333333333334]
+19:42:57.320 [info] Ant with pid #PID<0.186.0> has the data [0.38888888888888895, 0.25, 0.423728813559322, 0.375]
+19:42:57.320 [info] Ant with pid #PID<0.187.0> has the data [0.3333333333333333, 0.1666666666666666, 0.47457627118644063, 0.4166666666666667]
+19:42:57.321 [info] Ant with pid #PID<0.188.0> has the data [0.3333333333333333, 0.1666666666666666, 0.4576271186440678, 0.375]
+19:42:57.321 [info] Ant with pid #PID<0.189.0> has the data [0.41666666666666663, 0.2916666666666667, 0.4915254237288135, 0.4583333333333333]
+19:42:57.321 [info] Ant with pid #PID<0.190.0> has the data [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625]
+19:42:57.321 [info] Ant with pid #PID<0.191.0> has the data [0.30555555555555564, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]
+19:42:57.321 [info] Ant with pid #PID<0.192.0> has the data [0.4722222222222222, 0.5833333333333333, 0.5932203389830508, 0.625]
+19:42:57.321 [info] Ant with pid #PID<0.193.0> has the data [0.6666666666666666, 0.4583333333333333, 0.6271186440677966, 0.5833333333333334]
+19:42:57.321 [info] Ant with pid #PID<0.194.0> has the data [0.5555555555555555, 0.1249999999999999, 0.576271186440678, 0.5]
+19:42:57.322 [info] Ant with pid #PID<0.195.0> has the data [0.361111111111111, 0.41666666666666663, 0.5254237288135593, 0.5]
+19:42:57.322 [info] Ant with pid #PID<0.196.0> has the data [0.3333333333333333, 0.20833333333333331, 0.5084745762711864, 0.5]
+19:42:57.322 [info] Ant with pid #PID<0.197.0> has the data [0.3333333333333333, 0.25, 0.576271186440678, 0.4583333333333333]
+19:42:57.322 [info] Ant with pid #PID<0.198.0> has the data [0.4999999999999999, 0.41666666666666663, 0.6101694915254237, 0.5416666666666666]
+19:42:57.322 [info] Ant with pid #PID<0.199.0> has the data [0.41666666666666663, 0.25, 0.5084745762711864, 0.4583333333333333]
+19:42:57.322 [info] Ant with pid #PID<0.200.0> has the data [0.19444444444444448, 0.1249999999999999, 0.38983050847457623, 0.375]
+19:42:57.323 [info] Ant with pid #PID<0.201.0> has the data [0.361111111111111, 0.2916666666666667, 0.5423728813559322, 0.5]
+19:42:57.323 [info] Ant with pid #PID<0.202.0> has the data [0.38888888888888895, 0.41666666666666663, 0.5423728813559322, 0.4583333333333333]
+19:42:57.323 [info] Ant with pid #PID<0.203.0> has the data [0.38888888888888895, 0.3749999999999999, 0.5423728813559322, 0.5]
+19:42:57.323 [info] Ant with pid #PID<0.204.0> has the data [0.5277777777777778, 0.3749999999999999, 0.559322033898305, 0.5]
+19:42:57.323 [info] Ant with pid #PID<0.205.0> has the data [0.22222222222222213, 0.20833333333333331, 0.3389830508474576, 0.4166666666666667]
+19:42:57.323 [info] Ant with pid #PID<0.206.0> has the data [0.38888888888888895, 0.3333333333333332, 0.5254237288135593, 0.5]
+19:42:57.324 [info] Ant with pid #PID<0.207.0> has the data [0.5555555555555555, 0.5416666666666665, 0.847457627118644, 1.0]
+19:42:57.324 [info] Ant with pid #PID<0.208.0> has the data [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]
+19:42:57.324 [info] Ant with pid #PID<0.209.0> has the data [0.7777777777777776, 0.41666666666666663, 0.8305084745762712, 0.8333333333333334]
+19:42:57.324 [info] Ant with pid #PID<0.210.0> has the data [0.5555555555555555, 0.3749999999999999, 0.7796610169491525, 0.7083333333333334]
+19:42:57.324 [info] Ant with pid #PID<0.211.0> has the data [0.611111111111111, 0.41666666666666663, 0.8135593220338982, 0.8750000000000001]
+19:42:57.325 [info] Ant with pid #PID<0.212.0> has the data [0.9166666666666665, 0.41666666666666663, 0.9491525423728813, 0.8333333333333334]
+19:42:57.325 [info] Ant with pid #PID<0.213.0> has the data [0.1666666666666668, 0.20833333333333331, 0.5932203389830508, 0.6666666666666666]
+19:42:57.325 [info] Ant with pid #PID<0.214.0> has the data [0.8333333333333333, 0.3749999999999999, 0.8983050847457626, 0.7083333333333334]
+19:42:57.325 [info] Ant with pid #PID<0.215.0> has the data [0.6666666666666666, 0.20833333333333331, 0.8135593220338982, 0.7083333333333334]
+19:42:57.325 [info] Ant with pid #PID<0.216.0> has the data [0.8055555555555556, 0.6666666666666666, 0.8644067796610169, 1.0]
+19:42:57.325 [info] Ant with pid #PID<0.217.0> has the data [0.611111111111111, 0.5, 0.6949152542372881, 0.7916666666666666]
+19:42:57.326 [info] Ant with pid #PID<0.218.0> has the data [0.5833333333333334, 0.2916666666666667, 0.7288135593220338, 0.75]
+19:42:57.326 [info] Ant with pid #PID<0.219.0> has the data [0.6944444444444443, 0.41666666666666663, 0.7627118644067796, 0.8333333333333334]
+19:42:57.326 [info] Ant with pid #PID<0.220.0> has the data [0.38888888888888895, 0.20833333333333331, 0.6779661016949152, 0.7916666666666666]
+19:42:57.326 [info] Ant with pid #PID<0.221.0> has the data [0.41666666666666663, 0.3333333333333332, 0.6949152542372881, 0.9583333333333333]
+19:42:57.326 [info] Ant with pid #PID<0.222.0> has the data [0.5833333333333334, 0.5, 0.7288135593220338, 0.9166666666666666]
+19:42:57.327 [info] Ant with pid #PID<0.223.0> has the data [0.611111111111111, 0.41666666666666663, 0.7627118644067796, 0.7083333333333334]
+19:42:57.327 [info] Ant with pid #PID<0.224.0> has the data [0.9444444444444444, 0.7499999999999998, 0.9661016949152542, 0.8750000000000001]
+19:42:57.327 [info] Ant with pid #PID<0.225.0> has the data [0.9444444444444444, 0.25, 1.0, 0.9166666666666666]
+19:42:57.327 [info] Ant with pid #PID<0.226.0> has the data [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334]
+19:42:57.327 [info] Ant with pid #PID<0.227.0> has the data [0.7222222222222222, 0.5, 0.7966101694915254, 0.9166666666666666]
+19:42:57.327 [info] Ant with pid #PID<0.228.0> has the data [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666]
+19:42:57.328 [info] Ant with pid #PID<0.229.0> has the data [0.9444444444444444, 0.3333333333333332, 0.9661016949152542, 0.7916666666666666]
+19:42:57.328 [info] Ant with pid #PID<0.230.0> has the data [0.5555555555555555, 0.2916666666666667, 0.6610169491525424, 0.7083333333333334]
+19:42:57.328 [info] Ant with pid #PID<0.231.0> has the data [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 0.8333333333333334]
+19:42:57.328 [info] Ant with pid #PID<0.232.0> has the data [0.8055555555555556, 0.5, 0.847457627118644, 0.7083333333333334]
+19:42:57.328 [info] Ant with pid #PID<0.233.0> has the data [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334]
+19:42:57.328 [info] Ant with pid #PID<0.234.0> has the data [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334]
+19:42:57.328 [info] Ant with pid #PID<0.235.0> has the data [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8333333333333334]
+19:42:57.329 [info] Ant with pid #PID<0.236.0> has the data [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625]
+19:42:57.329 [info] Ant with pid #PID<0.237.0> has the data [0.8611111111111112, 0.3333333333333332, 0.8644067796610169, 0.75]
+19:42:57.329 [info] Ant with pid #PID<0.238.0> has the data [1.0, 0.7499999999999998, 0.9152542372881356, 0.7916666666666666]
+19:42:57.329 [info] Ant with pid #PID<0.239.0> has the data [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8750000000000001]
+19:42:57.329 [info] Ant with pid #PID<0.240.0> has the data [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334]
+19:42:57.329 [info] Ant with pid #PID<0.241.0> has the data [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666]
+19:42:57.330 [info] Ant with pid #PID<0.242.0> has the data [0.9444444444444444, 0.41666666666666663, 0.8644067796610169, 0.9166666666666666]
+19:42:57.330 [info] Ant with pid #PID<0.243.0> has the data [0.5555555555555555, 0.5833333333333333, 0.7796610169491525, 0.9583333333333333]
+19:42:57.330 [info] Ant with pid #PID<0.244.0> has the data [0.5833333333333334, 0.4583333333333333, 0.7627118644067796, 0.7083333333333334]
+19:42:57.330 [info] Ant with pid #PID<0.245.0> has the data [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334]
+19:42:57.330 [info] Ant with pid #PID<0.246.0> has the data [0.7222222222222222, 0.4583333333333333, 0.7457627118644068, 0.8333333333333334]
+19:42:57.330 [info] Ant with pid #PID<0.247.0> has the data [0.6666666666666666, 0.4583333333333333, 0.7796610169491525, 0.9583333333333333]
+19:42:57.330 [info] Ant with pid #PID<0.248.0> has the data [0.7222222222222222, 0.4583333333333333, 0.6949152542372881, 0.9166666666666666]
+19:42:57.331 [info] Ant with pid #PID<0.249.0> has the data [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]
+19:42:57.331 [info] Ant with pid #PID<0.250.0> has the data [0.6944444444444443, 0.5, 0.8305084745762712, 0.9166666666666666]
+19:42:57.331 [info] Ant with pid #PID<0.251.0> has the data [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 1.0]
+19:42:57.331 [info] Ant with pid #PID<0.252.0> has the data [0.6666666666666666, 0.41666666666666663, 0.711864406779661, 0.9166666666666666]
+19:42:57.331 [info] Ant with pid #PID<0.253.0> has the data [0.5555555555555555, 0.20833333333333331, 0.6779661016949152, 0.75]
+19:42:57.331 [info] Ant with pid #PID<0.254.0> has the data [0.611111111111111, 0.41666666666666663, 0.711864406779661, 0.7916666666666666]
+19:42:57.331 [info] Ant with pid #PID<0.255.0> has the data [0.5277777777777778, 0.5833333333333333, 0.7457627118644068, 0.9166666666666666]
+19:42:57.332 [info] Ant with pid #PID<0.256.0> has the data [0.44444444444444453, 0.41666666666666663, 0.6949152542372881, 0.7083333333333334]
+19:42:57.339 [info] Ant with pid #PID<0.106.0> is put on the position {5, 21}
+19:42:57.339 [info] Ant with pid #PID<0.107.0> is put on the position {3, 21}
+19:42:57.339 [info] Ant with pid #PID<0.109.0> is put on the position {18, 8}
+19:42:57.339 [info] Ant with pid #PID<0.110.0> is put on the position {3, 8}
+19:42:57.339 [info] Ant with pid #PID<0.111.0> is put on the position {12, 8}
+19:42:57.339 [info] Ant with pid #PID<0.112.0> is put on the position {19, 18}
+19:42:57.339 [info] Ant with pid #PID<0.113.0> is put on the position {2, 10}
+19:42:57.339 [info] Ant with pid #PID<0.114.0> is put on the position {9, 23}
+19:42:57.339 [info] Ant with pid #PID<0.115.0> is put on the position {16, 8}
+19:42:57.340 [info] Ant with pid #PID<0.116.0> is put on the position {1, 7}
+19:42:57.340 [info] Ant with pid #PID<0.117.0> is put on the position {10, 5}
+19:42:57.340 [info] Ant with pid #PID<0.118.0> is put on the position {17, 20}
+19:42:57.340 [info] Ant with pid #PID<0.119.0> is put on the position {23, 14}
+19:42:57.340 [info] Ant with pid #PID<0.120.0> is put on the position {5, 12}
+19:42:57.340 [info] Ant with pid #PID<0.121.0> is put on the position {12, 4}
+19:42:57.340 [info] Ant with pid #PID<0.122.0> is put on the position {18, 4}
+19:42:57.340 [info] Ant with pid #PID<0.123.0> is put on the position {0, 23}
+19:42:57.340 [info] Ant with pid #PID<0.124.0> is put on the position {6, 17}
+19:42:57.340 [info] Ant with pid #PID<0.125.0> is put on the position {13, 12}
+19:42:57.340 [info] Ant with pid #PID<0.126.0> is put on the position {20, 21}
+19:42:57.340 [info] Ant with pid #PID<0.127.0> is put on the position {5, 23}
+19:42:57.340 [info] Ant with pid #PID<0.128.0> is put on the position {12, 10}
+19:42:57.340 [info] Ant with pid #PID<0.129.0> is put on the position {20, 17}
+19:42:57.340 [info] Ant with pid #PID<0.130.0> is put on the position {2, 12}
+19:42:57.340 [info] Ant with pid #PID<0.131.0> is put on the position {9, 1}
+19:42:57.340 [info] Ant with pid #PID<0.132.0> is put on the position {15, 23}
+19:42:57.340 [info] Ant with pid #PID<0.133.0> is put on the position {22, 12}
+19:42:57.340 [info] Ant with pid #PID<0.134.0> is put on the position {8, 4}
+19:42:57.340 [info] Ant with pid #PID<0.135.0> is put on the position {14, 19}
+19:42:57.341 [info] Ant with pid #PID<0.136.0> is put on the position {22, 6}
+19:42:57.341 [info] Ant with pid #PID<0.137.0> is put on the position {5, 17}
+19:42:57.341 [info] Ant with pid #PID<0.138.0> is put on the position {13, 1}
+19:42:57.341 [info] Ant with pid #PID<0.139.0> is put on the position {21, 4}
+19:42:57.341 [info] Ant with pid #PID<0.140.0> is put on the position {5, 10}
+19:42:57.341 [info] Ant with pid #PID<0.141.0> is put on the position {12, 18}
+19:42:57.341 [info] Ant with pid #PID<0.142.0> is put on the position {20, 4}
+19:42:57.341 [info] Ant with pid #PID<0.143.0> is put on the position {3, 16}
+19:42:57.341 [info] Ant with pid #PID<0.144.0> is put on the position {11, 20}
+19:42:57.341 [info] Ant with pid #PID<0.145.0> is put on the position {18, 9}
+19:42:57.341 [info] Ant with pid #PID<0.146.0> is put on the position {1, 20}
+19:42:57.341 [info] Ant with pid #PID<0.147.0> is put on the position {12, 6}
+19:42:57.341 [info] Ant with pid #PID<0.148.0> is put on the position {19, 16}
+19:42:57.341 [info] Ant with pid #PID<0.149.0> is put on the position {3, 0}
+19:42:57.341 [info] Ant with pid #PID<0.150.0> is put on the position {11, 6}
+19:42:57.341 [info] Ant with pid #PID<0.151.0> is put on the position {22, 5}
+19:42:57.342 [info] Ant with pid #PID<0.152.0> is put on the position {9, 10}
+19:42:57.342 [info] Ant with pid #PID<0.153.0> is put on the position {17, 16}
+19:42:57.342 [info] Ant with pid #PID<0.154.0> is put on the position {0, 9}
+19:42:57.342 [info] Ant with pid #PID<0.155.0> is put on the position {7, 18}
+19:42:57.342 [info] Ant with pid #PID<0.156.0> is put on the position {14, 11}
+19:42:57.342 [info] Ant with pid #PID<0.157.0> is put on the position {21, 22}
+19:42:57.342 [info] Ant with pid #PID<0.158.0> is put on the position {4, 10}
+19:42:57.342 [info] Ant with pid #PID<0.159.0> is put on the position {11, 0}
+19:42:57.342 [info] Ant with pid #PID<0.160.0> is put on the position {18, 14}
+19:42:57.342 [info] Ant with pid #PID<0.161.0> is put on the position {2, 21}
+19:42:57.342 [info] Ant with pid #PID<0.162.0> is put on the position {9, 7}
+19:42:57.342 [info] Ant with pid #PID<0.163.0> is put on the position {16, 23}
+19:42:57.342 [info] Ant with pid #PID<0.164.0> is put on the position {3, 2}
+19:42:57.342 [info] Ant with pid #PID<0.165.0> is put on the position {11, 5}
+19:42:57.342 [info] Ant with pid #PID<0.166.0> is put on the position {19, 13}
+19:42:57.342 [info] Ant with pid #PID<0.167.0> is put on the position {2, 1}
+19:42:57.342 [info] Ant with pid #PID<0.168.0> is put on the position {8, 19}
+19:42:57.342 [info] Ant with pid #PID<0.169.0> is put on the position {18, 11}
+19:42:57.343 [info] Ant with pid #PID<0.170.0> is put on the position {2, 18}
+19:42:57.343 [info] Ant with pid #PID<0.171.0> is put on the position {10, 23}
+19:42:57.343 [info] Ant with pid #PID<0.172.0> is put on the position {19, 20}
+19:42:57.343 [info] Ant with pid #PID<0.173.0> is put on the position {7, 16}
+19:42:57.343 [info] Ant with pid #PID<0.174.0> is put on the position {15, 21}
+19:42:57.343 [info] Ant with pid #PID<0.175.0> is put on the position {23, 22}
+19:42:57.343 [info] Ant with pid #PID<0.176.0> is put on the position {7, 4}
+19:42:57.343 [info] Ant with pid #PID<0.177.0> is put on the position {15, 8}
+19:42:57.343 [info] Ant with pid #PID<0.178.0> is put on the position {23, 12}
+19:42:57.343 [info] Ant with pid #PID<0.179.0> is put on the position {9, 0}
+19:42:57.343 [info] Ant with pid #PID<0.180.0> is put on the position {23, 9}
+19:42:57.343 [info] Ant with pid #PID<0.181.0> is put on the position {7, 8}
+19:42:57.343 [info] Ant with pid #PID<0.182.0> is put on the position {16, 3}
+19:42:57.343 [info] Ant with pid #PID<0.183.0> is put on the position {1, 6}
+19:42:57.344 [info] Ant with pid #PID<0.184.0> is put on the position {11, 18}
+19:42:57.344 [info] Ant with pid #PID<0.185.0> is put on the position {20, 14}
+19:42:57.344 [info] Ant with pid #PID<0.186.0> is put on the position {5, 11}
+19:42:57.344 [info] Ant with pid #PID<0.187.0> is put on the position {14, 6}
+19:42:57.344 [info] Ant with pid #PID<0.188.0> is put on the position {23, 1}
+19:42:57.344 [info] Ant with pid #PID<0.189.0> is put on the position {9, 17}
+19:42:57.344 [info] Ant with pid #PID<0.190.0> is put on the position {19, 6}
+19:42:57.344 [info] Ant with pid #PID<0.191.0> is put on the position {4, 21}
+19:42:57.344 [info] Ant with pid #PID<0.192.0> is put on the position {14, 14}
+19:42:57.344 [info] Ant with pid #PID<0.193.0> is put on the position {7, 11}
+19:42:57.344 [info] Ant with pid #PID<0.194.0> is put on the position {7, 5}
+19:42:57.345 [info] Ant with pid #PID<0.195.0> is put on the position {4, 23}
+19:42:57.345 [info] Ant with pid #PID<0.196.0> is put on the position {0, 1}
+19:42:57.345 [info] Ant with pid #PID<0.197.0> is put on the position {17, 23}
+19:42:57.345 [info] Ant with pid #PID<0.198.0> is put on the position {8, 21}
+19:42:57.345 [info] Ant with pid #PID<0.199.0> is put on the position {21, 1}
+19:42:57.345 [info] Ant with pid #PID<0.200.0> is put on the position {21, 21}
+19:42:57.345 [info] Ant with pid #PID<0.201.0> is put on the position {17, 22}
+19:42:57.346 [info] Ant with pid #PID<0.202.0> is put on the position {15, 3}
+19:42:57.346 [info] Ant with pid #PID<0.203.0> is put on the position {10, 6}
+19:42:57.346 [info] Ant with pid #PID<0.204.0> is put on the position {16, 18}
+19:42:57.346 [info] Ant with pid #PID<0.205.0> is put on the position {20, 3}
+19:42:57.347 [info] Ant with pid #PID<0.206.0> is put on the position {2, 14}
+19:42:57.347 [info] Ant with pid #PID<0.207.0> is put on the position {1, 11}
+19:42:57.347 [info] Ant with pid #PID<0.208.0> is put on the position {4, 4}
+19:42:57.347 [info] Ant with pid #PID<0.209.0> is put on the position {16, 20}
+19:42:57.347 [info] Ant with pid #PID<0.210.0> is put on the position {3, 23}
+19:42:57.347 [info] Ant with pid #PID<0.211.0> is put on the position {14, 1}
+19:42:57.347 [info] Ant with pid #PID<0.212.0> is put on the position {0, 14}
+19:42:57.347 [info] Ant with pid #PID<0.213.0> is put on the position {12, 13}
+19:42:57.347 [info] Ant with pid #PID<0.214.0> is put on the position {10, 18}
+19:42:57.348 [info] Ant with pid #PID<0.215.0> is put on the position {3, 1}
+19:42:57.348 [info] Ant with pid #PID<0.216.0> is put on the position {17, 5}
+19:42:57.348 [info] Ant with pid #PID<0.217.0> is put on the position {7, 7}
+19:42:57.348 [info] Ant with pid #PID<0.218.0> is put on the position {20, 12}
+19:42:57.348 [info] Ant with pid #PID<0.219.0> is put on the position {22, 10}
+19:42:57.348 [info] Ant with pid #PID<0.220.0> is put on the position {18, 16}
+19:42:57.348 [info] Ant with pid #PID<0.221.0> is put on the position {7, 23}
+19:42:57.348 [info] Ant with pid #PID<0.222.0> is put on the position {20, 10}
+19:42:57.349 [info] Ant with pid #PID<0.223.0> is put on the position {16, 13}
+19:42:57.349 [info] Ant with pid #PID<0.224.0> is put on the position {3, 14}
+19:42:57.349 [info] Ant with pid #PID<0.225.0> is put on the position {23, 18}
+19:42:57.349 [info] Ant with pid #PID<0.226.0> is put on the position {12, 5}
+19:42:57.349 [info] Ant with pid #PID<0.227.0> is put on the position {1, 16}
+19:42:57.349 [info] Ant with pid #PID<0.228.0> is put on the position {14, 4}
+19:42:57.349 [info] Ant with pid #PID<0.229.0> is put on the position {3, 13}
+19:42:57.349 [info] Ant with pid #PID<0.230.0> is put on the position {17, 14}
+19:42:57.349 [info] Ant with pid #PID<0.231.0> is put on the position {7, 21}
+19:42:57.350 [info] Ant with pid #PID<0.232.0> is put on the position {22, 14}
+19:42:57.350 [info] Ant with pid #PID<0.233.0> is put on the position {12, 21}
+19:42:57.350 [info] Ant with pid #PID<0.234.0> is put on the position {1, 2}
+19:42:57.350 [info] Ant with pid #PID<0.235.0> is put on the position {15, 6}
+19:42:57.350 [info] Ant with pid #PID<0.236.0> is put on the position {12, 23}
+19:42:57.350 [info] Ant with pid #PID<0.237.0> is put on the position {1, 12}
+19:42:57.350 [info] Ant with pid #PID<0.238.0> is put on the position {14, 23}
+19:42:57.350 [info] Ant with pid #PID<0.239.0> is put on the position {4, 2}
+19:42:57.350 [info] Ant with pid #PID<0.240.0> is put on the position {18, 6}
+19:42:57.350 [info] Ant with pid #PID<0.241.0> is put on the position {7, 12}
+19:42:57.351 [info] Ant with pid #PID<0.242.0> is put on the position {20, 23}
+19:42:57.351 [info] Ant with pid #PID<0.243.0> is put on the position {10, 4}
+19:42:57.351 [info] Ant with pid #PID<0.244.0> is put on the position {0, 6}
+19:42:57.351 [info] Ant with pid #PID<0.245.0> is put on the position {13, 21}
+19:42:57.351 [info] Ant with pid #PID<0.246.0> is put on the position {2, 2}
+19:42:57.351 [info] Ant with pid #PID<0.247.0> is put on the position {16, 9}
+19:42:57.351 [info] Ant with pid #PID<0.248.0> is put on the position {5, 16}
+19:42:57.351 [info] Ant with pid #PID<0.249.0> is put on the position {19, 23}
+19:42:57.351 [info] Ant with pid #PID<0.250.0> is put on the position {17, 10}
+19:42:57.352 [info] Ant with pid #PID<0.251.0> is put on the position {6, 14}
+19:42:57.352 [info] Ant with pid #PID<0.252.0> is put on the position {4, 0}
+19:42:57.352 [info] Ant with pid #PID<0.253.0> is put on the position {1, 17}
+19:42:57.352 [info] Ant with pid #PID<0.254.0> is put on the position {14, 2}
+19:42:57.352 [info] Ant with pid #PID<0.255.0> is put on the position {4, 6}
+19:42:57.352 [info] Ant with pid #PID<0.256.0> is put on the position {9, 2}
+19:42:57.390 [info] Ant with pid #PID<0.165.0> is moving to the position {11, 4}
+19:42:57.408 [info] Ant with pid #PID<0.215.0> is moving to the position {4, 1}
+19:42:57.432 [error] GenServer #PID<0.167.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.167.0>, [0.19444444444444448, 0.0, 0.423728813559322, 0.375]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{139, 2}, {127, 1}, {60, 1}, {42, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.437 [error] GenServer #PID<0.150.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.150.0>, [0.19444444444444448, 0.6249999999999999, 0.1016949152542373, 0.20833333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{119, 2}, {43, 1}, {96, 1}, {10, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.438 [info] Ant with pid #PID<0.252.0> is moving to the position {4, 1}
+19:42:57.439 [info] Ant with pid #PID<0.149.0> is moving to the position {4, 1}
+19:42:57.470 [info] Ant with pid #PID<0.117.0> is moving to the position {11, 4}
+19:42:57.470 [error] GenServer #PID<0.164.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.164.0>, [0.1666666666666668, 0.1666666666666666, 0.38983050847457623, 0.375]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{139, 2}, {57, 1}, {60, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.471 [info] Ant with pid #PID<0.124.0> is moving to the position {6, 18}
+19:42:57.472 [error] GenServer #PID<0.203.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.203.0>, [0.38888888888888895, 0.3749999999999999, 0.5423728813559322, 0.5]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{119, 2}, {55, 1}, {96, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.474 [error] GenServer #PID<0.226.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.226.0>, [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{119, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.475 [error] GenServer #PID<0.246.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.246.0>, [0.7222222222222222, 0.4583333333333333, 0.7457627118644068, 0.8333333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{139, 2}, {127, 1}, {60, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.477 [error] GenServer #PID<0.195.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.195.0>, [0.361111111111111, 0.41666666666666663, 0.5254237288135593, 0.5]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{20, 2}, {103, 1}, {88, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.488 [info] Ant with pid #PID<0.166.0> is moving to the position {19, 14}
+19:42:57.494 [info] Ant with pid #PID<0.163.0> is moving to the position {16, 22}
+19:42:57.497 [info] Ant with pid #PID<0.126.0> is moving to the position {20, 22}
+19:42:57.497 [error] GenServer #PID<0.179.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.179.0>, [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{7, 2}, {24, 1}, {72, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.497 [info] Ant with pid #PID<0.171.0> is moving to the position {10, 0}
+19:42:57.497 [info] Ant with pid #PID<0.207.0> is moving to the position {0, 11}
+19:42:57.497 [info] Ant with pid #PID<0.234.0> is moving to the position {1, 1}
+19:42:57.497 [info] Ant with pid #PID<0.186.0> is moving to the position {6, 11}
+19:42:57.498 [info] Ant with pid #PID<0.157.0> is moving to the position {20, 22}
+19:42:57.498 [info] Ant with pid #PID<0.250.0> is moving to the position {17, 9}
+19:42:57.498 [info] Ant with pid #PID<0.229.0> is moving to the position {2, 13}
+19:42:57.498 [info] Ant with pid #PID<0.202.0> is moving to the position {15, 2}
+19:42:57.498 [info] Ant with pid #PID<0.247.0> is moving to the position {17, 9}
+19:42:57.499 [info] Ant with pid #PID<0.139.0> is moving to the position {21, 5}
+19:42:57.499 [error] GenServer #PID<0.210.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.210.0>, [0.5555555555555555, 0.3749999999999999, 0.7796610169491525, 0.7083333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{20, 2}, {103, 1}, {88, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.499 [info] Ant with pid #PID<0.130.0> is moving to the position {3, 11}
+19:42:57.501 [error] GenServer #PID<0.147.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.147.0>, [0.19444444444444448, 0.6249999999999999, 0.05084745762711865, 0.08333333333333333]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{119, 2}, {43, 1}, {40, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.502 [info] Ant with pid #PID<0.254.0> is moving to the position {15, 2}
+19:42:57.513 [error] GenServer #PID<0.114.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.114.0>, [0.19444444444444448, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{7, 2}, {72, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.521 [info] Ant with pid #PID<0.116.0> is moving to the position {0, 8}
+19:42:57.524 [info] Ant with pid #PID<0.115.0> is moving to the position {17, 9}
+19:42:57.535 [info] Ant with pid #PID<0.107.0> is moving to the position {4, 22}
+19:42:57.547 [error] GenServer #PID<0.127.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.127.0>, [0.30555555555555564, 0.5833333333333333, 0.11864406779661016, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{20, 2}, {88, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.552 [info] Ant with pid #PID<0.194.0> is moving to the position {8, 6}
+19:42:57.556 [info] Ant with pid #PID<0.132.0> is moving to the position {16, 22}
+19:42:57.564 [info] Ant with pid #PID<0.125.0> is moving to the position {13, 11}
+19:42:57.570 [info] Ant with pid #PID<0.196.0> is moving to the position {1, 1}
+19:42:57.570 [info] Ant with pid #PID<0.191.0> is moving to the position {3, 22}
+19:42:57.570 [info] Ant with pid #PID<0.220.0> is moving to the position {18, 15}
+19:42:57.570 [info] Ant with pid #PID<0.205.0> is moving to the position {20, 2}
+19:42:57.570 [info] Ant with pid #PID<0.137.0> is moving to the position {6, 18}
+19:42:57.570 [info] Ant with pid #PID<0.138.0> is moving to the position {14, 0}
+19:42:57.571 [error] GenServer #PID<0.224.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.224.0>, [0.9444444444444444, 0.7499999999999998, 0.9661016949152542, 0.8750000000000001]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{117, 2}, {99, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.571 [info] Ant with pid #PID<0.201.0> is moving to the position {16, 22}
+19:42:57.571 [info] Ant with pid #PID<0.209.0> is moving to the position {17, 21}
+19:42:57.571 [info] Ant with pid #PID<0.237.0> is moving to the position {2, 13}
+19:42:57.572 [info] Ant with pid #PID<0.240.0> is moving to the position {18, 5}
+19:42:57.572 [info] Ant with pid #PID<0.119.0> is moving to the position {23, 13}
+19:42:57.572 [info] Ant with pid #PID<0.184.0> is moving to the position {10, 17}
+19:42:57.572 [info] Ant with pid #PID<0.233.0> is moving to the position {13, 22}
+19:42:57.572 [info] Ant with pid #PID<0.230.0> is moving to the position {18, 15}
+19:42:57.572 [info] Ant with pid #PID<0.214.0> is moving to the position {10, 17}
+19:42:57.573 [info] Ant with pid #PID<0.129.0> is moving to the position {19, 17}
+19:42:57.573 [info] Ant with pid #PID<0.131.0> is moving to the position {10, 0}
+19:42:57.573 [info] Ant with pid #PID<0.242.0> is moving to the position {20, 22}
+19:42:57.573 [info] Ant with pid #PID<0.159.0> is moving to the position {10, 0}
+19:42:57.574 [info] Ant with pid #PID<0.180.0> is moving to the position {0, 10}
+19:42:57.574 [info] Ant with pid #PID<0.148.0> is moving to the position {18, 15}
+19:42:57.574 [info] Ant with pid #PID<0.155.0> is moving to the position {6, 18}
+19:42:57.574 [info] Ant with pid #PID<0.140.0> is moving to the position {6, 11}
+19:42:57.575 [info] Ant with pid #PID<0.151.0> is moving to the position {21, 5}
+19:42:57.575 [info] Ant with pid #PID<0.145.0> is moving to the position {17, 9}
+19:42:57.575 [info] Ant with pid #PID<0.239.0> is moving to the position {4, 1}
+19:42:57.575 [error] GenServer #PID<0.176.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.176.0>, [0.361111111111111, 0.20833333333333331, 0.4915254237288135, 0.4166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{27, 2}, {69, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.575 [info] Ant with pid #PID<0.253.0> is moving to the position {2, 17}
+19:42:57.578 [error] GenServer #PID<0.121.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.121.0>, [0.41666666666666663, 0.8333333333333333, 0.033898305084745756, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{119, 2}, {14, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.581 [error] GenServer #PID<0.206.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.206.0>, [0.38888888888888895, 0.3333333333333332, 0.5254237288135593, 0.5]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{117, 2}, {99, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.592 [error] GenServer #PID<0.244.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.244.0>, [0.5833333333333334, 0.4583333333333333, 0.7627118644067796, 0.7083333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{76, 2}, {137, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.592 [info] Ant with pid #PID<0.106.0> is moving to the position {4, 22}
+19:42:57.607 [info] Ant with pid #PID<0.169.0> is moving to the position {19, 12}
+19:42:57.610 [info] Ant with pid #PID<0.168.0> is moving to the position {7, 20}
+19:42:57.610 [info] Ant with pid #PID<0.182.0> is moving to the position {15, 2}
+19:42:57.611 [info] Ant with pid #PID<0.162.0> is moving to the position {8, 7}
+19:42:57.615 [info] Ant with pid #PID<0.109.0> is moving to the position {17, 9}
+19:42:57.624 [info] Ant with pid #PID<0.173.0> is moving to the position {8, 17}
+19:42:57.624 [info] Ant with pid #PID<0.198.0> is moving to the position {7, 20}
+19:42:57.624 [error] GenServer #PID<0.248.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.248.0>, [0.7222222222222222, 0.4583333333333333, 0.6949152542372881, 0.9166666666666666]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{17, 2}, {141, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.624 [info] Ant with pid #PID<0.190.0> is moving to the position {18, 5}
+19:42:57.624 [info] Ant with pid #PID<0.193.0> is moving to the position {6, 11}
+19:42:57.624 [info] Ant with pid #PID<0.141.0> is moving to the position {11, 19}
+19:42:57.624 [info] Ant with pid #PID<0.123.0> is moving to the position {1, 0}
+19:42:57.624 [info] Ant with pid #PID<0.219.0> is moving to the position {21, 11}
+19:42:57.624 [info] Ant with pid #PID<0.175.0> is moving to the position {22, 21}
+19:42:57.624 [info] Ant with pid #PID<0.170.0> is moving to the position {2, 17}
+19:42:57.625 [info] Ant with pid #PID<0.185.0> is moving to the position {19, 15}
+19:42:57.625 [info] Ant with pid #PID<0.235.0> is moving to the position {15, 7}
+19:42:57.625 [info] Ant with pid #PID<0.154.0> is moving to the position {1, 10}
+19:42:57.625 [info] Ant with pid #PID<0.181.0> is moving to the position {8, 7}
+19:42:57.625 [info] Ant with pid #PID<0.122.0> is moving to the position {19, 5}
+19:42:57.625 [info] Ant with pid #PID<0.241.0> is moving to the position {6, 11}
+19:42:57.625 [info] Ant with pid #PID<0.217.0> is moving to the position {8, 7}
+19:42:57.625 [info] Ant with pid #PID<0.238.0> is moving to the position {13, 22}
+19:42:57.625 [info] Ant with pid #PID<0.249.0> is moving to the position {20, 22}
+19:42:57.625 [info] Ant with pid #PID<0.236.0> is moving to the position {13, 22}
+19:42:57.625 [info] Ant with pid #PID<0.213.0> is moving to the position {13, 13}
+19:42:57.625 [info] Ant with pid #PID<0.172.0> is moving to the position {18, 21}
+19:42:57.625 [info] Ant with pid #PID<0.146.0> is moving to the position {2, 20}
+19:42:57.625 [error] GenServer #PID<0.183.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.183.0>, [0.6944444444444443, 0.3333333333333332, 0.6440677966101694, 0.5416666666666666]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{76, 2}, {137, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.625 [info] Ant with pid #PID<0.174.0> is moving to the position {16, 22}
+19:42:57.626 [info] Ant with pid #PID<0.133.0> is moving to the position {23, 13}
+19:42:57.626 [info] Ant with pid #PID<0.223.0> is moving to the position {17, 13}
+19:42:57.626 [info] Ant with pid #PID<0.136.0> is moving to the position {21, 5}
+19:42:57.626 [info] Ant with pid #PID<0.187.0> is moving to the position {13, 5}
+19:42:57.626 [info] Ant with pid #PID<0.189.0> is moving to the position {9, 18}
+19:42:57.626 [info] Ant with pid #PID<0.218.0> is moving to the position {21, 11}
+19:42:57.626 [info] Ant with pid #PID<0.188.0> is moving to the position {0, 2}
+19:42:57.626 [info] Ant with pid #PID<0.245.0> is moving to the position {14, 22}
+19:42:57.626 [info] Ant with pid #PID<0.256.0> is moving to the position {10, 1}
+19:42:57.626 [info] Ant with pid #PID<0.212.0> is moving to the position {23, 13}
+19:42:57.627 [error] GenServer #PID<0.216.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.216.0>, [0.8055555555555556, 0.6666666666666666, 0.8644067796610169, 1.0]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{109, 2}, {15, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.628 [error] GenServer #PID<0.197.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.197.0>, [0.3333333333333333, 0.25, 0.576271186440678, 0.4583333333333333]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{56, 2}, {90, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.629 [error] GenServer #PID<0.134.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.134.0>, [0.25000000000000006, 0.6249999999999999, 0.0847457627118644, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{27, 2}, {69, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.631 [error] GenServer #PID<0.200.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.200.0>, [0.19444444444444448, 0.1249999999999999, 0.38983050847457623, 0.375]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{50, 2}, {93, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.632 [error] GenServer #PID<0.243.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.243.0>, [0.5555555555555555, 0.5833333333333333, 0.7796610169491525, 0.9583333333333333]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{119, 2}, {136, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.633 [error] GenServer #PID<0.160.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.160.0>, [0.3333333333333333, 0.1249999999999999, 0.5084745762711864, 0.5]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{123, 1}, {53, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.634 [error] GenServer #PID<0.142.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.142.0>, [0.19444444444444448, 0.5, 0.033898305084745756, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{32, 2}, {35, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.635 [error] GenServer #PID<0.211.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.211.0>, [0.611111111111111, 0.41666666666666663, 0.8135593220338982, 0.8750000000000001]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{121, 2}, {104, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.636 [error] GenServer #PID<0.177.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.177.0>, [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{140, 2}, {70, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.636 [error] GenServer #PID<0.161.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.161.0>, [0.611111111111111, 0.3333333333333332, 0.6101694915254237, 0.5833333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{54, 2}, {39, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.637 [error] GenServer #PID<0.158.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.158.0>, [0.5833333333333334, 0.5, 0.5932203389830508, 0.5833333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{13, 2}, {51, 1}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.638 [error] GenServer #PID<0.112.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.112.0>, [0.30555555555555564, 0.7916666666666665, 0.11864406779661016, 0.12500000000000003]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{5, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.639 [error] GenServer #PID<0.118.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.118.0>, [0.13888888888888887, 0.5833333333333333, 0.1016949152542373, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{11, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.640 [error] GenServer #PID<0.227.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.227.0>, [0.7222222222222222, 0.5, 0.7966101694915254, 0.9166666666666666]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{120, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.641 [error] GenServer #PID<0.113.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.113.0>, [0.08333333333333327, 0.5833333333333333, 0.06779661016949151, 0.08333333333333333]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{6, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.642 [error] GenServer #PID<0.120.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.120.0>, [0.0, 0.41666666666666663, 0.016949152542372895, 0.0]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{13, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.642 [error] GenServer #PID<0.232.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.232.0>, [0.8055555555555556, 0.5, 0.847457627118644, 0.7083333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{125, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.643 [error] GenServer #PID<0.156.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.156.0>, [0.19444444444444448, 0.5416666666666665, 0.06779661016949151, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{49, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.643 [error] GenServer #PID<0.144.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.144.0>, [0.1666666666666668, 0.6666666666666666, 0.06779661016949151, 0.0]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{37, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.644 [error] GenServer #PID<0.228.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.228.0>, [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{121, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.644 [error] GenServer #PID<0.231.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.231.0>, [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 0.8333333333333334]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{124, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.645 [error] GenServer #PID<0.153.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.153.0>, [0.22222222222222213, 0.7499999999999998, 0.1016949152542373, 0.04166666666666667]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{46, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+19:42:57.646 [error] GenServer #PID<0.178.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.4483, 2, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.178.0>, [0.4999999999999999, 0.3333333333333332, 0.5084745762711864, 0.5]}
+** (exit) an exception was raised:
+    ** (Protocol.UndefinedError) protocol String.Chars not implemented for #HashDict<[{71, 2}]>
+        (elixir) lib/string/chars.ex:3: String.Chars.impl_for!/1
+        (elixir) lib/string/chars.ex:17: String.Chars.to_string/1
+        (elixir) lib/io.ex:425: IO.puts/2
+        (A4C) lib/a4c/ant.ex:170: A4C.Ant.get_class_frequency/3
+        (A4C) lib/a4c/ant.ex:158: A4C.Ant.get_class_frequency/2
+        (A4C) lib/a4c/ant.ex:36: A4C.Ant.handle_cast/2
+        (stdlib) gen_server.erl:599: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3

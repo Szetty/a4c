@@ -1,0 +1,653 @@
+20:38:00.599 [info] Ant with pid #PID<0.106.0> has the data [0.0]
+20:38:00.600 [info] Ant with pid #PID<0.107.0> has the data [9.532888465204957e-4]
+20:38:00.600 [info] Ant with pid #PID<0.109.0> has the data [0.0019065776930409911]
+20:38:00.600 [info] Ant with pid #PID<0.110.0> has the data [0.002859866539561487]
+20:38:00.600 [info] Ant with pid #PID<0.111.0> has the data [0.0038131553860819827]
+20:38:00.600 [info] Ant with pid #PID<0.112.0> has the data [0.004766444232602478]
+20:38:00.600 [info] Ant with pid #PID<0.113.0> has the data [0.005719733079122975]
+20:38:00.600 [info] Ant with pid #PID<0.114.0> has the data [0.00667302192564347]
+20:38:00.601 [info] Ant with pid #PID<0.115.0> has the data [0.0076263107721639654]
+20:38:00.601 [info] Ant with pid #PID<0.116.0> has the data [0.008579599618684462]
+20:38:00.601 [info] Ant with pid #PID<0.117.0> has the data [0.009532888465204958]
+20:38:00.601 [info] Ant with pid #PID<0.118.0> has the data [0.010486177311725452]
+20:38:00.601 [info] Ant with pid #PID<0.119.0> has the data [0.01143946615824595]
+20:38:00.601 [info] Ant with pid #PID<0.120.0> has the data [0.012392755004766444]
+20:38:00.601 [info] Ant with pid #PID<0.121.0> has the data [0.013346043851286939]
+20:38:00.601 [info] Ant with pid #PID<0.122.0> has the data [0.014299332697807435]
+20:38:00.601 [info] Ant with pid #PID<0.123.0> has the data [0.015252621544327931]
+20:38:00.602 [info] Ant with pid #PID<0.124.0> has the data [0.016205910390848427]
+20:38:00.602 [info] Ant with pid #PID<0.125.0> has the data [0.017159199237368923]
+20:38:00.602 [info] Ant with pid #PID<0.126.0> has the data [0.01811248808388942]
+20:38:00.602 [info] Ant with pid #PID<0.127.0> has the data [0.019065776930409912]
+20:38:00.602 [info] Ant with pid #PID<0.128.0> has the data [0.020019065776930408]
+20:38:00.602 [info] Ant with pid #PID<0.129.0> has the data [0.020972354623450904]
+20:38:00.602 [info] Ant with pid #PID<0.130.0> has the data [0.0219256434699714]
+20:38:00.602 [info] Ant with pid #PID<0.131.0> has the data [0.022878932316491896]
+20:38:00.602 [info] Ant with pid #PID<0.132.0> has the data [0.023832221163012392]
+20:38:00.602 [info] Ant with pid #PID<0.133.0> has the data [0.02478551000953289]
+20:38:00.603 [info] Ant with pid #PID<0.134.0> has the data [0.025738798856053385]
+20:38:00.603 [info] Ant with pid #PID<0.135.0> has the data [0.026692087702573877]
+20:38:00.603 [info] Ant with pid #PID<0.136.0> has the data [0.027645376549094373]
+20:38:00.603 [info] Ant with pid #PID<0.137.0> has the data [0.02859866539561487]
+20:38:00.603 [info] Ant with pid #PID<0.138.0> has the data [0.029551954242135366]
+20:38:00.603 [info] Ant with pid #PID<0.139.0> has the data [0.030505243088655862]
+20:38:00.603 [info] Ant with pid #PID<0.140.0> has the data [0.03145853193517636]
+20:38:00.603 [info] Ant with pid #PID<0.141.0> has the data [0.032411820781696854]
+20:38:00.603 [info] Ant with pid #PID<0.142.0> has the data [0.03336510962821735]
+20:38:00.603 [info] Ant with pid #PID<0.143.0> has the data [0.034318398474737846]
+20:38:00.603 [info] Ant with pid #PID<0.144.0> has the data [0.03527168732125834]
+20:38:00.604 [info] Ant with pid #PID<0.145.0> has the data [0.03622497616777884]
+20:38:00.604 [info] Ant with pid #PID<0.146.0> has the data [0.037178265014299335]
+20:38:00.604 [info] Ant with pid #PID<0.147.0> has the data [0.038131553860819824]
+20:38:00.604 [info] Ant with pid #PID<0.148.0> has the data [0.03908484270734032]
+20:38:00.604 [info] Ant with pid #PID<0.149.0> has the data [0.040038131553860816]
+20:38:00.604 [info] Ant with pid #PID<0.150.0> has the data [0.04099142040038131]
+20:38:00.604 [info] Ant with pid #PID<0.151.0> has the data [0.04194470924690181]
+20:38:00.604 [info] Ant with pid #PID<0.152.0> has the data [0.042897998093422304]
+20:38:00.604 [info] Ant with pid #PID<0.153.0> has the data [0.0438512869399428]
+20:38:00.604 [info] Ant with pid #PID<0.154.0> has the data [0.044804575786463297]
+20:38:00.604 [info] Ant with pid #PID<0.155.0> has the data [0.04575786463298379]
+20:38:00.605 [info] Ant with pid #PID<0.156.0> has the data [0.04671115347950429]
+20:38:00.605 [info] Ant with pid #PID<0.157.0> has the data [0.9532888465204957]
+20:38:00.605 [info] Ant with pid #PID<0.158.0> has the data [0.9542421353670162]
+20:38:00.605 [info] Ant with pid #PID<0.159.0> has the data [0.9551954242135366]
+20:38:00.605 [info] Ant with pid #PID<0.160.0> has the data [0.9561487130600571]
+20:38:00.605 [info] Ant with pid #PID<0.161.0> has the data [0.9571020019065778]
+20:38:00.605 [info] Ant with pid #PID<0.162.0> has the data [0.9580552907530983]
+20:38:00.605 [info] Ant with pid #PID<0.163.0> has the data [0.9590085795996187]
+20:38:00.605 [info] Ant with pid #PID<0.164.0> has the data [0.9599618684461392]
+20:38:00.605 [info] Ant with pid #PID<0.165.0> has the data [0.9609151572926596]
+20:38:00.606 [info] Ant with pid #PID<0.166.0> has the data [0.9618684461391801]
+20:38:00.606 [info] Ant with pid #PID<0.167.0> has the data [0.9628217349857006]
+20:38:00.606 [info] Ant with pid #PID<0.168.0> has the data [0.9637750238322211]
+20:38:00.606 [info] Ant with pid #PID<0.169.0> has the data [0.9647283126787417]
+20:38:00.606 [info] Ant with pid #PID<0.170.0> has the data [0.9656816015252622]
+20:38:00.606 [info] Ant with pid #PID<0.171.0> has the data [0.9666348903717827]
+20:38:00.606 [info] Ant with pid #PID<0.172.0> has the data [0.9675881792183032]
+20:38:00.606 [info] Ant with pid #PID<0.173.0> has the data [0.9685414680648237]
+20:38:00.606 [info] Ant with pid #PID<0.174.0> has the data [0.9694947569113441]
+20:38:00.606 [info] Ant with pid #PID<0.175.0> has the data [0.9704480457578646]
+20:38:00.606 [info] Ant with pid #PID<0.176.0> has the data [0.971401334604385]
+20:38:00.606 [info] Ant with pid #PID<0.177.0> has the data [0.9723546234509057]
+20:38:00.607 [info] Ant with pid #PID<0.178.0> has the data [0.9733079122974262]
+20:38:00.607 [info] Ant with pid #PID<0.179.0> has the data [0.9742612011439467]
+20:38:00.607 [info] Ant with pid #PID<0.180.0> has the data [0.9752144899904671]
+20:38:00.607 [info] Ant with pid #PID<0.181.0> has the data [0.9761677788369876]
+20:38:00.607 [info] Ant with pid #PID<0.182.0> has the data [0.977121067683508]
+20:38:00.607 [info] Ant with pid #PID<0.183.0> has the data [0.9780743565300286]
+20:38:00.607 [info] Ant with pid #PID<0.184.0> has the data [0.9790276453765491]
+20:38:00.607 [info] Ant with pid #PID<0.185.0> has the data [0.9799809342230695]
+20:38:00.607 [info] Ant with pid #PID<0.186.0> has the data [0.9809342230695901]
+20:38:00.607 [info] Ant with pid #PID<0.187.0> has the data [0.9818875119161107]
+20:38:00.607 [info] Ant with pid #PID<0.188.0> has the data [0.9828408007626311]
+20:38:00.608 [info] Ant with pid #PID<0.189.0> has the data [0.9837940896091516]
+20:38:00.608 [info] Ant with pid #PID<0.190.0> has the data [0.9847473784556721]
+20:38:00.608 [info] Ant with pid #PID<0.191.0> has the data [0.9857006673021925]
+20:38:00.608 [info] Ant with pid #PID<0.192.0> has the data [0.986653956148713]
+20:38:00.608 [info] Ant with pid #PID<0.193.0> has the data [0.9876072449952334]
+20:38:00.608 [info] Ant with pid #PID<0.194.0> has the data [0.9885605338417541]
+20:38:00.608 [info] Ant with pid #PID<0.195.0> has the data [0.9895138226882746]
+20:38:00.608 [info] Ant with pid #PID<0.196.0> has the data [0.990467111534795]
+20:38:00.608 [info] Ant with pid #PID<0.197.0> has the data [0.9914204003813155]
+20:38:00.608 [info] Ant with pid #PID<0.198.0> has the data [0.992373689227836]
+20:38:00.608 [info] Ant with pid #PID<0.199.0> has the data [0.9933269780743565]
+20:38:00.609 [info] Ant with pid #PID<0.200.0> has the data [0.994280266920877]
+20:38:00.609 [info] Ant with pid #PID<0.201.0> has the data [0.9952335557673975]
+20:38:00.609 [info] Ant with pid #PID<0.202.0> has the data [0.996186844613918]
+20:38:00.609 [info] Ant with pid #PID<0.203.0> has the data [0.9971401334604386]
+20:38:00.609 [info] Ant with pid #PID<0.204.0> has the data [0.9980934223069591]
+20:38:00.609 [info] Ant with pid #PID<0.205.0> has the data [0.9990467111534795]
+20:38:00.609 [info] Ant with pid #PID<0.206.0> has the data [1.0]
+20:38:00.613 [info] Ant with pid #PID<0.106.0> is put on the position {0, 4}
+20:38:00.613 [info] Ant with pid #PID<0.107.0> is put on the position {2, 6}
+20:38:00.613 [info] Ant with pid #PID<0.109.0> is put on the position {10, 1}
+20:38:00.613 [info] Ant with pid #PID<0.110.0> is put on the position {2, 2}
+20:38:00.613 [info] Ant with pid #PID<0.111.0> is put on the position {18, 8}
+20:38:00.613 [info] Ant with pid #PID<0.112.0> is put on the position {9, 18}
+20:38:00.613 [info] Ant with pid #PID<0.113.0> is put on the position {18, 19}
+20:38:00.613 [info] Ant with pid #PID<0.114.0> is put on the position {11, 9}
+20:38:00.613 [info] Ant with pid #PID<0.115.0> is put on the position {4, 2}
+20:38:00.613 [info] Ant with pid #PID<0.116.0> is put on the position {16, 2}
+20:38:00.614 [info] Ant with pid #PID<0.117.0> is put on the position {5, 7}
+20:38:00.614 [info] Ant with pid #PID<0.118.0> is put on the position {14, 13}
+20:38:00.614 [info] Ant with pid #PID<0.119.0> is put on the position {2, 8}
+20:38:00.614 [info] Ant with pid #PID<0.120.0> is put on the position {9, 5}
+20:38:00.614 [info] Ant with pid #PID<0.121.0> is put on the position {17, 18}
+20:38:00.614 [info] Ant with pid #PID<0.122.0> is put on the position {5, 13}
+20:38:00.614 [info] Ant with pid #PID<0.123.0> is put on the position {13, 10}
+20:38:00.614 [info] Ant with pid #PID<0.124.0> is put on the position {1, 15}
+20:38:00.614 [info] Ant with pid #PID<0.125.0> is put on the position {11, 13}
+20:38:00.614 [info] Ant with pid #PID<0.126.0> is put on the position {0, 2}
+20:38:00.614 [info] Ant with pid #PID<0.127.0> is put on the position {9, 6}
+20:38:00.614 [info] Ant with pid #PID<0.128.0> is put on the position {17, 19}
+20:38:00.614 [info] Ant with pid #PID<0.129.0> is put on the position {5, 10}
+20:38:00.615 [info] Ant with pid #PID<0.130.0> is put on the position {13, 3}
+20:38:00.615 [info] Ant with pid #PID<0.131.0> is put on the position {1, 14}
+20:38:00.615 [info] Ant with pid #PID<0.132.0> is put on the position {10, 5}
+20:38:00.615 [info] Ant with pid #PID<0.133.0> is put on the position {18, 15}
+20:38:00.615 [info] Ant with pid #PID<0.134.0> is put on the position {6, 5}
+20:38:00.615 [info] Ant with pid #PID<0.135.0> is put on the position {14, 4}
+20:38:00.615 [info] Ant with pid #PID<0.136.0> is put on the position {2, 15}
+20:38:00.615 [info] Ant with pid #PID<0.137.0> is put on the position {10, 7}
+20:38:00.615 [info] Ant with pid #PID<0.138.0> is put on the position {19, 11}
+20:38:00.615 [info] Ant with pid #PID<0.139.0> is put on the position {11, 7}
+20:38:00.615 [info] Ant with pid #PID<0.140.0> is put on the position {6, 7}
+20:38:00.615 [info] Ant with pid #PID<0.141.0> is put on the position {0, 11}
+20:38:00.616 [info] Ant with pid #PID<0.142.0> is put on the position {11, 15}
+20:38:00.616 [info] Ant with pid #PID<0.143.0> is put on the position {1, 11}
+20:38:00.616 [info] Ant with pid #PID<0.144.0> is put on the position {15, 18}
+20:38:00.616 [info] Ant with pid #PID<0.145.0> is put on the position {6, 4}
+20:38:00.616 [info] Ant with pid #PID<0.146.0> is put on the position {15, 5}
+20:38:00.616 [info] Ant with pid #PID<0.147.0> is put on the position {7, 5}
+20:38:00.616 [info] Ant with pid #PID<0.148.0> is put on the position {16, 13}
+20:38:00.616 [info] Ant with pid #PID<0.149.0> is put on the position {14, 19}
+20:38:00.616 [info] Ant with pid #PID<0.150.0> is put on the position {8, 5}
+20:38:00.617 [info] Ant with pid #PID<0.151.0> is put on the position {19, 13}
+20:38:00.617 [info] Ant with pid #PID<0.152.0> is put on the position {12, 2}
+20:38:00.617 [info] Ant with pid #PID<0.153.0> is put on the position {3, 7}
+20:38:00.617 [info] Ant with pid #PID<0.154.0> is put on the position {15, 12}
+20:38:00.617 [info] Ant with pid #PID<0.155.0> is put on the position {4, 13}
+20:38:00.617 [info] Ant with pid #PID<0.156.0> is put on the position {15, 7}
+20:38:00.617 [info] Ant with pid #PID<0.157.0> is put on the position {15, 14}
+20:38:00.617 [info] Ant with pid #PID<0.158.0> is put on the position {8, 3}
+20:38:00.618 [info] Ant with pid #PID<0.159.0> is put on the position {8, 16}
+20:38:00.618 [info] Ant with pid #PID<0.160.0> is put on the position {4, 5}
+20:38:00.618 [info] Ant with pid #PID<0.161.0> is put on the position {19, 17}
+20:38:00.618 [info] Ant with pid #PID<0.162.0> is put on the position {15, 9}
+20:38:00.618 [info] Ant with pid #PID<0.163.0> is put on the position {8, 15}
+20:38:00.618 [info] Ant with pid #PID<0.164.0> is put on the position {19, 9}
+20:38:00.618 [info] Ant with pid #PID<0.165.0> is put on the position {9, 3}
+20:38:00.618 [info] Ant with pid #PID<0.166.0> is put on the position {6, 17}
+20:38:00.619 [info] Ant with pid #PID<0.167.0> is put on the position {3, 13}
+20:38:00.619 [info] Ant with pid #PID<0.168.0> is put on the position {15, 19}
+20:38:00.619 [info] Ant with pid #PID<0.169.0> is put on the position {6, 8}
+20:38:00.619 [info] Ant with pid #PID<0.170.0> is put on the position {17, 16}
+20:38:00.619 [info] Ant with pid #PID<0.171.0> is put on the position {9, 15}
+20:38:00.619 [info] Ant with pid #PID<0.172.0> is put on the position {0, 16}
+20:38:00.619 [info] Ant with pid #PID<0.173.0> is put on the position {11, 8}
+20:38:00.619 [info] Ant with pid #PID<0.174.0> is put on the position {7, 12}
+20:38:00.619 [info] Ant with pid #PID<0.175.0> is put on the position {18, 0}
+20:38:00.620 [info] Ant with pid #PID<0.176.0> is put on the position {14, 5}
+20:38:00.620 [info] Ant with pid #PID<0.177.0> is put on the position {6, 11}
+20:38:00.620 [info] Ant with pid #PID<0.178.0> is put on the position {17, 17}
+20:38:00.620 [info] Ant with pid #PID<0.179.0> is put on the position {14, 17}
+20:38:00.620 [info] Ant with pid #PID<0.180.0> is put on the position {6, 15}
+20:38:00.620 [info] Ant with pid #PID<0.181.0> is put on the position {18, 10}
+20:38:00.620 [info] Ant with pid #PID<0.182.0> is put on the position {10, 10}
+20:38:00.620 [info] Ant with pid #PID<0.183.0> is put on the position {9, 8}
+20:38:00.621 [info] Ant with pid #PID<0.184.0> is put on the position {9, 2}
+20:38:00.621 [info] Ant with pid #PID<0.185.0> is put on the position {7, 17}
+20:38:00.621 [info] Ant with pid #PID<0.186.0> is put on the position {3, 17}
+20:38:00.621 [info] Ant with pid #PID<0.187.0> is put on the position {17, 3}
+20:38:00.621 [info] Ant with pid #PID<0.188.0> is put on the position {19, 16}
+20:38:00.621 [info] Ant with pid #PID<0.189.0> is put on the position {16, 1}
+20:38:00.621 [info] Ant with pid #PID<0.190.0> is put on the position {10, 3}
+20:38:00.622 [info] Ant with pid #PID<0.191.0> is put on the position {1, 4}
+20:38:00.622 [info] Ant with pid #PID<0.192.0> is put on the position {13, 8}
+20:38:00.622 [info] Ant with pid #PID<0.193.0> is put on the position {4, 15}
+20:38:00.622 [info] Ant with pid #PID<0.194.0> is put on the position {4, 9}
+20:38:00.622 [info] Ant with pid #PID<0.195.0> is put on the position {18, 12}
+20:38:00.622 [info] Ant with pid #PID<0.196.0> is put on the position {10, 9}
+20:38:00.622 [info] Ant with pid #PID<0.197.0> is put on the position {2, 13}
+20:38:00.622 [info] Ant with pid #PID<0.198.0> is put on the position {13, 17}
+20:38:00.623 [info] Ant with pid #PID<0.199.0> is put on the position {5, 14}
+20:38:00.623 [info] Ant with pid #PID<0.200.0> is put on the position {17, 15}
+20:38:00.623 [info] Ant with pid #PID<0.201.0> is put on the position {14, 15}
+20:38:00.623 [info] Ant with pid #PID<0.202.0> is put on the position {16, 8}
+20:38:00.624 [info] Ant with pid #PID<0.203.0> is put on the position {11, 18}
+20:38:00.624 [info] Ant with pid #PID<0.204.0> is put on the position {12, 13}
+20:38:00.624 [info] Ant with pid #PID<0.205.0> is put on the position {8, 11}
+20:38:00.624 [info] Ant with pid #PID<0.206.0> is put on the position {7, 4}
+20:38:00.665 [info] Ant with pid #PID<0.206.0> is moving to the position {8, 4}
+20:38:00.674 [info] Ant with pid #PID<0.127.0> is moving to the position {10, 6}
+20:38:00.675 [info] Ant with pid #PID<0.150.0> is moving to the position {7, 6}
+20:38:00.675 [info] Ant with pid #PID<0.196.0> is moving to the position {10, 8}
+20:38:00.676 [info] Ant with pid #PID<0.137.0> is moving to the position {10, 6}
+20:38:00.676 [info] Ant with pid #PID<0.199.0> is moving to the position {4, 14}
+20:38:00.677 [info] Ant with pid #PID<0.184.0> is moving to the position {10, 2}
+20:38:00.679 [info] Ant with pid #PID<0.147.0> is moving to the position {7, 6}
+20:38:00.680 [info] Ant with pid #PID<0.173.0> is moving to the position {10, 8}
+20:38:00.683 [info] Ant with pid #PID<0.114.0> is moving to the position {10, 8}
+20:38:00.684 [info] Ant with pid #PID<0.134.0> is moving to the position {7, 6}
+20:38:00.684 [info] Ant with pid #PID<0.121.0> is moving to the position {18, 18}
+20:38:00.684 [info] Ant with pid #PID<0.113.0> is moving to the position {18, 18}
+20:38:00.684 [info] Ant with pid #PID<0.124.0> is moving to the position {2, 14}
+20:38:00.684 [info] Ant with pid #PID<0.120.0> is moving to the position {10, 6}
+20:38:00.685 [info] Ant with pid #PID<0.128.0> is moving to the position {18, 18}
+20:38:00.685 [info] Ant with pid #PID<0.158.0> is moving to the position {9, 4}
+20:38:00.685 [info] Ant with pid #PID<0.170.0> is moving to the position {18, 16}
+20:38:00.685 [info] Ant with pid #PID<0.172.0> is moving to the position {0, 17}
+20:38:00.686 [info] Ant with pid #PID<0.188.0> is moving to the position {18, 16}
+20:38:00.686 [info] Ant with pid #PID<0.131.0> is moving to the position {2, 14}
+20:38:00.686 [info] Ant with pid #PID<0.135.0> is moving to the position {13, 4}
+20:38:00.686 [info] Ant with pid #PID<0.165.0> is moving to the position {9, 4}
+20:38:00.687 [info] Ant with pid #PID<0.144.0> is moving to the position {16, 18}
+20:38:00.687 [info] Ant with pid #PID<0.157.0> is moving to the position {16, 15}
+20:38:00.687 [info] Ant with pid #PID<0.145.0> is moving to the position {5, 4}
+20:38:00.687 [info] Ant with pid #PID<0.138.0> is moving to the position {0, 12}
+20:38:00.687 [info] Ant with pid #PID<0.159.0> is moving to the position {7, 16}
+20:38:00.688 [info] Ant with pid #PID<0.155.0> is moving to the position {3, 14}
+20:38:00.688 [info] Ant with pid #PID<0.133.0> is moving to the position {17, 14}
+20:38:00.691 [info] Ant with pid #PID<0.118.0> is moving to the position {15, 13}
+20:38:00.692 [info] Ant with pid #PID<0.179.0> is moving to the position {14, 18}
+20:38:00.692 [info] Ant with pid #PID<0.117.0> is moving to the position {6, 6}
+20:38:00.693 [info] Ant with pid #PID<0.129.0> is moving to the position {5, 9}
+20:38:00.693 [info] Ant with pid #PID<0.164.0> is moving to the position {19, 10}
+20:38:00.693 [info] Ant with pid #PID<0.154.0> is moving to the position {15, 13}
+20:38:00.693 [info] Ant with pid #PID<0.163.0> is moving to the position {7, 16}
+20:38:00.693 [info] Ant with pid #PID<0.139.0> is moving to the position {10, 6}
+20:38:00.694 [info] Ant with pid #PID<0.185.0> is moving to the position {7, 16}
+20:38:00.694 [info] Ant with pid #PID<0.176.0> is moving to the position {14, 6}
+20:38:00.694 [info] Ant with pid #PID<0.122.0> is moving to the position {4, 14}
+20:38:00.694 [info] Ant with pid #PID<0.174.0> is moving to the position {7, 11}
+20:38:00.695 [info] Ant with pid #PID<0.181.0> is moving to the position {19, 10}
+20:38:00.695 [info] Ant with pid #PID<0.182.0> is moving to the position {9, 9}
+20:38:00.695 [info] Ant with pid #PID<0.136.0> is moving to the position {2, 14}
+20:38:00.695 [info] Ant with pid #PID<0.132.0> is moving to the position {10, 6}
+20:38:00.695 [info] Ant with pid #PID<0.169.0> is moving to the position {5, 8}
+20:38:00.695 [info] Ant with pid #PID<0.167.0> is moving to the position {3, 14}
+20:38:00.695 [info] Ant with pid #PID<0.183.0> is moving to the position {9, 9}
+20:38:00.695 [info] Ant with pid #PID<0.202.0> is moving to the position {15, 8}
+20:38:00.695 [info] Ant with pid #PID<0.200.0> is moving to the position {18, 16}
+20:38:00.695 [info] Ant with pid #PID<0.195.0> is moving to the position {18, 11}
+20:38:00.695 [info] Ant with pid #PID<0.146.0> is moving to the position {14, 6}
+20:38:00.696 [info] Ant with pid #PID<0.171.0> is moving to the position {9, 16}
+20:38:00.696 [info] Ant with pid #PID<0.153.0> is moving to the position {4, 8}
+20:38:00.696 [info] Ant with pid #PID<0.190.0> is moving to the position {9, 4}
+20:38:00.696 [info] Ant with pid #PID<0.168.0> is moving to the position {14, 18}
+20:38:00.696 [info] Ant with pid #PID<0.148.0> is moving to the position {15, 13}
+20:38:00.696 [info] Ant with pid #PID<0.116.0> is moving to the position {15, 3}
+20:38:00.696 [info] Ant with pid #PID<0.177.0> is moving to the position {7, 11}
+20:38:00.697 [info] Ant with pid #PID<0.178.0> is moving to the position {18, 16}
+20:38:00.697 [info] Ant with pid #PID<0.130.0> is moving to the position {14, 3}
+20:38:00.697 [info] Ant with pid #PID<0.175.0> is moving to the position {17, 0}
+20:38:00.697 [info] Ant with pid #PID<0.140.0> is moving to the position {7, 6}
+20:38:00.697 [info] Ant with pid #PID<0.161.0> is moving to the position {18, 16}
+20:38:00.697 [info] Ant with pid #PID<0.141.0> is moving to the position {0, 12}
+20:38:00.698 [info] Ant with pid #PID<0.149.0> is moving to the position {14, 18}
+20:38:00.698 [info] Ant with pid #PID<0.197.0> is moving to the position {3, 14}
+20:38:00.699 [info] Ant with pid #PID<0.187.0> is moving to the position {17, 2}
+20:38:00.699 [info] Ant with pid #PID<0.189.0> is moving to the position {17, 0}
+20:38:00.699 [info] Ant with pid #PID<0.162.0> is moving to the position {14, 8}
+20:38:00.699 [info] Ant with pid #PID<0.152.0> is moving to the position {13, 2}
+20:38:00.699 [info] Ant with pid #PID<0.119.0> is moving to the position {2, 7}
+20:38:00.700 [info] Ant with pid #PID<0.125.0> is moving to the position {10, 14}
+20:38:00.700 [info] Ant with pid #PID<0.109.0> is moving to the position {11, 2}
+20:38:00.700 [info] Ant with pid #PID<0.204.0> is moving to the position {13, 14}
+20:38:00.700 [info] Ant with pid #PID<0.111.0> is moving to the position {18, 9}
+20:38:00.700 [info] Ant with pid #PID<0.191.0> is moving to the position {1, 3}
+20:38:00.700 [info] Ant with pid #PID<0.201.0> is moving to the position {13, 16}
+20:38:00.700 [info] Ant with pid #PID<0.166.0> is moving to the position {7, 16}
+20:38:00.700 [info] Ant with pid #PID<0.151.0> is moving to the position {0, 12}
+20:38:00.701 [info] Ant with pid #PID<0.198.0> is moving to the position {14, 18}
+20:38:00.701 [info] Ant with pid #PID<0.156.0> is moving to the position {14, 6}
+20:38:00.701 [info] Ant with pid #PID<0.194.0> is moving to the position {5, 9}
+20:38:00.701 [info] Ant with pid #PID<0.106.0> is moving to the position {1, 3}
+20:38:00.701 [info] Ant with pid #PID<0.107.0> is moving to the position {2, 7}
+20:38:00.701 [info] Ant with pid #PID<0.180.0> is moving to the position {7, 16}
+20:38:00.701 [info] Ant with pid #PID<0.143.0> is moving to the position {0, 12}
+20:38:00.701 [info] Ant with pid #PID<0.205.0> is moving to the position {9, 10}
+20:38:00.701 [info] Ant with pid #PID<0.193.0> is moving to the position {5, 15}
+20:38:01.705 [info] Ant with pid #PID<0.110.0> is moving to the position {1, 2}
+20:38:01.709 [info] Ant with pid #PID<0.126.0> is moving to the position {0, 3}
+20:38:01.710 [info] Ant with pid #PID<0.160.0> is moving to the position {5, 5}
+20:38:01.711 [info] Ant with pid #PID<0.142.0> is moving to the position {11, 14}
+20:38:01.713 [info] Ant with pid #PID<0.192.0> is moving to the position {14, 9}
+20:38:01.751 [info] Ant with pid #PID<0.111.0> is moving to the position {17, 9}
+20:38:01.753 [info] Ant with pid #PID<0.176.0> is moving to the position {14, 7}
+20:38:01.754 [info] Ant with pid #PID<0.191.0> is moving to the position {0, 3}
+20:38:01.818 [info] Ant with pid #PID<0.160.0> is moving to the position {5, 6}
+20:38:01.840 [info] Ant with pid #PID<0.123.0> is moving to the position {12, 9}
+20:38:01.873 [info] Ant with pid #PID<0.204.0> is moving to the position {14, 14}
+20:38:01.873 [info] Ant with pid #PID<0.187.0> is moving to the position {17, 1}
+20:38:01.914 [info] Ant with pid #PID<0.191.0> is moving to the position {19, 3}
+20:38:01.962 [info] Ant with pid #PID<0.122.0> is moving to the position {3, 15}
+20:38:01.970 [info] Ant with pid #PID<0.114.0> is moving to the position {9, 7}
+20:38:01.972 [info] Ant with pid #PID<0.124.0> is moving to the position {3, 15}
+20:38:01.974 [info] Ant with pid #PID<0.181.0> is moving to the position {0, 10}
+20:38:01.977 [info] Ant with pid #PID<0.167.0> is moving to the position {3, 15}
+20:38:01.982 [info] Ant with pid #PID<0.197.0> is moving to the position {3, 15}
+20:38:01.983 [info] Ant with pid #PID<0.128.0> is moving to the position {18, 17}
+20:38:01.984 [info] Ant with pid #PID<0.153.0> is moving to the position {3, 8}
+20:38:01.985 [info] Ant with pid #PID<0.154.0> is moving to the position {16, 14}
+20:38:01.986 [info] Ant with pid #PID<0.164.0> is moving to the position {0, 10}
+20:38:01.988 [info] Ant with pid #PID<0.136.0> is moving to the position {3, 15}
+20:38:01.989 [info] Ant with pid #PID<0.118.0> is moving to the position {16, 14}
+20:38:01.989 [info] Ant with pid #PID<0.169.0> is moving to the position {6, 9}
+20:38:01.990 [info] Ant with pid #PID<0.131.0> is moving to the position {3, 15}
+20:38:01.991 [info] Ant with pid #PID<0.189.0> is moving to the position {16, 0}
+20:38:01.993 [info] Ant with pid #PID<0.148.0> is moving to the position {16, 14}
+20:38:01.994 [info] Ant with pid #PID<0.175.0> is moving to the position {16, 0}
+20:38:01.995 [info] Ant with pid #PID<0.125.0> is moving to the position {10, 15}
+20:38:01.996 [info] Ant with pid #PID<0.113.0> is moving to the position {18, 17}
+20:38:01.997 [info] Ant with pid #PID<0.129.0> is moving to the position {6, 9}
+20:38:01.998 [info] Ant with pid #PID<0.121.0> is moving to the position {18, 17}
+20:38:01.998 [info] Ant with pid #PID<0.146.0> is moving to the position {15, 6}
+20:38:01.999 [info] Ant with pid #PID<0.168.0> is moving to the position {13, 18}
+20:38:01.999 [info] Ant with pid #PID<0.179.0> is moving to the position {13, 18}
+20:38:01.999 [info] Ant with pid #PID<0.194.0> is moving to the position {6, 10}
+20:38:01.999 [info] Ant with pid #PID<0.156.0> is moving to the position {15, 6}
+20:38:02.000 [info] Ant with pid #PID<0.144.0> is moving to the position {16, 19}
+20:38:02.000 [info] Ant with pid #PID<0.198.0> is moving to the position {13, 18}
+20:38:02.001 [info] Ant with pid #PID<0.149.0> is moving to the position {15, 17}
+20:38:02.002 [info] Ant with pid #PID<0.184.0> is moving to the position {11, 3}
+20:38:02.003 [info] Ant with pid #PID<0.145.0> is moving to the position {5, 3}
+20:38:02.004 [info] Ant with pid #PID<0.133.0> is moving to the position {16, 14}
+20:38:02.005 [info] Ant with pid #PID<0.157.0> is moving to the position {16, 16}
+20:38:02.007 [info] Ant with pid #PID<0.107.0> is moving to the position {3, 8}
+20:38:02.007 [info] Ant with pid #PID<0.109.0> is moving to the position {12, 3}
+20:38:02.010 [info] Ant with pid #PID<0.171.0> is moving to the position {8, 17}
+20:38:02.011 [info] Ant with pid #PID<0.193.0> is moving to the position {6, 16}
+20:38:02.012 [info] Ant with pid #PID<0.135.0> is moving to the position {12, 3}
+20:38:02.012 [info] Ant with pid #PID<0.195.0> is moving to the position {17, 11}
+20:38:02.015 [info] Ant with pid #PID<0.152.0> is moving to the position {12, 3}
+20:38:02.016 [info] Ant with pid #PID<0.116.0> is moving to the position {15, 4}
+20:38:02.021 [info] Ant with pid #PID<0.201.0> is moving to the position {14, 16}
+20:38:02.021 [info] Ant with pid #PID<0.177.0> is moving to the position {8, 10}
+20:38:02.022 [info] Ant with pid #PID<0.172.0> is moving to the position {1, 16}
+20:38:02.023 [info] Ant with pid #PID<0.119.0> is moving to the position {3, 8}
+20:38:02.024 [info] Ant with pid #PID<0.174.0> is moving to the position {8, 10}
+20:38:02.047 [info] Ant with pid #PID<0.176.0> is moving to the position {13, 7}
+20:38:02.053 [info] Ant with pid #PID<0.191.0> is moving to the position {18, 2}
+20:38:02.078 [info] Ant with pid #PID<0.204.0> is moving to the position {15, 15}
+20:38:02.078 [info] Ant with pid #PID<0.111.0> is moving to the position {17, 8}
+20:38:02.101 [info] Ant with pid #PID<0.110.0> is moving to the position {2, 3}
+20:38:02.101 [info] Ant with pid #PID<0.123.0> is moving to the position {12, 8}
+20:38:02.105 [info] Ant with pid #PID<0.128.0> is moving to the position {19, 18}
+20:38:02.111 [info] Ant with pid #PID<0.129.0> is moving to the position {7, 8}
+20:38:02.118 [info] Ant with pid #PID<0.113.0> is moving to the position {19, 18}
+20:38:02.119 [info] Ant with pid #PID<0.121.0> is moving to the position {19, 18}
+20:38:02.130 [info] Ant with pid #PID<0.160.0> is moving to the position {4, 6}
+20:38:02.130 [info] Ant with pid #PID<0.181.0> is moving to the position {0, 9}
+20:38:02.134 [info] Ant with pid #PID<0.167.0> is moving to the position {4, 16}
+20:38:02.140 [info] Ant with pid #PID<0.197.0> is moving to the position {4, 16}
+20:38:02.142 [info] Ant with pid #PID<0.149.0> is moving to the position {16, 17}
+20:38:02.142 [info] Ant with pid #PID<0.164.0> is moving to the position {0, 9}
+20:38:02.155 [info] Ant with pid #PID<0.115.0> is moving to the position {4, 3}
+20:38:02.160 [info] Ant with pid #PID<0.184.0> is moving to the position {10, 4}
+20:38:02.181 [info] Ant with pid #PID<0.112.0> is moving to the position {9, 17}
+20:38:02.200 [info] Ant with pid #PID<0.172.0> is moving to the position {0, 15}
+20:38:02.248 [info] Ant with pid #PID<0.129.0> is moving to the position {7, 7}
+20:38:02.303 [info] Ant with pid #PID<0.186.0> is moving to the position {3, 16}
+20:38:02.306 [info] Ant with pid #PID<0.168.0> is moving to the position {12, 17}
+20:38:02.308 [info] Ant with pid #PID<0.198.0> is moving to the position {12, 17}
+20:38:02.317 [info] Ant with pid #PID<0.123.0> is moving to the position {13, 9}
+20:38:02.318 [info] Ant with pid #PID<0.112.0> is moving to the position {10, 16}
+20:38:02.339 [info] Ant with pid #PID<0.195.0> is moving to the position {17, 10}
+20:38:02.355 [info] Ant with pid #PID<0.181.0> is moving to the position {1, 10}
+20:38:02.371 [info] Ant with pid #PID<0.164.0> is moving to the position {1, 10}
+20:38:02.399 [info] Ant with pid #PID<0.111.0> is moving to the position {16, 7}
+20:38:02.427 [info] Ant with pid #PID<0.110.0> is moving to the position {3, 2}
+20:38:02.456 [info] Ant with pid #PID<0.194.0> is moving to the position {7, 10}
+20:38:02.461 [info] Ant with pid #PID<0.128.0> is moving to the position {19, 19}
+20:38:02.462 [info] Ant with pid #PID<0.146.0> is moving to the position {16, 6}
+20:38:02.462 [info] Ant with pid #PID<0.156.0> is moving to the position {16, 6}
+20:38:02.479 [info] Ant with pid #PID<0.203.0> is moving to the position {12, 18}
+20:38:02.482 [info] Ant with pid #PID<0.113.0> is moving to the position {19, 19}
+20:38:02.483 [info] Ant with pid #PID<0.121.0> is moving to the position {19, 19}
+20:38:02.514 [info] Ant with pid #PID<0.176.0> is moving to the position {12, 7}
+20:38:02.564 [info] Ant with pid #PID<0.172.0> is moving to the position {19, 15}
+20:38:02.580 [info] Ant with pid #PID<0.195.0> is moving to the position {16, 9}
+20:38:02.602 [info] Ant with pid #PID<0.186.0> is moving to the position {2, 16}
+20:38:02.603 [info] Ant with pid #PID<0.181.0> is moving to the position {1, 9}
+20:38:02.605 [info] Ant with pid #PID<0.160.0> is moving to the position {4, 7}
+20:38:02.616 [info] Ant with pid #PID<0.164.0> is moving to the position {1, 9}
+20:38:02.637 [info] Ant with pid #PID<0.115.0> is moving to the position {3, 3}
+20:38:02.719 [info] Ant with pid #PID<0.186.0> is moving to the position {2, 17}
+20:38:02.758 [info] Ant with pid #PID<0.134.0> is moving to the position {8, 7}
+20:38:02.766 [info] Ant with pid #PID<0.112.0> is moving to the position {10, 17}
+20:38:02.812 [info] Ant with pid #PID<0.143.0> is moving to the position {19, 12}
+20:38:02.816 [info] Ant with pid #PID<0.141.0> is moving to the position {19, 12}
+20:38:02.822 [info] Ant with pid #PID<0.114.0> is moving to the position {8, 6}
+20:38:02.824 [info] Ant with pid #PID<0.138.0> is moving to the position {19, 12}
+20:38:02.827 [info] Ant with pid #PID<0.151.0> is moving to the position {19, 12}
+20:38:02.830 [info] Ant with pid #PID<0.123.0> is moving to the position {12, 10}
+20:38:02.857 [info] Ant with pid #PID<0.153.0> is moving to the position {3, 9}
+20:38:02.862 [info] Ant with pid #PID<0.125.0> is moving to the position {11, 16}
+20:38:02.864 [info] Ant with pid #PID<0.175.0> is moving to the position {15, 0}
+20:38:02.864 [info] Ant with pid #PID<0.154.0> is moving to the position {17, 13}
+20:38:02.865 [info] Ant with pid #PID<0.189.0> is moving to the position {15, 0}
+20:38:02.875 [info] Ant with pid #PID<0.148.0> is moving to the position {17, 13}
+20:38:02.876 [info] Ant with pid #PID<0.118.0> is moving to the position {17, 13}
+20:38:02.877 [info] Ant with pid #PID<0.107.0> is moving to the position {3, 9}
+20:38:02.880 [info] Ant with pid #PID<0.145.0> is moving to the position {4, 4}
+20:38:02.890 [info] Ant with pid #PID<0.116.0> is moving to the position {16, 5}
+20:38:02.899 [info] Ant with pid #PID<0.171.0> is moving to the position {7, 18}
+20:38:02.900 [info] Ant with pid #PID<0.119.0> is moving to the position {2, 9}
+20:38:02.903 [info] Ant with pid #PID<0.186.0> is moving to the position {1, 17}
+20:38:02.910 [info] Ant with pid #PID<0.126.0> is moving to the position {19, 2}
+20:38:02.913 [info] Ant with pid #PID<0.197.0> is moving to the position {5, 16}
+20:38:02.914 [info] Ant with pid #PID<0.167.0> is moving to the position {5, 16}
+20:38:02.915 [info] Ant with pid #PID<0.112.0> is moving to the position {11, 17}
+20:38:02.921 [info] Ant with pid #PID<0.142.0> is moving to the position {12, 15}
+20:38:02.927 [info] Ant with pid #PID<0.192.0> is moving to the position {15, 10}
+20:38:02.929 [info] Ant with pid #PID<0.205.0> is moving to the position {10, 11}
+20:38:02.936 [info] Ant with pid #PID<0.128.0> is moving to the position {0, 18}
+20:38:02.939 [info] Ant with pid #PID<0.156.0> is moving to the position {17, 7}
+20:38:02.942 [info] Ant with pid #PID<0.146.0> is moving to the position {17, 7}
+20:38:02.945 [info] Ant with pid #PID<0.123.0> is moving to the position {11, 10}
+20:38:02.946 [info] Ant with pid #PID<0.182.0> is moving to the position {8, 9}
+20:38:02.950 [info] Ant with pid #PID<0.206.0> is moving to the position {7, 3}
+20:38:02.952 [info] Ant with pid #PID<0.120.0> is moving to the position {11, 6}
+20:38:02.955 [info] Ant with pid #PID<0.113.0> is moving to the position {0, 18}
+20:38:02.956 [info] Ant with pid #PID<0.127.0> is moving to the position {11, 6}
+20:38:02.956 [info] Ant with pid #PID<0.132.0> is moving to the position {11, 6}
+20:38:02.957 [info] Ant with pid #PID<0.121.0> is moving to the position {0, 18}
+20:38:02.958 [info] Ant with pid #PID<0.139.0> is moving to the position {11, 5}
+20:38:02.960 [info] Ant with pid #PID<0.130.0> is moving to the position {15, 2}
+20:38:02.962 [info] Ant with pid #PID<0.143.0> is moving to the position {18, 13}
+20:38:02.967 [info] Ant with pid #PID<0.141.0> is moving to the position {18, 13}
+20:38:02.969 [info] Ant with pid #PID<0.183.0> is moving to the position {8, 8}
+20:38:02.972 [info] Ant with pid #PID<0.203.0> is moving to the position {11, 17}
+20:38:02.973 [info] Ant with pid #PID<0.138.0> is moving to the position {18, 13}
+20:38:02.978 [info] Ant with pid #PID<0.151.0> is moving to the position {18, 13}
+20:38:02.983 [info] Ant with pid #PID<0.176.0> is moving to the position {13, 6}
+20:38:02.983 [info] Ant with pid #PID<0.106.0> is moving to the position {2, 4}
+20:38:03.006 [info] Ant with pid #PID<0.193.0> is moving to the position {7, 15}
+20:38:03.010 [info] Ant with pid #PID<0.206.0> is moving to the position {8, 2}
+20:38:03.017 [info] Ant with pid #PID<0.174.0> is moving to the position {9, 11}
+20:38:03.017 [info] Ant with pid #PID<0.153.0> is moving to the position {2, 10}
+20:38:03.019 [info] Ant with pid #PID<0.179.0> is moving to the position {13, 19}
+20:38:03.022 [info] Ant with pid #PID<0.177.0> is moving to the position {7, 9}
+20:38:03.026 [info] Ant with pid #PID<0.175.0> is moving to the position {15, 1}
+20:38:03.026 [info] Ant with pid #PID<0.172.0> is moving to the position {18, 14}
+20:38:03.027 [info] Ant with pid #PID<0.126.0> is moving to the position {0, 1}
+20:38:03.027 [info] Ant with pid #PID<0.143.0> is moving to the position {19, 14}
+20:38:03.028 [info] Ant with pid #PID<0.145.0> is moving to the position {3, 4}
+20:38:03.029 [info] Ant with pid #PID<0.154.0> is moving to the position {18, 14}
+20:38:03.029 [info] Ant with pid #PID<0.141.0> is moving to the position {19, 14}
+20:38:03.029 [info] Ant with pid #PID<0.109.0> is moving to the position {12, 4}
+20:38:03.031 [info] Ant with pid #PID<0.189.0> is moving to the position {15, 1}
+20:38:03.031 [info] Ant with pid #PID<0.191.0> is moving to the position {18, 1}
+20:38:03.032 [info] Ant with pid #PID<0.201.0> is moving to the position {15, 16}
+20:38:03.035 [info] Ant with pid #PID<0.138.0> is moving to the position {18, 14}
+20:38:03.037 [info] Ant with pid #PID<0.135.0> is moving to the position {12, 4}
+20:38:03.037 [info] Ant with pid #PID<0.152.0> is moving to the position {12, 4}
+20:38:03.039 [info] Ant with pid #PID<0.148.0> is moving to the position {18, 14}
+20:38:03.040 [info] Ant with pid #PID<0.160.0> is moving to the position {3, 6}
+20:38:03.041 [info] Ant with pid #PID<0.151.0> is moving to the position {17, 12}
+20:38:03.042 [info] Ant with pid #PID<0.112.0> is moving to the position {12, 16}
+20:38:03.042 [info] Ant with pid #PID<0.118.0> is moving to the position {18, 14}
+20:38:03.042 [info] Ant with pid #PID<0.107.0> is moving to the position {2, 10}
+20:38:03.045 [info] Ant with pid #PID<0.125.0> is moving to the position {12, 16}
+20:38:03.046 [info] Ant with pid #PID<0.181.0> is moving to the position {0, 8}
+20:38:03.047 [info] Ant with pid #PID<0.157.0> is moving to the position {15, 16}
+20:38:03.056 [info] Ant with pid #PID<0.164.0> is moving to the position {0, 8}
+20:38:03.064 [info] Ant with pid #PID<0.119.0> is moving to the position {1, 8}
+20:38:03.067 [info] Ant with pid #PID<0.116.0> is moving to the position {16, 4}
+20:38:03.077 [info] Ant with pid #PID<0.153.0> is moving to the position {3, 11}
+20:38:03.081 [info] Ant with pid #PID<0.205.0> is moving to the position {9, 11}
+20:38:03.082 [info] Ant with pid #PID<0.184.0> is moving to the position {11, 4}
+20:38:03.083 [info] Ant with pid #PID<0.142.0> is moving to the position {12, 14}
+20:38:03.085 [info] Ant with pid #PID<0.175.0> is moving to the position {14, 2}
+20:38:03.087 [info] Ant with pid #PID<0.197.0> is moving to the position {5, 17}
+20:38:03.089 [info] Ant with pid #PID<0.171.0> is moving to the position {8, 18}
+20:38:03.089 [info] Ant with pid #PID<0.145.0> is moving to the position {3, 5}
+20:38:03.090 [info] Ant with pid #PID<0.167.0> is moving to the position {5, 17}
+20:38:03.091 [info] Ant with pid #PID<0.189.0> is moving to the position {14, 2}
+20:38:03.094 [info] Ant with pid #PID<0.128.0> is moving to the position {0, 19}
+20:38:03.094 [info] Ant with pid #PID<0.203.0> is moving to the position {10, 18}
+20:38:03.097 [info] Ant with pid #PID<0.156.0> is moving to the position {17, 6}
+20:38:03.098 [info] Ant with pid #PID<0.112.0> is moving to the position {13, 15}
+20:38:03.099 [info] Ant with pid #PID<0.107.0> is moving to the position {3, 10}
+20:38:03.100 [info] Ant with pid #PID<0.146.0> is moving to the position {17, 6}
+20:38:03.109 [info] Ant with pid #PID<0.113.0> is moving to the position {0, 19}
+20:38:03.112 [info] Ant with pid #PID<0.139.0> is moving to the position {11, 4}
+20:38:03.113 [info] Ant with pid #PID<0.121.0> is moving to the position {0, 19}
+20:38:03.114 [info] Ant with pid #PID<0.130.0> is moving to the position {16, 3}
+20:38:03.118 [info] Ant with pid #PID<0.192.0> is moving to the position {16, 10}
+20:38:03.121 [info] Ant with pid #PID<0.119.0> is moving to the position {1, 7}
+20:38:03.123 [info] Ant with pid #PID<0.116.0> is moving to the position {17, 5}
+20:38:03.132 [info] Ant with pid #PID<0.176.0> is moving to the position {12, 6}
+20:38:03.132 [info] Ant with pid #PID<0.106.0> is moving to the position {3, 5}
+20:38:03.139 [info] Ant with pid #PID<0.142.0> is moving to the position {13, 13}
+20:38:03.142 [info] Ant with pid #PID<0.110.0> is moving to the position {4, 1}
+20:38:03.143 [info] Ant with pid #PID<0.171.0> is moving to the position {9, 19}
+20:38:03.146 [info] Ant with pid #PID<0.128.0> is moving to the position {1, 0}
+20:38:03.149 [info] Ant with pid #PID<0.156.0> is moving to the position {18, 7}
+20:38:03.150 [info] Ant with pid #PID<0.146.0> is moving to the position {18, 7}
+20:38:03.153 [info] Ant with pid #PID<0.160.0> is moving to the position {2, 5}
+20:38:03.154 [info] Ant with pid #PID<0.193.0> is moving to the position {6, 14}
+20:38:03.154 [info] Ant with pid #PID<0.175.0> is moving to the position {14, 1}
+20:38:03.159 [info] Ant with pid #PID<0.189.0> is moving to the position {14, 1}
+20:38:03.160 [info] Ant with pid #PID<0.109.0> is moving to the position {12, 5}
+20:38:03.160 [info] Ant with pid #PID<0.141.0> is moving to the position {0, 13}
+20:38:03.160 [info] Ant with pid #PID<0.113.0> is moving to the position {1, 19}
+20:38:03.161 [info] Ant with pid #PID<0.143.0> is moving to the position {0, 13}
+20:38:03.164 [info] Ant with pid #PID<0.174.0> is moving to the position {8, 12}
+20:38:03.165 [info] Ant with pid #PID<0.126.0> is moving to the position {1, 1}
+20:38:03.165 [info] Ant with pid #PID<0.121.0> is moving to the position {1, 19}
+20:38:03.165 [info] Ant with pid #PID<0.205.0> is moving to the position {8, 12}
+20:38:03.169 [info] Ant with pid #PID<0.151.0> is moving to the position {16, 12}
+20:38:03.169 [info] Ant with pid #PID<0.135.0> is moving to the position {12, 5}
+20:38:03.171 [info] Ant with pid #PID<0.152.0> is moving to the position {12, 5}
+20:38:03.172 [info] Ant with pid #PID<0.206.0> is moving to the position {9, 1}
+20:38:03.173 [info] Ant with pid #PID<0.192.0> is moving to the position {16, 11}
+20:38:03.179 [info] Ant with pid #PID<0.179.0> is moving to the position {14, 0}
+20:38:03.184 [info] Ant with pid #PID<0.181.0> is moving to the position {19, 8}
+20:38:03.186 [info] Ant with pid #PID<0.191.0> is moving to the position {19, 1}
+20:38:03.188 [info] Ant with pid #PID<0.176.0> is moving to the position {13, 5}
+20:38:03.195 [info] Ant with pid #PID<0.164.0> is moving to the position {19, 8}
+20:38:03.195 [info] Ant with pid #PID<0.203.0> is moving to the position {10, 19}
+20:38:03.208 [info] Ant with pid #PID<0.160.0> is moving to the position {1, 6}
+20:38:03.208 [info] Ant with pid #PID<0.153.0> is moving to the position {4, 10}
+20:38:03.218 [info] Ant with pid #PID<0.126.0> is moving to the position {2, 1}
+20:38:03.224 [info] Ant with pid #PID<0.206.0> is moving to the position {10, 0}
+20:38:03.236 [info] Ant with pid #PID<0.181.0> is moving to the position {0, 7}
+20:38:03.236 [info] Ant with pid #PID<0.107.0> is moving to the position {4, 10}
+20:38:03.239 [info] Ant with pid #PID<0.175.0> is moving to the position {13, 1}
+20:38:03.240 [info] Ant with pid #PID<0.197.0> is moving to the position {4, 17}
+20:38:03.241 [info] Ant with pid #PID<0.142.0> is moving to the position {14, 12}
+20:38:03.241 [info] Ant with pid #PID<0.167.0> is moving to the position {4, 17}
+20:38:03.247 [info] Ant with pid #PID<0.164.0> is moving to the position {19, 7}
+20:38:03.247 [info] Ant with pid #PID<0.189.0> is moving to the position {13, 1}
+20:38:03.255 [info] Ant with pid #PID<0.119.0> is moving to the position {1, 6}
+20:38:03.274 [info] Ant with pid #PID<0.171.0> is moving to the position {10, 19}
+20:38:03.274 [info] Ant with pid #PID<0.116.0> is moving to the position {17, 4}
+20:38:03.274 [info] Ant with pid #PID<0.123.0> is moving to the position {12, 11}
+20:38:03.276 [info] Ant with pid #PID<0.192.0> is moving to the position {15, 11}
+20:38:03.282 [info] Ant with pid #PID<0.128.0> is moving to the position {0, 0}
+20:38:03.285 [info] Ant with pid #PID<0.110.0> is moving to the position {3, 1}
+20:38:03.286 [info] Ant with pid #PID<0.156.0> is moving to the position {18, 6}
+20:38:03.288 [info] Ant with pid #PID<0.146.0> is moving to the position {18, 6}
+20:38:03.289 [info] Ant with pid #PID<0.175.0> is moving to the position {13, 0}
+20:38:03.291 [info] Ant with pid #PID<0.203.0> is moving to the position {11, 19}
+20:38:03.292 [info] Ant with pid #PID<0.153.0> is moving to the position {4, 11}
+20:38:03.297 [info] Ant with pid #PID<0.186.0> is moving to the position {1, 18}
+20:38:03.298 [info] Ant with pid #PID<0.189.0> is moving to the position {13, 0}
+20:38:03.298 [info] Ant with pid #PID<0.119.0> is moving to the position {1, 5}
+20:38:03.303 [info] Ant with pid #PID<0.160.0> is moving to the position {0, 7}
+20:38:03.310 [info] Ant with pid #PID<0.191.0> is moving to the position {19, 0}
+20:38:03.315 [info] Ant with pid #PID<0.113.0> is moving to the position {0, 0}
+20:38:03.316 [info] Ant with pid #PID<0.121.0> is moving to the position {0, 0}
+20:38:03.330 [info] Ant with pid #PID<0.171.0> is moving to the position {9, 0}
+20:38:03.332 [info] Ant with pid #PID<0.206.0> is moving to the position {11, 19}
+20:38:03.337 [info] Ant with pid #PID<0.142.0> is moving to the position {13, 12}
+20:38:03.361 [info] Ant with pid #PID<0.181.0> is moving to the position {0, 6}
+20:38:03.364 [info] Ant with pid #PID<0.110.0> is moving to the position {2, 0}
+20:38:03.367 [info] Ant with pid #PID<0.186.0> is moving to the position {2, 18}
+20:38:03.371 [info] Ant with pid #PID<0.164.0> is moving to the position {0, 6}
+20:38:03.390 [info] Ant with pid #PID<0.160.0> is moving to the position {19, 6}
+20:38:03.415 [info] Ant with pid #PID<0.181.0> is moving to the position {0, 5}
+20:38:03.422 [info] Ant with pid #PID<0.123.0> is moving to the position {13, 11}
+20:38:03.437 [info] Ant with pid #PID<0.205.0> is moving to the position {9, 12}
+20:38:03.441 [info] Ant with pid #PID<0.174.0> is moving to the position {9, 12}
+20:38:03.475 [info] Ant with pid #PID<0.123.0> is moving to the position {14, 11}
+20:38:03.487 [info] Ant with pid #PID<0.203.0> is moving to the position {12, 19}
+20:38:03.519 [info] Ant with pid #PID<0.192.0> is moving to the position {14, 10}
+20:38:03.561 [info] Ant with pid #PID<0.153.0> is moving to the position {4, 12}
+20:38:03.567 [info] Ant with pid #PID<0.193.0> is moving to the position {7, 14}
+20:38:03.571 [info] Ant with pid #PID<0.181.0> is moving to the position {19, 5}
+20:38:03.573 [info] Ant with pid #PID<0.141.0> is moving to the position {0, 14}
+20:38:03.584 [info] Ant with pid #PID<0.143.0> is moving to the position {0, 14}
+20:38:03.647 [info] Ant with pid #PID<0.181.0> is moving to the position {19, 4}
+20:38:03.648 [info] Ant with pid #PID<0.205.0> is moving to the position {8, 13}
+20:38:03.657 [info] Ant with pid #PID<0.174.0> is moving to the position {8, 13}
+20:38:03.663 [info] Ant with pid #PID<0.167.0> is moving to the position {3, 18}
+20:38:03.667 [info] Ant with pid #PID<0.197.0> is moving to the position {3, 18}
+20:38:03.678 [info] Ant with pid #PID<0.186.0> is moving to the position {3, 18}
+20:38:03.693 [info] Ant with pid #PID<0.156.0> is moving to the position {18, 5}
+20:38:03.693 [info] Ant with pid #PID<0.146.0> is moving to the position {18, 5}
+20:38:03.698 [info] Ant with pid #PID<0.116.0> is moving to the position {18, 5}
+20:38:03.745 [info] Ant with pid #PID<0.171.0> is moving to the position {8, 19}
+20:38:03.756 [info] Ant with pid #PID<0.141.0> is moving to the position {1, 13}
+20:38:03.768 [info] Ant with pid #PID<0.143.0> is moving to the position {1, 13}
+20:38:03.769 [info] Ant with pid #PID<0.153.0> is moving to the position {3, 12}
+20:38:03.771 [info] Ant with pid #PID<0.193.0> is moving to the position {7, 13}
+20:38:03.788 [info] Ant with pid #PID<0.110.0> is moving to the position {3, 0}
+20:38:03.798 [info] Ant with pid #PID<0.175.0> is moving to the position {12, 0}
+20:38:03.807 [info] Ant with pid #PID<0.189.0> is moving to the position {12, 0}
+20:38:03.819 [info] Ant with pid #PID<0.181.0> is moving to the position {18, 3}
+20:38:03.821 [info] Ant with pid #PID<0.107.0> is moving to the position {5, 11}
+20:38:03.827 [info] Ant with pid #PID<0.186.0> is moving to the position {4, 18}
+20:38:03.851 [info] Ant with pid #PID<0.205.0> is moving to the position {8, 14}
+20:38:03.862 [info] Ant with pid #PID<0.174.0> is moving to the position {8, 14}
+20:38:03.874 [info] Ant with pid #PID<0.156.0> is moving to the position {18, 4}
+20:38:03.876 [info] Ant with pid #PID<0.146.0> is moving to the position {18, 4}
+20:38:03.878 [info] Ant with pid #PID<0.167.0> is moving to the position {4, 18}
+20:38:03.878 [info] Ant with pid #PID<0.186.0> is moving to the position {5, 19}
+20:38:03.881 [info] Ant with pid #PID<0.197.0> is moving to the position {4, 18}
+20:38:03.883 [info] Ant with pid #PID<0.116.0> is moving to the position {18, 4}
+20:38:03.888 [info] Ant with pid #PID<0.193.0> is moving to the position {8, 14}
+20:38:03.912 [info] Ant with pid #PID<0.175.0> is moving to the position {11, 0}
+20:38:03.921 [info] Ant with pid #PID<0.107.0> is moving to the position {5, 12}
+20:38:03.923 [info] Ant with pid #PID<0.189.0> is moving to the position {11, 0}
+20:38:03.941 [info] Ant with pid #PID<0.171.0> is moving to the position {8, 0}
+20:38:03.953 [info] Ant with pid #PID<0.153.0> is moving to the position {2, 11}
+20:38:03.984 [info] Ant with pid #PID<0.167.0> is moving to the position {5, 18}
+20:38:03.985 [info] Ant with pid #PID<0.197.0> is moving to the position {5, 18}
+20:38:03.997 [info] Ant with pid #PID<0.110.0> is moving to the position {2, 19}
+20:38:04.012 [info] Ant with pid #PID<0.186.0> is moving to the position {6, 18}
+20:38:04.067 [info] Ant with pid #PID<0.171.0> is moving to the position {8, 1}
+20:38:04.074 [info] Ant with pid #PID<0.110.0> is moving to the position {3, 19}
+20:38:04.284 [info] Ant with pid #PID<0.110.0> is moving to the position {4, 0}
+20:38:04.519 [info] Ant with pid #PID<0.110.0> is moving to the position {4, 19}
+20:38:04.679 [info] Ant with pid #PID<0.110.0> is moving to the position {5, 0}
+20:38:04.776 [info] Ant with pid #PID<0.110.0> is moving to the position {5, 1}
+20:38:04.958 [info] Ant with pid #PID<0.110.0> is moving to the position {5, 2}
+20:38:06.120 [info] Ant with pid #PID<0.141.0> is moving to the position {1, 12}
+20:38:06.150 [info] Ant with pid #PID<0.143.0> is moving to the position {2, 12}
+20:38:06.202 [info] Ant with pid #PID<0.107.0> is moving to the position {6, 12}
+20:38:06.205 [info] Ant with pid #PID<0.171.0> is moving to the position {7, 2}
+20:38:06.221 [info] Ant with pid #PID<0.175.0> is moving to the position {12, 1}
+20:38:06.237 [info] Ant with pid #PID<0.189.0> is moving to the position {12, 1}
+20:38:06.294 [info] Ant with pid #PID<0.107.0> is moving to the position {6, 13}
+20:38:06.376 [info] Ant with pid #PID<0.171.0> is moving to the position {7, 1}
+20:38:06.392 [info] Ant with pid #PID<0.175.0> is moving to the position {11, 1}
+20:38:06.420 [info] Ant with pid #PID<0.189.0> is moving to the position {11, 1}
+20:38:06.435 [info] Ant with pid #PID<0.110.0> is moving to the position {6, 3}
+20:38:06.496 [info] Ant with pid #PID<0.171.0> is moving to the position {7, 0}
+20:38:06.619 [info] Ant with pid #PID<0.110.0> is moving to the position {6, 2}
+20:38:06.726 [info] Ant with pid #PID<0.110.0> is moving to the position {6, 1}
+20:38:06.795 [info] Ant with pid #PID<0.171.0> is moving to the position {7, 19}
+20:38:07.037 [info] Ant with pid #PID<0.110.0> is moving to the position {6, 0}
+20:38:07.116 [info] Ant with pid #PID<0.110.0> is moving to the position {6, 19}
+20:38:07.678 [info] Ant with pid #PID<0.205.0> is moving to the position {9, 14}
+20:38:07.697 [info] Ant with pid #PID<0.193.0> is moving to the position {9, 14}
+20:38:07.705 [info] Ant with pid #PID<0.174.0> is moving to the position {9, 13}
+20:38:07.790 [info] Ant with pid #PID<0.205.0> is moving to the position {10, 13}
+20:38:07.806 [info] Ant with pid #PID<0.193.0> is moving to the position {10, 13}
+20:38:07.812 [info] Ant with pid #PID<0.174.0> is moving to the position {10, 12}
+20:38:07.857 [info] Ant with pid #PID<0.142.0> is moving to the position {12, 12}
+20:38:07.882 [info] Ant with pid #PID<0.205.0> is moving to the position {11, 12}
+20:38:07.917 [info] Ant with pid #PID<0.205.0> is moving to the position {11, 11}

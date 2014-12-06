@@ -1,0 +1,1193 @@
+19:38:20.691 [info] Ant with pid #PID<0.106.0> has the data [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.04166666666666667]
+19:38:20.691 [info] Ant with pid #PID<0.107.0> has the data [0.1666666666666668, 0.41666666666666663, 0.06779661016949151, 0.04166666666666667]
+19:38:20.691 [info] Ant with pid #PID<0.109.0> has the data [0.11111111111111119, 0.5, 0.05084745762711865, 0.04166666666666667]
+19:38:20.692 [info] Ant with pid #PID<0.110.0> has the data [0.08333333333333327, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]
+19:38:20.692 [info] Ant with pid #PID<0.111.0> has the data [0.19444444444444448, 0.6666666666666666, 0.06779661016949151, 0.04166666666666667]
+19:38:20.692 [info] Ant with pid #PID<0.112.0> has the data [0.30555555555555564, 0.7916666666666665, 0.11864406779661016, 0.12500000000000003]
+19:38:20.692 [info] Ant with pid #PID<0.113.0> has the data [0.08333333333333327, 0.5833333333333333, 0.06779661016949151, 0.08333333333333333]
+19:38:20.692 [info] Ant with pid #PID<0.114.0> has the data [0.19444444444444448, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]
+19:38:20.692 [info] Ant with pid #PID<0.115.0> has the data [0.027777777777777922, 0.3749999999999999, 0.06779661016949151, 0.04166666666666667]
+19:38:20.692 [info] Ant with pid #PID<0.116.0> has the data [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.0]
+19:38:20.693 [info] Ant with pid #PID<0.117.0> has the data [0.30555555555555564, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]
+19:38:20.693 [info] Ant with pid #PID<0.118.0> has the data [0.13888888888888887, 0.5833333333333333, 0.1016949152542373, 0.04166666666666667]
+19:38:20.693 [info] Ant with pid #PID<0.119.0> has the data [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.0]
+19:38:20.693 [info] Ant with pid #PID<0.120.0> has the data [0.0, 0.41666666666666663, 0.016949152542372895, 0.0]
+19:38:20.693 [info] Ant with pid #PID<0.121.0> has the data [0.41666666666666663, 0.8333333333333333, 0.033898305084745756, 0.04166666666666667]
+19:38:20.693 [info] Ant with pid #PID<0.122.0> has the data [0.38888888888888895, 1.0, 0.0847457627118644, 0.12500000000000003]
+19:38:20.693 [info] Ant with pid #PID<0.123.0> has the data [0.30555555555555564, 0.7916666666666665, 0.05084745762711865, 0.12500000000000003]
+19:38:20.693 [info] Ant with pid #PID<0.124.0> has the data [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.08333333333333333]
+19:38:20.694 [info] Ant with pid #PID<0.125.0> has the data [0.38888888888888895, 0.7499999999999998, 0.11864406779661016, 0.08333333333333333]
+19:38:20.694 [info] Ant with pid #PID<0.126.0> has the data [0.22222222222222213, 0.7499999999999998, 0.0847457627118644, 0.08333333333333333]
+19:38:20.694 [info] Ant with pid #PID<0.127.0> has the data [0.30555555555555564, 0.5833333333333333, 0.11864406779661016, 0.04166666666666667]
+19:38:20.694 [info] Ant with pid #PID<0.128.0> has the data [0.22222222222222213, 0.7083333333333333, 0.0847457627118644, 0.12500000000000003]
+19:38:20.694 [info] Ant with pid #PID<0.129.0> has the data [0.08333333333333327, 0.6666666666666666, 0.0, 0.04166666666666667]
+19:38:20.694 [info] Ant with pid #PID<0.130.0> has the data [0.22222222222222213, 0.5416666666666665, 0.11864406779661016, 0.16666666666666669]
+19:38:20.694 [info] Ant with pid #PID<0.131.0> has the data [0.13888888888888887, 0.5833333333333333, 0.15254237288135591, 0.04166666666666667]
+19:38:20.694 [info] Ant with pid #PID<0.132.0> has the data [0.19444444444444448, 0.41666666666666663, 0.1016949152542373, 0.04166666666666667]
+19:38:20.695 [info] Ant with pid #PID<0.133.0> has the data [0.19444444444444448, 0.5833333333333333, 0.1016949152542373, 0.12500000000000003]
+19:38:20.695 [info] Ant with pid #PID<0.134.0> has the data [0.25000000000000006, 0.6249999999999999, 0.0847457627118644, 0.04166666666666667]
+19:38:20.695 [info] Ant with pid #PID<0.135.0> has the data [0.25000000000000006, 0.5833333333333333, 0.06779661016949151, 0.04166666666666667]
+19:38:20.695 [info] Ant with pid #PID<0.136.0> has the data [0.11111111111111119, 0.5, 0.1016949152542373, 0.04166666666666667]
+19:38:20.695 [info] Ant with pid #PID<0.137.0> has the data [0.13888888888888887, 0.4583333333333333, 0.1016949152542373, 0.04166666666666667]
+19:38:20.695 [info] Ant with pid #PID<0.138.0> has the data [0.30555555555555564, 0.5833333333333333, 0.0847457627118644, 0.12500000000000003]
+19:38:20.695 [info] Ant with pid #PID<0.139.0> has the data [0.25000000000000006, 0.8749999999999998, 0.0847457627118644, 0.0]
+19:38:20.695 [info] Ant with pid #PID<0.140.0> has the data [0.3333333333333333, 0.9166666666666666, 0.06779661016949151, 0.04166666666666667]
+19:38:20.695 [info] Ant with pid #PID<0.141.0> has the data [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]
+19:38:20.696 [info] Ant with pid #PID<0.142.0> has the data [0.19444444444444448, 0.5, 0.033898305084745756, 0.04166666666666667]
+19:38:20.696 [info] Ant with pid #PID<0.143.0> has the data [0.3333333333333333, 0.6249999999999999, 0.05084745762711865, 0.04166666666666667]
+19:38:20.696 [info] Ant with pid #PID<0.144.0> has the data [0.1666666666666668, 0.6666666666666666, 0.06779661016949151, 0.0]
+19:38:20.696 [info] Ant with pid #PID<0.145.0> has the data [0.027777777777777922, 0.41666666666666663, 0.05084745762711865, 0.04166666666666667]
+19:38:20.696 [info] Ant with pid #PID<0.146.0> has the data [0.22222222222222213, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]
+19:38:20.696 [info] Ant with pid #PID<0.147.0> has the data [0.19444444444444448, 0.6249999999999999, 0.05084745762711865, 0.08333333333333333]
+19:38:20.696 [info] Ant with pid #PID<0.148.0> has the data [0.055555555555555594, 0.1249999999999999, 0.05084745762711865, 0.08333333333333333]
+19:38:20.696 [info] Ant with pid #PID<0.149.0> has the data [0.027777777777777922, 0.5, 0.05084745762711865, 0.04166666666666667]
+19:38:20.696 [info] Ant with pid #PID<0.150.0> has the data [0.19444444444444448, 0.6249999999999999, 0.1016949152542373, 0.20833333333333334]
+19:38:20.696 [info] Ant with pid #PID<0.151.0> has the data [0.22222222222222213, 0.7499999999999998, 0.15254237288135591, 0.12500000000000003]
+19:38:20.697 [info] Ant with pid #PID<0.152.0> has the data [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.08333333333333333]
+19:38:20.697 [info] Ant with pid #PID<0.153.0> has the data [0.22222222222222213, 0.7499999999999998, 0.1016949152542373, 0.04166666666666667]
+19:38:20.697 [info] Ant with pid #PID<0.154.0> has the data [0.08333333333333327, 0.5, 0.06779661016949151, 0.04166666666666667]
+19:38:20.697 [info] Ant with pid #PID<0.155.0> has the data [0.27777777777777773, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]
+19:38:20.697 [info] Ant with pid #PID<0.156.0> has the data [0.19444444444444448, 0.5416666666666665, 0.06779661016949151, 0.04166666666666667]
+19:38:20.697 [info] Ant with pid #PID<0.157.0> has the data [0.7499999999999999, 0.5, 0.6271186440677966, 0.5416666666666666]
+19:38:20.697 [info] Ant with pid #PID<0.158.0> has the data [0.5833333333333334, 0.5, 0.5932203389830508, 0.5833333333333334]
+19:38:20.697 [info] Ant with pid #PID<0.159.0> has the data [0.7222222222222222, 0.4583333333333333, 0.6610169491525424, 0.5833333333333334]
+19:38:20.697 [info] Ant with pid #PID<0.160.0> has the data [0.3333333333333333, 0.1249999999999999, 0.5084745762711864, 0.5]
+19:38:20.698 [info] Ant with pid #PID<0.161.0> has the data [0.611111111111111, 0.3333333333333332, 0.6101694915254237, 0.5833333333333334]
+19:38:20.698 [info] Ant with pid #PID<0.162.0> has the data [0.38888888888888895, 0.3333333333333332, 0.5932203389830508, 0.5]
+19:38:20.698 [info] Ant with pid #PID<0.163.0> has the data [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625]
+19:38:20.698 [info] Ant with pid #PID<0.164.0> has the data [0.1666666666666668, 0.1666666666666666, 0.38983050847457623, 0.375]
+19:38:20.698 [info] Ant with pid #PID<0.165.0> has the data [0.6388888888888887, 0.3749999999999999, 0.6101694915254237, 0.5]
+19:38:20.698 [info] Ant with pid #PID<0.166.0> has the data [0.25000000000000006, 0.2916666666666667, 0.4915254237288135, 0.5416666666666666]
+19:38:20.698 [info] Ant with pid #PID<0.167.0> has the data [0.19444444444444448, 0.0, 0.423728813559322, 0.375]
+19:38:20.698 [info] Ant with pid #PID<0.168.0> has the data [0.44444444444444453, 0.41666666666666663, 0.5423728813559322, 0.5833333333333334]
+19:38:20.698 [info] Ant with pid #PID<0.169.0> has the data [0.4722222222222222, 0.0833333333333334, 0.5084745762711864, 0.375]
+19:38:20.699 [info] Ant with pid #PID<0.170.0> has the data [0.4999999999999999, 0.3749999999999999, 0.6271186440677966, 0.5416666666666666]
+19:38:20.699 [info] Ant with pid #PID<0.171.0> has the data [0.361111111111111, 0.3749999999999999, 0.4406779661016949, 0.5]
+19:38:20.699 [info] Ant with pid #PID<0.172.0> has the data [0.6666666666666666, 0.4583333333333333, 0.576271186440678, 0.5416666666666666]
+19:38:20.699 [info] Ant with pid #PID<0.173.0> has the data [0.361111111111111, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]
+19:38:20.699 [info] Ant with pid #PID<0.174.0> has the data [0.41666666666666663, 0.2916666666666667, 0.5254237288135593, 0.375]
+19:38:20.699 [info] Ant with pid #PID<0.175.0> has the data [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334]
+19:38:20.699 [info] Ant with pid #PID<0.176.0> has the data [0.361111111111111, 0.20833333333333331, 0.4915254237288135, 0.4166666666666667]
+19:38:20.699 [info] Ant with pid #PID<0.177.0> has the data [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334]
+19:38:20.699 [info] Ant with pid #PID<0.178.0> has the data [0.4999999999999999, 0.3333333333333332, 0.5084745762711864, 0.5]
+19:38:20.700 [info] Ant with pid #PID<0.179.0> has the data [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334]
+19:38:20.700 [info] Ant with pid #PID<0.180.0> has the data [0.4999999999999999, 0.3333333333333332, 0.6271186440677966, 0.4583333333333333]
+19:38:20.700 [info] Ant with pid #PID<0.181.0> has the data [0.5833333333333334, 0.3749999999999999, 0.559322033898305, 0.5]
+19:38:20.700 [info] Ant with pid #PID<0.182.0> has the data [0.6388888888888887, 0.41666666666666663, 0.576271186440678, 0.5416666666666666]
+19:38:20.700 [info] Ant with pid #PID<0.183.0> has the data [0.6944444444444443, 0.3333333333333332, 0.6440677966101694, 0.5416666666666666]
+19:38:20.700 [info] Ant with pid #PID<0.184.0> has the data [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666]
+19:38:20.700 [info] Ant with pid #PID<0.185.0> has the data [0.4722222222222222, 0.3749999999999999, 0.5932203389830508, 0.5833333333333334]
+19:38:20.700 [info] Ant with pid #PID<0.186.0> has the data [0.38888888888888895, 0.25, 0.423728813559322, 0.375]
+19:38:20.701 [info] Ant with pid #PID<0.187.0> has the data [0.3333333333333333, 0.1666666666666666, 0.47457627118644063, 0.4166666666666667]
+19:38:20.701 [info] Ant with pid #PID<0.188.0> has the data [0.3333333333333333, 0.1666666666666666, 0.4576271186440678, 0.375]
+19:38:20.701 [info] Ant with pid #PID<0.189.0> has the data [0.41666666666666663, 0.2916666666666667, 0.4915254237288135, 0.4583333333333333]
+19:38:20.701 [info] Ant with pid #PID<0.190.0> has the data [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625]
+19:38:20.701 [info] Ant with pid #PID<0.191.0> has the data [0.30555555555555564, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]
+19:38:20.701 [info] Ant with pid #PID<0.192.0> has the data [0.4722222222222222, 0.5833333333333333, 0.5932203389830508, 0.625]
+19:38:20.701 [info] Ant with pid #PID<0.193.0> has the data [0.6666666666666666, 0.4583333333333333, 0.6271186440677966, 0.5833333333333334]
+19:38:20.701 [info] Ant with pid #PID<0.194.0> has the data [0.5555555555555555, 0.1249999999999999, 0.576271186440678, 0.5]
+19:38:20.701 [info] Ant with pid #PID<0.195.0> has the data [0.361111111111111, 0.41666666666666663, 0.5254237288135593, 0.5]
+19:38:20.702 [info] Ant with pid #PID<0.196.0> has the data [0.3333333333333333, 0.20833333333333331, 0.5084745762711864, 0.5]
+19:38:20.702 [info] Ant with pid #PID<0.197.0> has the data [0.3333333333333333, 0.25, 0.576271186440678, 0.4583333333333333]
+19:38:20.702 [info] Ant with pid #PID<0.198.0> has the data [0.4999999999999999, 0.41666666666666663, 0.6101694915254237, 0.5416666666666666]
+19:38:20.702 [info] Ant with pid #PID<0.199.0> has the data [0.41666666666666663, 0.25, 0.5084745762711864, 0.4583333333333333]
+19:38:20.702 [info] Ant with pid #PID<0.200.0> has the data [0.19444444444444448, 0.1249999999999999, 0.38983050847457623, 0.375]
+19:38:20.702 [info] Ant with pid #PID<0.201.0> has the data [0.361111111111111, 0.2916666666666667, 0.5423728813559322, 0.5]
+19:38:20.702 [info] Ant with pid #PID<0.202.0> has the data [0.38888888888888895, 0.41666666666666663, 0.5423728813559322, 0.4583333333333333]
+19:38:20.702 [info] Ant with pid #PID<0.203.0> has the data [0.38888888888888895, 0.3749999999999999, 0.5423728813559322, 0.5]
+19:38:20.702 [info] Ant with pid #PID<0.204.0> has the data [0.5277777777777778, 0.3749999999999999, 0.559322033898305, 0.5]
+19:38:20.703 [info] Ant with pid #PID<0.205.0> has the data [0.22222222222222213, 0.20833333333333331, 0.3389830508474576, 0.4166666666666667]
+19:38:20.703 [info] Ant with pid #PID<0.206.0> has the data [0.38888888888888895, 0.3333333333333332, 0.5254237288135593, 0.5]
+19:38:20.703 [info] Ant with pid #PID<0.207.0> has the data [0.5555555555555555, 0.5416666666666665, 0.847457627118644, 1.0]
+19:38:20.703 [info] Ant with pid #PID<0.208.0> has the data [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]
+19:38:20.703 [info] Ant with pid #PID<0.209.0> has the data [0.7777777777777776, 0.41666666666666663, 0.8305084745762712, 0.8333333333333334]
+19:38:20.703 [info] Ant with pid #PID<0.210.0> has the data [0.5555555555555555, 0.3749999999999999, 0.7796610169491525, 0.7083333333333334]
+19:38:20.703 [info] Ant with pid #PID<0.211.0> has the data [0.611111111111111, 0.41666666666666663, 0.8135593220338982, 0.8750000000000001]
+19:38:20.703 [info] Ant with pid #PID<0.212.0> has the data [0.9166666666666665, 0.41666666666666663, 0.9491525423728813, 0.8333333333333334]
+19:38:20.704 [info] Ant with pid #PID<0.213.0> has the data [0.1666666666666668, 0.20833333333333331, 0.5932203389830508, 0.6666666666666666]
+19:38:20.704 [info] Ant with pid #PID<0.214.0> has the data [0.8333333333333333, 0.3749999999999999, 0.8983050847457626, 0.7083333333333334]
+19:38:20.704 [info] Ant with pid #PID<0.215.0> has the data [0.6666666666666666, 0.20833333333333331, 0.8135593220338982, 0.7083333333333334]
+19:38:20.704 [info] Ant with pid #PID<0.216.0> has the data [0.8055555555555556, 0.6666666666666666, 0.8644067796610169, 1.0]
+19:38:20.704 [info] Ant with pid #PID<0.217.0> has the data [0.611111111111111, 0.5, 0.6949152542372881, 0.7916666666666666]
+19:38:20.704 [info] Ant with pid #PID<0.218.0> has the data [0.5833333333333334, 0.2916666666666667, 0.7288135593220338, 0.75]
+19:38:20.704 [info] Ant with pid #PID<0.219.0> has the data [0.6944444444444443, 0.41666666666666663, 0.7627118644067796, 0.8333333333333334]
+19:38:20.704 [info] Ant with pid #PID<0.220.0> has the data [0.38888888888888895, 0.20833333333333331, 0.6779661016949152, 0.7916666666666666]
+19:38:20.704 [info] Ant with pid #PID<0.221.0> has the data [0.41666666666666663, 0.3333333333333332, 0.6949152542372881, 0.9583333333333333]
+19:38:20.704 [info] Ant with pid #PID<0.222.0> has the data [0.5833333333333334, 0.5, 0.7288135593220338, 0.9166666666666666]
+19:38:20.705 [info] Ant with pid #PID<0.223.0> has the data [0.611111111111111, 0.41666666666666663, 0.7627118644067796, 0.7083333333333334]
+19:38:20.705 [info] Ant with pid #PID<0.224.0> has the data [0.9444444444444444, 0.7499999999999998, 0.9661016949152542, 0.8750000000000001]
+19:38:20.705 [info] Ant with pid #PID<0.225.0> has the data [0.9444444444444444, 0.25, 1.0, 0.9166666666666666]
+19:38:20.705 [info] Ant with pid #PID<0.226.0> has the data [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334]
+19:38:20.706 [info] Ant with pid #PID<0.227.0> has the data [0.7222222222222222, 0.5, 0.7966101694915254, 0.9166666666666666]
+19:38:20.706 [info] Ant with pid #PID<0.228.0> has the data [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666]
+19:38:20.706 [info] Ant with pid #PID<0.229.0> has the data [0.9444444444444444, 0.3333333333333332, 0.9661016949152542, 0.7916666666666666]
+19:38:20.706 [info] Ant with pid #PID<0.230.0> has the data [0.5555555555555555, 0.2916666666666667, 0.6610169491525424, 0.7083333333333334]
+19:38:20.706 [info] Ant with pid #PID<0.231.0> has the data [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 0.8333333333333334]
+19:38:20.706 [info] Ant with pid #PID<0.232.0> has the data [0.8055555555555556, 0.5, 0.847457627118644, 0.7083333333333334]
+19:38:20.706 [info] Ant with pid #PID<0.233.0> has the data [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334]
+19:38:20.707 [info] Ant with pid #PID<0.234.0> has the data [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334]
+19:38:20.707 [info] Ant with pid #PID<0.235.0> has the data [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8333333333333334]
+19:38:20.707 [info] Ant with pid #PID<0.236.0> has the data [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625]
+19:38:20.707 [info] Ant with pid #PID<0.237.0> has the data [0.8611111111111112, 0.3333333333333332, 0.8644067796610169, 0.75]
+19:38:20.707 [info] Ant with pid #PID<0.238.0> has the data [1.0, 0.7499999999999998, 0.9152542372881356, 0.7916666666666666]
+19:38:20.707 [info] Ant with pid #PID<0.239.0> has the data [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8750000000000001]
+19:38:20.707 [info] Ant with pid #PID<0.240.0> has the data [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334]
+19:38:20.707 [info] Ant with pid #PID<0.241.0> has the data [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666]
+19:38:20.708 [info] Ant with pid #PID<0.242.0> has the data [0.9444444444444444, 0.41666666666666663, 0.8644067796610169, 0.9166666666666666]
+19:38:20.708 [info] Ant with pid #PID<0.243.0> has the data [0.5555555555555555, 0.5833333333333333, 0.7796610169491525, 0.9583333333333333]
+19:38:20.708 [info] Ant with pid #PID<0.244.0> has the data [0.5833333333333334, 0.4583333333333333, 0.7627118644067796, 0.7083333333333334]
+19:38:20.708 [info] Ant with pid #PID<0.245.0> has the data [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334]
+19:38:20.708 [info] Ant with pid #PID<0.246.0> has the data [0.7222222222222222, 0.4583333333333333, 0.7457627118644068, 0.8333333333333334]
+19:38:20.708 [info] Ant with pid #PID<0.247.0> has the data [0.6666666666666666, 0.4583333333333333, 0.7796610169491525, 0.9583333333333333]
+19:38:20.709 [info] Ant with pid #PID<0.248.0> has the data [0.7222222222222222, 0.4583333333333333, 0.6949152542372881, 0.9166666666666666]
+19:38:20.709 [info] Ant with pid #PID<0.249.0> has the data [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]
+19:38:20.709 [info] Ant with pid #PID<0.250.0> has the data [0.6944444444444443, 0.5, 0.8305084745762712, 0.9166666666666666]
+19:38:20.709 [info] Ant with pid #PID<0.251.0> has the data [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 1.0]
+19:38:20.709 [info] Ant with pid #PID<0.252.0> has the data [0.6666666666666666, 0.41666666666666663, 0.711864406779661, 0.9166666666666666]
+19:38:20.709 [info] Ant with pid #PID<0.253.0> has the data [0.5555555555555555, 0.20833333333333331, 0.6779661016949152, 0.75]
+19:38:20.709 [info] Ant with pid #PID<0.254.0> has the data [0.611111111111111, 0.41666666666666663, 0.711864406779661, 0.7916666666666666]
+19:38:20.709 [info] Ant with pid #PID<0.255.0> has the data [0.5277777777777778, 0.5833333333333333, 0.7457627118644068, 0.9166666666666666]
+19:38:20.710 [info] Ant with pid #PID<0.256.0> has the data [0.44444444444444453, 0.41666666666666663, 0.6949152542372881, 0.7083333333333334]
+19:38:20.714 [info] Ant with pid #PID<0.106.0> is put on the position {5, 4}
+19:38:20.714 [info] Ant with pid #PID<0.107.0> is put on the position {19, 19}
+19:38:20.714 [info] Ant with pid #PID<0.109.0> is put on the position {4, 15}
+19:38:20.714 [info] Ant with pid #PID<0.110.0> is put on the position {9, 17}
+19:38:20.714 [info] Ant with pid #PID<0.111.0> is put on the position {15, 17}
+19:38:20.714 [info] Ant with pid #PID<0.112.0> is put on the position {20, 22}
+19:38:20.715 [info] Ant with pid #PID<0.113.0> is put on the position {2, 16}
+19:38:20.715 [info] Ant with pid #PID<0.114.0> is put on the position {8, 18}
+19:38:20.715 [info] Ant with pid #PID<0.115.0> is put on the position {14, 15}
+19:38:20.715 [info] Ant with pid #PID<0.116.0> is put on the position {20, 15}
+19:38:20.715 [info] Ant with pid #PID<0.117.0> is put on the position {2, 10}
+19:38:20.715 [info] Ant with pid #PID<0.118.0> is put on the position {8, 6}
+19:38:20.715 [info] Ant with pid #PID<0.119.0> is put on the position {14, 7}
+19:38:20.715 [info] Ant with pid #PID<0.120.0> is put on the position {20, 0}
+19:38:20.715 [info] Ant with pid #PID<0.121.0> is put on the position {2, 2}
+19:38:20.715 [info] Ant with pid #PID<0.122.0> is put on the position {8, 2}
+19:38:20.715 [info] Ant with pid #PID<0.123.0> is put on the position {14, 23}
+19:38:20.715 [info] Ant with pid #PID<0.124.0> is put on the position {19, 4}
+19:38:20.715 [info] Ant with pid #PID<0.125.0> is put on the position {1, 2}
+19:38:20.715 [info] Ant with pid #PID<0.126.0> is put on the position {7, 20}
+19:38:20.715 [info] Ant with pid #PID<0.127.0> is put on the position {14, 11}
+19:38:20.715 [info] Ant with pid #PID<0.128.0> is put on the position {20, 8}
+19:38:20.715 [info] Ant with pid #PID<0.129.0> is put on the position {3, 22}
+19:38:20.715 [info] Ant with pid #PID<0.130.0> is put on the position {11, 4}
+19:38:20.715 [info] Ant with pid #PID<0.131.0> is put on the position {19, 13}
+19:38:20.715 [info] Ant with pid #PID<0.132.0> is put on the position {1, 11}
+19:38:20.715 [info] Ant with pid #PID<0.133.0> is put on the position {7, 8}
+19:38:20.715 [info] Ant with pid #PID<0.134.0> is put on the position {13, 3}
+19:38:20.716 [info] Ant with pid #PID<0.135.0> is put on the position {19, 1}
+19:38:20.716 [info] Ant with pid #PID<0.136.0> is put on the position {2, 14}
+19:38:20.716 [info] Ant with pid #PID<0.137.0> is put on the position {8, 11}
+19:38:20.716 [info] Ant with pid #PID<0.138.0> is put on the position {14, 9}
+19:38:20.716 [info] Ant with pid #PID<0.139.0> is put on the position {21, 3}
+19:38:20.716 [info] Ant with pid #PID<0.140.0> is put on the position {5, 7}
+19:38:20.716 [info] Ant with pid #PID<0.141.0> is put on the position {11, 23}
+19:38:20.716 [info] Ant with pid #PID<0.142.0> is put on the position {19, 8}
+19:38:20.716 [info] Ant with pid #PID<0.143.0> is put on the position {1, 5}
+19:38:20.716 [info] Ant with pid #PID<0.144.0> is put on the position {8, 16}
+19:38:20.716 [info] Ant with pid #PID<0.145.0> is put on the position {15, 7}
+19:38:20.716 [info] Ant with pid #PID<0.146.0> is put on the position {23, 16}
+19:38:20.716 [info] Ant with pid #PID<0.147.0> is put on the position {5, 13}
+19:38:20.716 [info] Ant with pid #PID<0.148.0> is put on the position {12, 21}
+19:38:20.716 [info] Ant with pid #PID<0.149.0> is put on the position {19, 9}
+19:38:20.716 [info] Ant with pid #PID<0.150.0> is put on the position {2, 23}
+19:38:20.716 [info] Ant with pid #PID<0.151.0> is put on the position {9, 18}
+19:38:20.716 [info] Ant with pid #PID<0.152.0> is put on the position {17, 0}
+19:38:20.716 [info] Ant with pid #PID<0.153.0> is put on the position {2, 20}
+19:38:20.717 [info] Ant with pid #PID<0.154.0> is put on the position {10, 1}
+19:38:20.717 [info] Ant with pid #PID<0.155.0> is put on the position {18, 6}
+19:38:20.717 [info] Ant with pid #PID<0.156.0> is put on the position {1, 16}
+19:38:20.717 [info] Ant with pid #PID<0.157.0> is put on the position {9, 2}
+19:38:20.717 [info] Ant with pid #PID<0.158.0> is put on the position {16, 10}
+19:38:20.717 [info] Ant with pid #PID<0.159.0> is put on the position {1, 6}
+19:38:20.717 [info] Ant with pid #PID<0.160.0> is put on the position {9, 12}
+19:38:20.717 [info] Ant with pid #PID<0.161.0> is put on the position {23, 17}
+19:38:20.717 [info] Ant with pid #PID<0.162.0> is put on the position {12, 7}
+19:38:20.717 [info] Ant with pid #PID<0.163.0> is put on the position {0, 22}
+19:38:20.717 [info] Ant with pid #PID<0.164.0> is put on the position {15, 14}
+19:38:20.717 [info] Ant with pid #PID<0.165.0> is put on the position {11, 19}
+19:38:20.718 [info] Ant with pid #PID<0.166.0> is put on the position {1, 18}
+19:38:20.718 [info] Ant with pid #PID<0.167.0> is put on the position {19, 12}
+19:38:20.718 [info] Ant with pid #PID<0.168.0> is put on the position {10, 7}
+19:38:20.718 [info] Ant with pid #PID<0.169.0> is put on the position {1, 7}
+19:38:20.718 [info] Ant with pid #PID<0.170.0> is put on the position {14, 17}
+19:38:20.718 [info] Ant with pid #PID<0.171.0> is put on the position {8, 8}
+19:38:20.718 [info] Ant with pid #PID<0.172.0> is put on the position {0, 16}
+19:38:20.718 [info] Ant with pid #PID<0.173.0> is put on the position {18, 14}
+19:38:20.719 [info] Ant with pid #PID<0.174.0> is put on the position {8, 10}
+19:38:20.719 [info] Ant with pid #PID<0.175.0> is put on the position {18, 2}
+19:38:20.719 [info] Ant with pid #PID<0.176.0> is put on the position {3, 1}
+19:38:20.719 [info] Ant with pid #PID<0.177.0> is put on the position {13, 8}
+19:38:20.719 [info] Ant with pid #PID<0.178.0> is put on the position {2, 1}
+19:38:20.719 [info] Ant with pid #PID<0.179.0> is put on the position {23, 11}
+19:38:20.719 [info] Ant with pid #PID<0.180.0> is put on the position {14, 6}
+19:38:20.719 [info] Ant with pid #PID<0.181.0> is put on the position {6, 16}
+19:38:20.719 [info] Ant with pid #PID<0.182.0> is put on the position {21, 12}
+19:38:20.719 [info] Ant with pid #PID<0.183.0> is put on the position {12, 9}
+19:38:20.720 [info] Ant with pid #PID<0.184.0> is put on the position {1, 20}
+19:38:20.720 [info] Ant with pid #PID<0.185.0> is put on the position {18, 22}
+19:38:20.720 [info] Ant with pid #PID<0.186.0> is put on the position {14, 0}
+19:38:20.720 [info] Ant with pid #PID<0.187.0> is put on the position {5, 19}
+19:38:20.720 [info] Ant with pid #PID<0.188.0> is put on the position {20, 10}
+19:38:20.720 [info] Ant with pid #PID<0.189.0> is put on the position {11, 8}
+19:38:20.720 [info] Ant with pid #PID<0.190.0> is put on the position {0, 19}
+19:38:20.720 [info] Ant with pid #PID<0.191.0> is put on the position {9, 10}
+19:38:20.720 [info] Ant with pid #PID<0.192.0> is put on the position {19, 2}
+19:38:20.720 [info] Ant with pid #PID<0.193.0> is put on the position {4, 19}
+19:38:20.721 [info] Ant with pid #PID<0.194.0> is put on the position {14, 13}
+19:38:20.721 [info] Ant with pid #PID<0.195.0> is put on the position {23, 2}
+19:38:20.721 [info] Ant with pid #PID<0.196.0> is put on the position {9, 20}
+19:38:20.721 [info] Ant with pid #PID<0.197.0> is put on the position {18, 11}
+19:38:20.721 [info] Ant with pid #PID<0.198.0> is put on the position {4, 1}
+19:38:20.721 [info] Ant with pid #PID<0.199.0> is put on the position {15, 4}
+19:38:20.721 [info] Ant with pid #PID<0.200.0> is put on the position {3, 4}
+19:38:20.721 [info] Ant with pid #PID<0.201.0> is put on the position {13, 12}
+19:38:20.721 [info] Ant with pid #PID<0.202.0> is put on the position {4, 7}
+19:38:20.721 [info] Ant with pid #PID<0.203.0> is put on the position {20, 16}
+19:38:20.721 [info] Ant with pid #PID<0.204.0> is put on the position {7, 23}
+19:38:20.721 [info] Ant with pid #PID<0.205.0> is put on the position {0, 4}
+19:38:20.722 [info] Ant with pid #PID<0.206.0> is put on the position {15, 16}
+19:38:20.722 [info] Ant with pid #PID<0.207.0> is put on the position {7, 2}
+19:38:20.722 [info] Ant with pid #PID<0.208.0> is put on the position {18, 12}
+19:38:20.722 [info] Ant with pid #PID<0.209.0> is put on the position {3, 2}
+19:38:20.722 [info] Ant with pid #PID<0.210.0> is put on the position {16, 19}
+19:38:20.722 [info] Ant with pid #PID<0.211.0> is put on the position {12, 19}
+19:38:20.722 [info] Ant with pid #PID<0.212.0> is put on the position {8, 20}
+19:38:20.723 [info] Ant with pid #PID<0.213.0> is put on the position {10, 19}
+19:38:20.723 [info] Ant with pid #PID<0.214.0> is put on the position {6, 21}
+19:38:20.723 [info] Ant with pid #PID<0.215.0> is put on the position {4, 5}
+19:38:20.723 [info] Ant with pid #PID<0.216.0> is put on the position {0, 23}
+19:38:20.723 [info] Ant with pid #PID<0.217.0> is put on the position {21, 18}
+19:38:20.723 [info] Ant with pid #PID<0.218.0> is put on the position {16, 5}
+19:38:20.723 [info] Ant with pid #PID<0.219.0> is put on the position {11, 11}
+19:38:20.724 [info] Ant with pid #PID<0.220.0> is put on the position {7, 9}
+19:38:20.724 [info] Ant with pid #PID<0.221.0> is put on the position {22, 11}
+19:38:20.724 [info] Ant with pid #PID<0.222.0> is put on the position {16, 0}
+19:38:20.724 [info] Ant with pid #PID<0.223.0> is put on the position {10, 16}
+19:38:20.724 [info] Ant with pid #PID<0.224.0> is put on the position {23, 9}
+19:38:20.724 [info] Ant with pid #PID<0.225.0> is put on the position {11, 21}
+19:38:20.724 [info] Ant with pid #PID<0.226.0> is put on the position {17, 14}
+19:38:20.725 [info] Ant with pid #PID<0.227.0> is put on the position {13, 16}
+19:38:20.725 [info] Ant with pid #PID<0.228.0> is put on the position {16, 6}
+19:38:20.725 [info] Ant with pid #PID<0.229.0> is put on the position {11, 12}
+19:38:20.725 [info] Ant with pid #PID<0.230.0> is put on the position {1, 12}
+19:38:20.725 [info] Ant with pid #PID<0.231.0> is put on the position {0, 15}
+19:38:20.725 [info] Ant with pid #PID<0.232.0> is put on the position {20, 19}
+19:38:20.725 [info] Ant with pid #PID<0.233.0> is put on the position {14, 5}
+19:38:20.726 [info] Ant with pid #PID<0.234.0> is put on the position {1, 0}
+19:38:20.726 [info] Ant with pid #PID<0.235.0> is put on the position {7, 15}
+19:38:20.726 [info] Ant with pid #PID<0.236.0> is put on the position {2, 3}
+19:38:20.726 [info] Ant with pid #PID<0.237.0> is put on the position {22, 0}
+19:38:20.726 [info] Ant with pid #PID<0.238.0> is put on the position {9, 19}
+19:38:20.727 [info] Ant with pid #PID<0.239.0> is put on the position {15, 11}
+19:38:20.727 [info] Ant with pid #PID<0.240.0> is put on the position {10, 22}
+19:38:20.727 [info] Ant with pid #PID<0.241.0> is put on the position {4, 14}
+19:38:20.727 [info] Ant with pid #PID<0.242.0> is put on the position {22, 5}
+19:38:20.727 [info] Ant with pid #PID<0.243.0> is put on the position {16, 20}
+19:38:20.727 [info] Ant with pid #PID<0.244.0> is put on the position {11, 10}
+19:38:20.728 [info] Ant with pid #PID<0.245.0> is put on the position {17, 20}
+19:38:20.728 [info] Ant with pid #PID<0.246.0> is put on the position {12, 4}
+19:38:20.728 [info] Ant with pid #PID<0.247.0> is put on the position {7, 6}
+19:38:20.728 [info] Ant with pid #PID<0.248.0> is put on the position {23, 20}
+19:38:20.728 [info] Ant with pid #PID<0.249.0> is put on the position {19, 18}
+19:38:20.728 [info] Ant with pid #PID<0.250.0> is put on the position {15, 18}
+19:38:20.729 [info] Ant with pid #PID<0.251.0> is put on the position {12, 8}
+19:38:20.729 [info] Ant with pid #PID<0.252.0> is put on the position {21, 23}
+19:38:20.729 [info] Ant with pid #PID<0.253.0> is put on the position {15, 12}
+19:38:20.729 [info] Ant with pid #PID<0.254.0> is put on the position {11, 14}
+19:38:20.729 [info] Ant with pid #PID<0.255.0> is put on the position {7, 17}
+19:38:20.729 [info] Ant with pid #PID<0.256.0> is put on the position {2, 21}
+19:38:20.804 [info] Ant with pid #PID<0.177.0> is moving to the position {13, 7}
+19:38:20.804 [info] Ant with pid #PID<0.121.0> is moving to the position {1, 1}
+19:38:20.806 [info] Ant with pid #PID<0.178.0> is moving to the position {3, 0}
+19:38:20.808 [info] Ant with pid #PID<0.209.0> is moving to the position {3, 3}
+19:38:20.809 [info] Ant with pid #PID<0.238.0> is moving to the position {8, 19}
+19:38:20.824 [info] Ant with pid #PID<0.172.0> is moving to the position {0, 17}
+19:38:20.825 [info] Ant with pid #PID<0.114.0> is moving to the position {8, 17}
+19:38:20.826 [info] Ant with pid #PID<0.189.0> is moving to the position {11, 7}
+19:38:20.826 [info] Ant with pid #PID<0.170.0> is moving to the position {14, 16}
+19:38:20.826 [info] Ant with pid #PID<0.183.0> is moving to the position {11, 9}
+19:38:20.827 [info] Ant with pid #PID<0.236.0> is moving to the position {3, 3}
+19:38:20.827 [info] Ant with pid #PID<0.176.0> is moving to the position {3, 0}
+19:38:20.827 [info] Ant with pid #PID<0.110.0> is moving to the position {8, 17}
+19:38:20.827 [info] Ant with pid #PID<0.213.0> is moving to the position {10, 20}
+19:38:20.828 [info] Ant with pid #PID<0.151.0> is moving to the position {8, 17}
+19:38:20.829 [info] Ant with pid #PID<0.251.0> is moving to the position {11, 9}
+19:38:20.840 [info] Ant with pid #PID<0.125.0> is moving to the position {1, 1}
+19:38:20.840 [info] Ant with pid #PID<0.135.0> is moving to the position {18, 1}
+19:38:20.840 [info] Ant with pid #PID<0.131.0> is moving to the position {19, 14}
+19:38:20.841 [info] Ant with pid #PID<0.127.0> is moving to the position {15, 10}
+19:38:20.841 [info] Ant with pid #PID<0.167.0> is moving to the position {19, 11}
+19:38:20.841 [info] Ant with pid #PID<0.144.0> is moving to the position {8, 17}
+19:38:20.841 [info] Ant with pid #PID<0.250.0> is moving to the position {15, 19}
+19:38:20.842 [info] Ant with pid #PID<0.184.0> is moving to the position {1, 21}
+19:38:20.842 [info] Ant with pid #PID<0.137.0> is moving to the position {9, 11}
+19:38:20.842 [info] Ant with pid #PID<0.239.0> is moving to the position {14, 12}
+19:38:20.842 [info] Ant with pid #PID<0.119.0> is moving to the position {14, 8}
+19:38:20.842 [info] Ant with pid #PID<0.190.0> is moving to the position {1, 19}
+19:38:20.842 [info] Ant with pid #PID<0.149.0> is moving to the position {20, 9}
+19:38:20.843 [info] Ant with pid #PID<0.156.0> is moving to the position {1, 15}
+19:38:20.843 [info] Ant with pid #PID<0.145.0> is moving to the position {14, 8}
+19:38:20.843 [info] Ant with pid #PID<0.174.0> is moving to the position {8, 9}
+19:38:20.843 [info] Ant with pid #PID<0.234.0> is moving to the position {2, 0}
+19:38:20.843 [info] Ant with pid #PID<0.146.0> is moving to the position {0, 17}
+19:38:20.843 [info] Ant with pid #PID<0.220.0> is moving to the position {8, 9}
+19:38:20.844 [info] Ant with pid #PID<0.206.0> is moving to the position {14, 16}
+19:38:20.844 [info] Ant with pid #PID<0.210.0> is moving to the position {17, 19}
+19:38:20.844 [info] Ant with pid #PID<0.180.0> is moving to the position {15, 5}
+19:38:20.844 [info] Ant with pid #PID<0.231.0> is moving to the position {1, 15}
+19:38:20.845 [info] Ant with pid #PID<0.255.0> is moving to the position {7, 16}
+19:38:20.845 [info] Ant with pid #PID<0.115.0> is moving to the position {14, 16}
+19:38:20.845 [info] Ant with pid #PID<0.208.0> is moving to the position {18, 13}
+19:38:20.845 [info] Ant with pid #PID<0.196.0> is moving to the position {10, 20}
+19:38:20.845 [info] Ant with pid #PID<0.194.0> is moving to the position {14, 12}
+19:38:20.846 [info] Ant with pid #PID<0.232.0> is moving to the position {20, 18}
+19:38:20.846 [info] Ant with pid #PID<0.253.0> is moving to the position {14, 12}
+19:38:20.846 [info] Ant with pid #PID<0.111.0> is moving to the position {14, 16}
+19:38:20.846 [info] Ant with pid #PID<0.162.0> is moving to the position {13, 6}
+19:38:20.846 [info] Ant with pid #PID<0.212.0> is moving to the position {8, 19}
+19:38:20.846 [info] Ant with pid #PID<0.252.0> is moving to the position {21, 0}
+19:38:20.848 [info] Ant with pid #PID<0.256.0> is moving to the position {1, 21}
+19:38:20.853 [info] Ant with pid #PID<0.142.0> is moving to the position {20, 9}
+19:38:20.853 [info] Ant with pid #PID<0.122.0> is moving to the position {9, 1}
+19:38:20.853 [info] Ant with pid #PID<0.126.0> is moving to the position {8, 19}
+19:38:20.854 [info] Ant with pid #PID<0.133.0> is moving to the position {7, 7}
+19:38:20.854 [info] Ant with pid #PID<0.129.0> is moving to the position {3, 21}
+19:38:20.854 [info] Ant with pid #PID<0.132.0> is moving to the position {2, 11}
+19:38:20.854 [info] Ant with pid #PID<0.171.0> is moving to the position {8, 9}
+19:38:20.855 [info] Ant with pid #PID<0.128.0> is moving to the position {20, 9}
+19:38:20.855 [info] Ant with pid #PID<0.192.0> is moving to the position {18, 1}
+19:38:20.855 [info] Ant with pid #PID<0.198.0> is moving to the position {3, 0}
+19:38:20.855 [info] Ant with pid #PID<0.157.0> is moving to the position {8, 1}
+19:38:20.855 [info] Ant with pid #PID<0.219.0> is moving to the position {10, 11}
+19:38:20.855 [info] Ant with pid #PID<0.245.0> is moving to the position {17, 21}
+19:38:20.856 [info] Ant with pid #PID<0.161.0> is moving to the position {0, 18}
+19:38:20.856 [info] Ant with pid #PID<0.228.0> is moving to the position {15, 5}
+19:38:20.856 [info] Ant with pid #PID<0.221.0> is moving to the position {22, 12}
+19:38:20.856 [info] Ant with pid #PID<0.181.0> is moving to the position {7, 16}
+19:38:20.856 [info] Ant with pid #PID<0.197.0> is moving to the position {19, 11}
+19:38:20.856 [info] Ant with pid #PID<0.165.0> is moving to the position {10, 20}
+19:38:20.856 [info] Ant with pid #PID<0.150.0> is moving to the position {2, 0}
+19:38:20.857 [info] Ant with pid #PID<0.244.0> is moving to the position {10, 11}
+19:38:20.857 [info] Ant with pid #PID<0.243.0> is moving to the position {15, 19}
+19:38:20.857 [info] Ant with pid #PID<0.246.0> is moving to the position {13, 5}
+19:38:20.857 [info] Ant with pid #PID<0.199.0> is moving to the position {15, 5}
+19:38:20.857 [info] Ant with pid #PID<0.240.0> is moving to the position {9, 21}
+19:38:20.857 [info] Ant with pid #PID<0.143.0> is moving to the position {2, 4}
+19:38:20.857 [info] Ant with pid #PID<0.164.0> is moving to the position {16, 15}
+19:38:20.857 [info] Ant with pid #PID<0.233.0> is moving to the position {15, 6}
+19:38:20.858 [info] Ant with pid #PID<0.159.0> is moving to the position {0, 6}
+19:38:20.858 [info] Ant with pid #PID<0.173.0> is moving to the position {18, 13}
+19:38:20.858 [info] Ant with pid #PID<0.241.0> is moving to the position {5, 15}
+19:38:20.858 [info] Ant with pid #PID<0.191.0> is moving to the position {8, 9}
+19:38:20.858 [info] Ant with pid #PID<0.175.0> is moving to the position {18, 1}
+19:38:20.858 [info] Ant with pid #PID<0.249.0> is moving to the position {20, 17}
+19:38:20.858 [info] Ant with pid #PID<0.225.0> is moving to the position {10, 20}
+19:38:20.859 [info] Ant with pid #PID<0.107.0> is moving to the position {20, 18}
+19:38:20.859 [info] Ant with pid #PID<0.215.0> is moving to the position {4, 6}
+19:38:20.859 [info] Ant with pid #PID<0.218.0> is moving to the position {15, 5}
+19:38:20.859 [info] Ant with pid #PID<0.200.0> is moving to the position {4, 4}
+19:38:20.859 [info] Ant with pid #PID<0.227.0> is moving to the position {14, 16}
+19:38:20.859 [info] Ant with pid #PID<0.235.0> is moving to the position {7, 16}
+19:38:20.859 [info] Ant with pid #PID<0.153.0> is moving to the position {3, 21}
+19:38:20.859 [info] Ant with pid #PID<0.120.0> is moving to the position {20, 1}
+19:38:20.860 [info] Ant with pid #PID<0.201.0> is moving to the position {14, 12}
+19:38:20.861 [info] Ant with pid #PID<0.216.0> is moving to the position {1, 23}
+19:38:20.863 [info] Ant with pid #PID<0.123.0> is moving to the position {15, 23}
+19:38:20.863 [info] Ant with pid #PID<0.169.0> is moving to the position {0, 6}
+19:38:20.863 [info] Ant with pid #PID<0.186.0> is moving to the position {15, 23}
+19:38:20.863 [info] Ant with pid #PID<0.134.0> is moving to the position {12, 3}
+19:38:20.863 [info] Ant with pid #PID<0.166.0> is moving to the position {0, 17}
+19:38:20.863 [info] Ant with pid #PID<0.223.0> is moving to the position {10, 15}
+19:38:20.863 [info] Ant with pid #PID<0.214.0> is moving to the position {7, 21}
+19:38:20.864 [info] Ant with pid #PID<0.207.0> is moving to the position {8, 1}
+19:38:20.864 [info] Ant with pid #PID<0.130.0> is moving to the position {12, 3}
+19:38:20.864 [info] Ant with pid #PID<0.205.0> is moving to the position {0, 3}
+19:38:20.864 [info] Ant with pid #PID<0.147.0> is moving to the position {5, 14}
+19:38:20.864 [info] Ant with pid #PID<0.222.0> is moving to the position {17, 1}
+19:38:20.864 [info] Ant with pid #PID<0.230.0> is moving to the position {0, 11}
+19:38:20.864 [info] Ant with pid #PID<0.247.0> is moving to the position {8, 7}
+19:38:20.864 [info] Ant with pid #PID<0.141.0> is moving to the position {10, 0}
+19:38:20.864 [info] Ant with pid #PID<0.193.0> is moving to the position {5, 20}
+19:38:20.864 [info] Ant with pid #PID<0.229.0> is moving to the position {10, 11}
+19:38:20.864 [info] Ant with pid #PID<0.168.0> is moving to the position {11, 7}
+19:38:20.864 [info] Ant with pid #PID<0.163.0> is moving to the position {1, 22}
+19:38:20.864 [info] Ant with pid #PID<0.187.0> is moving to the position {5, 20}
+19:38:20.865 [info] Ant with pid #PID<0.203.0> is moving to the position {21, 17}
+19:38:20.865 [info] Ant with pid #PID<0.237.0> is moving to the position {23, 23}
+19:38:20.865 [info] Ant with pid #PID<0.118.0> is moving to the position {7, 7}
+19:38:20.865 [info] Ant with pid #PID<0.112.0> is moving to the position {19, 23}
+19:38:20.865 [info] Ant with pid #PID<0.148.0> is moving to the position {11, 22}
+19:38:20.865 [info] Ant with pid #PID<0.117.0> is moving to the position {2, 11}
+19:38:20.865 [info] Ant with pid #PID<0.113.0> is moving to the position {1, 15}
+19:38:20.865 [info] Ant with pid #PID<0.182.0> is moving to the position {22, 12}
+19:38:20.865 [info] Ant with pid #PID<0.217.0> is moving to the position {20, 18}
+19:38:20.865 [info] Ant with pid #PID<0.138.0> is moving to the position {15, 9}
+19:38:20.865 [info] Ant with pid #PID<0.211.0> is moving to the position {11, 20}
+19:38:20.865 [info] Ant with pid #PID<0.109.0> is moving to the position {3, 15}
+19:38:20.865 [info] Ant with pid #PID<0.158.0> is moving to the position {17, 11}
+19:38:20.865 [info] Ant with pid #PID<0.116.0> is moving to the position {19, 14}
+19:38:20.866 [info] Ant with pid #PID<0.179.0> is moving to the position {22, 12}
+19:38:20.866 [info] Ant with pid #PID<0.188.0> is moving to the position {19, 11}
+19:38:20.866 [info] Ant with pid #PID<0.226.0> is moving to the position {18, 13}
+19:38:20.866 [info] Ant with pid #PID<0.160.0> is moving to the position {9, 11}
+19:38:20.866 [info] Ant with pid #PID<0.140.0> is moving to the position {6, 8}
+19:38:20.866 [info] Ant with pid #PID<0.106.0> is moving to the position {4, 4}
+19:38:20.866 [info] Ant with pid #PID<0.202.0> is moving to the position {4, 6}
+19:38:20.866 [info] Ant with pid #PID<0.154.0> is moving to the position {10, 0}
+19:38:20.866 [info] Ant with pid #PID<0.152.0> is moving to the position {18, 0}
+19:38:20.866 [info] Ant with pid #PID<0.248.0> is moving to the position {0, 21}
+19:38:21.772 [info] Ant with pid #PID<0.185.0> is moving to the position {18, 21}
+19:38:21.783 [info] Ant with pid #PID<0.254.0> is moving to the position {11, 15}
+19:38:21.791 [info] Ant with pid #PID<0.195.0> is moving to the position {23, 3}
+19:38:21.966 [info] Ant with pid #PID<0.123.0> is moving to the position {15, 0}
+19:38:22.112 [info] Ant with pid #PID<0.107.0> is moving to the position {19, 17}
+19:38:22.120 [info] Ant with pid #PID<0.238.0> is moving to the position {7, 19}
+19:38:22.130 [info] Ant with pid #PID<0.137.0> is moving to the position {8, 12}
+19:38:22.138 [info] Ant with pid #PID<0.212.0> is moving to the position {7, 19}
+19:38:22.142 [info] Ant with pid #PID<0.120.0> is moving to the position {19, 0}
+19:38:22.143 [info] Ant with pid #PID<0.227.0> is moving to the position {13, 17}
+19:38:22.145 [info] Ant with pid #PID<0.106.0> is moving to the position {3, 5}
+19:38:22.147 [info] Ant with pid #PID<0.186.0> is moving to the position {16, 23}
+19:38:22.147 [info] Ant with pid #PID<0.222.0> is moving to the position {16, 1}
+19:38:22.148 [info] Ant with pid #PID<0.231.0> is moving to the position {1, 14}
+19:38:22.152 [info] Ant with pid #PID<0.122.0> is moving to the position {9, 0}
+19:38:22.156 [info] Ant with pid #PID<0.247.0> is moving to the position {9, 8}
+19:38:22.159 [info] Ant with pid #PID<0.129.0> is moving to the position {2, 22}
+19:38:22.161 [info] Ant with pid #PID<0.157.0> is moving to the position {8, 0}
+19:38:22.164 [info] Ant with pid #PID<0.143.0> is moving to the position {1, 3}
+19:38:22.165 [info] Ant with pid #PID<0.200.0> is moving to the position {3, 5}
+19:38:22.165 [info] Ant with pid #PID<0.130.0> is moving to the position {13, 4}
+19:38:22.167 [info] Ant with pid #PID<0.148.0> is moving to the position {12, 22}
+19:38:22.168 [info] Ant with pid #PID<0.134.0> is moving to the position {13, 4}
+19:38:22.173 [info] Ant with pid #PID<0.221.0> is moving to the position {23, 12}
+19:38:22.173 [info] Ant with pid #PID<0.202.0> is moving to the position {5, 6}
+19:38:22.176 [info] Ant with pid #PID<0.207.0> is moving to the position {7, 1}
+19:38:22.177 [info] Ant with pid #PID<0.117.0> is moving to the position {1, 10}
+19:38:22.178 [info] Ant with pid #PID<0.164.0> is moving to the position {15, 15}
+19:38:22.179 [info] Ant with pid #PID<0.241.0> is moving to the position {6, 15}
+19:38:22.179 [info] Ant with pid #PID<0.214.0> is moving to the position {8, 21}
+19:38:22.180 [info] Ant with pid #PID<0.153.0> is moving to the position {2, 22}
+19:38:22.181 [info] Ant with pid #PID<0.132.0> is moving to the position {1, 10}
+19:38:22.181 [info] Ant with pid #PID<0.193.0> is moving to the position {6, 20}
+19:38:22.182 [info] Ant with pid #PID<0.252.0> is moving to the position {22, 23}
+19:38:22.190 [info] Ant with pid #PID<0.187.0> is moving to the position {6, 20}
+19:38:22.194 [info] Ant with pid #PID<0.215.0> is moving to the position {5, 6}
+19:38:22.195 [info] Ant with pid #PID<0.230.0> is moving to the position {23, 12}
+19:38:22.196 [info] Ant with pid #PID<0.169.0> is moving to the position {0, 7}
+19:38:22.197 [info] Ant with pid #PID<0.159.0> is moving to the position {0, 5}
+19:38:22.199 [info] Ant with pid #PID<0.237.0> is moving to the position {22, 23}
+19:39:05.612 [info] Ant with pid #PID<0.123.0> is moving to the position {15, 1}
+19:39:05.632 [error] GenServer #PID<0.170.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.170.0>, [0.4999999999999999, 0.3749999999999999, 0.6271186440677966, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {15, 15}}, 5000)
+    ** (EXIT) time out
+19:39:05.633 [error] GenServer #PID<0.250.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.250.0>, [0.6944444444444443, 0.5, 0.8305084745762712, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 18}}, 5000)
+    ** (EXIT) time out
+19:39:05.635 [error] GenServer #PID<0.125.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.125.0>, [0.38888888888888895, 0.7499999999999998, 0.11864406779661016, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 0}}, 5000)
+    ** (EXIT) time out
+19:39:05.637 [error] GenServer #PID<0.220.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.220.0>, [0.38888888888888895, 0.20833333333333331, 0.6779661016949152, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 9}}, 5000)
+    ** (EXIT) time out
+19:39:05.638 [error] GenServer #PID<0.122.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.122.0>, [0.38888888888888895, 1.0, 0.0847457627118644, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {8, 23}}, 5000)
+    ** (EXIT) time out
+19:39:05.640 [error] GenServer #PID<0.203.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.203.0>, [0.38888888888888895, 0.3749999999999999, 0.5423728813559322, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.203.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.641 [error] GenServer #PID<0.110.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.110.0>, [0.08333333333333327, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 16}}, 5000)
+    ** (EXIT) time out
+19:39:05.642 [error] GenServer #PID<0.107.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.98212621430645, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.107.0>, [0.1666666666666668, 0.41666666666666663, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 18}}, 5000)
+    ** (EXIT) time out
+19:39:05.644 [error] GenServer #PID<0.201.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.201.0>, [0.361111111111111, 0.2916666666666667, 0.5423728813559322, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 11}}, 5000)
+    ** (EXIT) time out
+19:39:05.645 [error] GenServer #PID<0.177.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.46711377206811, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.177.0>, [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.177.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.646 [error] GenServer #PID<0.168.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.168.0>, [0.44444444444444453, 0.41666666666666663, 0.5423728813559322, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.168.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.647 [error] GenServer #PID<0.229.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.229.0>, [0.9444444444444444, 0.3333333333333332, 0.9661016949152542, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 10}}, 5000)
+    ** (EXIT) time out
+19:39:05.648 [error] GenServer #PID<0.161.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.161.0>, [0.611111111111111, 0.3333333333333332, 0.6101694915254237, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {1, 17}}, 5000)
+    ** (EXIT) time out
+19:39:05.649 [error] GenServer #PID<0.165.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.46711377206811, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.165.0>, [0.6388888888888887, 0.3749999999999999, 0.6101694915254237, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 20}}, 5000)
+    ** (EXIT) time out
+19:39:05.651 [error] GenServer #PID<0.109.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.109.0>, [0.11111111111111119, 0.5, 0.05084745762711865, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 16}}, 5000)
+    ** (EXIT) time out
+19:39:05.652 [error] GenServer #PID<0.134.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.134.0>, [0.25000000000000006, 0.6249999999999999, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {13, 5}}, 5000)
+    ** (EXIT) time out
+19:39:05.653 [error] GenServer #PID<0.163.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.46711377206811, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.163.0>, [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.150.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.654 [error] GenServer #PID<0.231.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.231.0>, [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {0, 14}}, 5000)
+    ** (EXIT) time out
+19:39:05.655 [error] GenServer #PID<0.162.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.162.0>, [0.38888888888888895, 0.3333333333333332, 0.5932203389830508, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.162.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.656 [error] GenServer #PID<0.128.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.128.0>, [0.22222222222222213, 0.7083333333333333, 0.0847457627118644, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.188.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.666 [error] GenServer #PID<0.112.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.112.0>, [0.30555555555555564, 0.7916666666666665, 0.11864406779661016, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 22}}, 5000)
+    ** (EXIT) time out
+19:39:05.667 [error] GenServer #PID<0.143.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.143.0>, [0.3333333333333333, 0.6249999999999999, 0.05084745762711865, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 2}}, 5000)
+    ** (EXIT) time out
+19:39:05.669 [error] GenServer #PID<0.130.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.130.0>, [0.22222222222222213, 0.5416666666666665, 0.11864406779661016, 0.16666666666666669]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.246.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.670 [error] GenServer #PID<0.120.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.16119837251824, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.120.0>, [0.0, 0.41666666666666663, 0.016949152542372895, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 0}}, 5000)
+    ** (EXIT) time out
+19:39:05.671 [error] GenServer #PID<0.146.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.146.0>, [0.22222222222222213, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.161.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.672 [error] GenServer #PID<0.157.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.157.0>, [0.7499999999999999, 0.5, 0.6271186440677966, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 0}}, 5000)
+    ** (EXIT) time out
+19:39:05.673 [error] GenServer #PID<0.173.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.173.0>, [0.361111111111111, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.226.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.674 [error] GenServer #PID<0.211.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.211.0>, [0.611111111111111, 0.41666666666666663, 0.8135593220338982, 0.8750000000000001]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {10, 19}}, 5000)
+    ** (EXIT) time out
+19:39:05.676 [error] GenServer #PID<0.152.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.152.0>, [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {19, 23}}, 5000)
+    ** (EXIT) time out
+19:39:05.676 [error] GenServer #PID<0.136.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.136.0>, [0.11111111111111119, 0.5, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 14}}, 5000)
+    ** (EXIT) time out
+19:39:05.676 [info] Ant with pid #PID<0.238.0> is moving to the position {6, 20}
+19:39:05.677 [error] GenServer #PID<0.164.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.164.0>, [0.1666666666666668, 0.1666666666666666, 0.38983050847457623, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.115.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.678 [error] GenServer #PID<0.147.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.147.0>, [0.19444444444444448, 0.6249999999999999, 0.05084745762711865, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {4, 13}}, 5000)
+    ** (EXIT) time out
+19:39:05.679 [error] GenServer #PID<0.181.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.181.0>, [0.5833333333333334, 0.3749999999999999, 0.559322033898305, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {8, 15}}, 5000)
+    ** (EXIT) time out
+19:39:05.680 [error] GenServer #PID<0.138.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.138.0>, [0.30555555555555564, 0.5833333333333333, 0.0847457627118644, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {15, 8}}, 5000)
+    ** (EXIT) time out
+19:39:05.680 [info] Ant with pid #PID<0.212.0> is moving to the position {7, 18}
+19:39:05.680 [error] GenServer #PID<0.148.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.148.0>, [0.055555555555555594, 0.1249999999999999, 0.05084745762711865, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {13, 21}}, 5000)
+    ** (EXIT) time out
+19:39:05.681 [error] GenServer #PID<0.202.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.202.0>, [0.38888888888888895, 0.41666666666666663, 0.5423728813559322, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {5, 5}}, 5000)
+    ** (EXIT) time out
+19:39:05.682 [error] GenServer #PID<0.166.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.166.0>, [0.25000000000000006, 0.2916666666666667, 0.4915254237288135, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {23, 16}}, 5000)
+    ** (EXIT) time out
+19:39:05.683 [error] GenServer #PID<0.133.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.133.0>, [0.19444444444444448, 0.5833333333333333, 0.1016949152542373, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.140.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.683 [error] GenServer #PID<0.132.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.132.0>, [0.19444444444444448, 0.41666666666666663, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 11}}, 5000)
+    ** (EXIT) time out
+19:39:05.685 [error] GenServer #PID<0.227.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.16119837251824, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.227.0>, [0.7222222222222222, 0.5, 0.7966101694915254, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {12, 17}}, 5000)
+    ** (EXIT) time out
+19:39:05.687 [error] GenServer #PID<0.240.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.240.0>, [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {10, 22}}, 5000)
+    ** (EXIT) time out
+19:39:05.688 [error] GenServer #PID<0.123.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 30.98686069118651, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.123.0>, [0.30555555555555564, 0.7916666666666665, 0.05084745762711865, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:update_ant_position, #PID<0.123.0>, {15, 1}}, 5000)
+    ** (EXIT) time out
+19:39:05.689 [error] GenServer #PID<0.131.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.131.0>, [0.13888888888888887, 0.5833333333333333, 0.15254237288135591, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 13}}, 5000)
+    ** (EXIT) time out
+19:39:05.690 [error] GenServer #PID<0.186.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.186.0>, [0.38888888888888895, 0.25, 0.423728813559322, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {15, 23}}, 5000)
+    ** (EXIT) time out
+19:39:05.691 [error] GenServer #PID<0.129.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.129.0>, [0.08333333333333327, 0.6666666666666666, 0.0, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.129.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.691 [error] GenServer #PID<0.217.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.46711377206811, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.217.0>, [0.611111111111111, 0.5, 0.6949152542372881, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.232.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.692 [error] GenServer #PID<0.150.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.46711377206811, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.150.0>, [0.19444444444444448, 0.6249999999999999, 0.1016949152542373, 0.20833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.216.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.694 [error] GenServer #PID<0.158.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.158.0>, [0.5833333333333334, 0.5, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 12}}, 5000)
+    ** (EXIT) time out
+19:39:05.696 [error] GenServer #PID<0.228.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.46711377206811, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.228.0>, [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.180.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.697 [error] GenServer #PID<0.137.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.137.0>, [0.13888888888888887, 0.4583333333333333, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {9, 12}}, 5000)
+    ** (EXIT) time out
+19:39:05.698 [error] GenServer #PID<0.171.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.171.0>, [0.361111111111111, 0.3749999999999999, 0.4406779661016949, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 8}}, 5000)
+    ** (EXIT) time out
+19:39:05.698 [info] Ant with pid #PID<0.115.0> is moving to the position {13, 15}
+19:39:05.699 [error] GenServer #PID<0.124.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 26.861135866348164, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.124.0>, [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 3}}, 5000)
+    ** (EXIT) time out
+19:39:05.700 [error] GenServer #PID<0.188.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.188.0>, [0.3333333333333333, 0.1666666666666666, 0.4576271186440678, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 12}}, 5000)
+    ** (EXIT) time out
+19:39:05.700 [error] GenServer #PID<0.233.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.46711377206811, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.233.0>, [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 7}}, 5000)
+    ** (EXIT) time out
+19:39:05.702 [error] GenServer #PID<0.156.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.156.0>, [0.19444444444444448, 0.5416666666666665, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.113.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.702 [info] Ant with pid #PID<0.111.0> is moving to the position {13, 15}
+19:39:05.703 [error] GenServer #PID<0.246.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.246.0>, [0.7222222222222222, 0.4583333333333333, 0.7457627118644068, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 5}}, 5000)
+    ** (EXIT) time out
+19:39:05.704 [error] GenServer #PID<0.185.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.185.0>, [0.4722222222222222, 0.3749999999999999, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 20}}, 5000)
+    ** (EXIT) time out
+19:39:05.705 [error] GenServer #PID<0.106.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.16119837251824, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.106.0>, [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 4}}, 5000)
+    ** (EXIT) time out
+19:39:05.706 [error] GenServer #PID<0.195.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.195.0>, [0.361111111111111, 0.41666666666666663, 0.5254237288135593, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {22, 2}}, 5000)
+    ** (EXIT) time out
+19:39:05.707 [error] GenServer #PID<0.145.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.145.0>, [0.027777777777777922, 0.41666666666666663, 0.05084745762711865, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 7}}, 5000)
+    ** (EXIT) time out
+19:39:05.708 [error] GenServer #PID<0.151.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.151.0>, [0.22222222222222213, 0.7499999999999998, 0.15254237288135591, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {8, 16}}, 5000)
+    ** (EXIT) time out
+19:39:05.708 [error] GenServer #PID<0.221.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.221.0>, [0.41666666666666663, 0.3333333333333332, 0.6949152542372881, 0.9583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {23, 11}}, 5000)
+    ** (EXIT) time out
+19:39:05.709 [error] GenServer #PID<0.255.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.255.0>, [0.5277777777777778, 0.5833333333333333, 0.7457627118644068, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 17}}, 5000)
+    ** (EXIT) time out
+19:39:05.710 [error] GenServer #PID<0.155.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 26.861135866348164, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.155.0>, [0.27777777777777773, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 7}}, 5000)
+    ** (EXIT) time out
+19:39:05.710 [error] GenServer #PID<0.174.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.174.0>, [0.41666666666666663, 0.2916666666666667, 0.5254237288135593, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.171.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.711 [error] GenServer #PID<0.256.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.256.0>, [0.44444444444444453, 0.41666666666666663, 0.6949152542372881, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 21}}, 5000)
+    ** (EXIT) time out
+19:39:05.712 [error] GenServer #PID<0.254.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.254.0>, [0.611111111111111, 0.41666666666666663, 0.711864406779661, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.254.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.712 [info] Ant with pid #PID<0.175.0> is moving to the position {17, 2}
+19:39:05.713 [info] Ant with pid #PID<0.192.0> is moving to the position {17, 2}
+19:39:05.713 [error] GenServer #PID<0.144.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.144.0>, [0.1666666666666668, 0.6666666666666666, 0.06779661016949151, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.114.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.713 [error] GenServer #PID<0.176.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.176.0>, [0.361111111111111, 0.20833333333333331, 0.4915254237288135, 0.4166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.150.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.714 [error] GenServer #PID<0.253.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.253.0>, [0.5555555555555555, 0.20833333333333331, 0.6779661016949152, 0.75]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {13, 13}}, 5000)
+    ** (EXIT) time out
+19:39:05.714 [info] Ant with pid #PID<0.121.0> is moving to the position {0, 2}
+19:39:05.715 [info] Ant with pid #PID<0.113.0> is moving to the position {2, 15}
+19:39:05.715 [error] GenServer #PID<0.252.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.252.0>, [0.6666666666666666, 0.41666666666666663, 0.711864406779661, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {21, 23}}, 5000)
+    ** (EXIT) time out
+19:39:05.716 [error] GenServer #PID<0.160.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.160.0>, [0.3333333333333333, 0.1249999999999999, 0.5084745762711864, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.160.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.716 [error] GenServer #PID<0.205.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.205.0>, [0.22222222222222213, 0.20833333333333331, 0.3389830508474576, 0.4166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {23, 2}}, 5000)
+    ** (EXIT) time out
+19:39:05.717 [error] GenServer #PID<0.127.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.127.0>, [0.30555555555555564, 0.5833333333333333, 0.11864406779661016, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 11}}, 5000)
+    ** (EXIT) time out
+19:39:05.717 [error] GenServer #PID<0.207.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.207.0>, [0.5555555555555555, 0.5416666666666665, 0.847457627118644, 1.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 0}}, 5000)
+    ** (EXIT) time out
+19:39:05.718 [error] GenServer #PID<0.189.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.189.0>, [0.41666666666666663, 0.2916666666666667, 0.4915254237288135, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {12, 7}}, 5000)
+    ** (EXIT) time out
+19:39:05.718 [error] GenServer #PID<0.206.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.206.0>, [0.38888888888888895, 0.3333333333333332, 0.5254237288135593, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.227.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.719 [error] GenServer #PID<0.116.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.116.0>, [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.173.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.719 [info] Ant with pid #PID<0.232.0> is moving to the position {21, 19}
+19:39:05.719 [error] GenServer #PID<0.210.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.210.0>, [0.5555555555555555, 0.3749999999999999, 0.7796610169491525, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 20}}, 5000)
+    ** (EXIT) time out
+19:39:05.719 [info] Ant with pid #PID<0.118.0> is moving to the position {6, 7}
+19:39:05.719 [error] GenServer #PID<0.139.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.092090966777494, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.139.0>, [0.25000000000000006, 0.8749999999999998, 0.0847457627118644, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {22, 2}}, 5000)
+    ** (EXIT) time out
+19:39:05.719 [info] Ant with pid #PID<0.216.0> is moving to the position {0, 0}
+19:39:05.719 [error] GenServer #PID<0.241.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 29.552979043872654, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.241.0>, [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.241.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.720 [error] GenServer #PID<0.184.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.184.0>, [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 21}}, 5000)
+    ** (EXIT) time out
+19:39:05.720 [info] Ant with pid #PID<0.204.0> is moving to the position {8, 22}
+19:39:05.721 [error] GenServer #PID<0.198.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.198.0>, [0.4999999999999999, 0.41666666666666663, 0.6101694915254237, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.150.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.721 [info] Ant with pid #PID<0.141.0> is moving to the position {10, 23}
+19:39:05.722 [info] Ant with pid #PID<0.235.0> is moving to the position {6, 17}
+19:39:05.722 [error] GenServer #PID<0.179.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 27.865870343228224, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.179.0>, [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.221.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.722 [info] Ant with pid #PID<0.223.0> is moving to the position {11, 16}
+19:39:05.723 [info] Ant with pid #PID<0.208.0> is moving to the position {17, 13}
+19:39:05.724 [error] GenServer #PID<0.191.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.191.0>, [0.30555555555555564, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {8, 8}}, 5000)
+    ** (EXIT) time out
+19:39:05.725 [error] GenServer #PID<0.180.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.40007332158990627, 28.15646389563818, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.180.0>, [0.4999999999999999, 0.3333333333333332, 0.6271186440677966, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.257.0>, {:get_data, #PID<0.233.0>}, 5000)
+    ** (EXIT) time out
+19:39:05.725 [info] Ant with pid #PID<0.140.0> is moving to the position {6, 7}
+19:39:05.725 [info] Ant with pid #PID<0.225.0> is moving to the position {10, 21}
+19:39:05.726 [info] Ant with pid #PID<0.215.0> is moving to the position {5, 5}
+19:39:05.726 [info] Ant with pid #PID<0.154.0> is moving to the position {11, 0}
+19:39:05.726 [info] Ant with pid #PID<0.159.0> is moving to the position {1, 4}
+19:39:05.727 [info] Ant with pid #PID<0.182.0> is moving to the position {21, 11}
+19:39:05.729 [info] Ant with pid #PID<0.209.0> is moving to the position {4, 2}
+19:39:05.730 [info] Ant with pid #PID<0.236.0> is moving to the position {4, 2}
+19:39:05.730 [info] Ant with pid #PID<0.149.0> is moving to the position {19, 10}
+19:39:05.731 [info] Ant with pid #PID<0.142.0> is moving to the position {19, 10}
+19:39:05.732 [info] Ant with pid #PID<0.226.0> is moving to the position {17, 13}
+19:39:05.733 [info] Ant with pid #PID<0.194.0> is moving to the position {15, 13}
+19:39:05.734 [info] Ant with pid #PID<0.239.0> is moving to the position {15, 13}
+19:39:05.735 [info] Ant with pid #PID<0.190.0> is moving to the position {0, 20}
+19:39:05.736 [info] Ant with pid #PID<0.213.0> is moving to the position {10, 21}
+19:39:05.736 [info] Ant with pid #PID<0.245.0> is moving to the position {18, 20}
+19:39:05.738 [info] Ant with pid #PID<0.167.0> is moving to the position {20, 11}
+19:39:05.740 [info] Ant with pid #PID<0.178.0> is moving to the position {4, 0}
+19:39:05.742 [info] Ant with pid #PID<0.183.0> is moving to the position {10, 10}
+19:39:05.745 [info] Ant with pid #PID<0.243.0> is moving to the position {14, 18}
+19:39:05.747 [info] Ant with pid #PID<0.251.0> is moving to the position {10, 10}
+19:39:05.749 [info] Ant with pid #PID<0.197.0> is moving to the position {20, 11}
+19:39:05.751 [info] Ant with pid #PID<0.212.0> is moving to the position {6, 18}
+19:39:05.758 [info] Ant with pid #PID<0.222.0> is moving to the position {16, 2}
+19:39:05.765 [info] Ant with pid #PID<0.153.0> is moving to the position {3, 23}
+19:39:05.773 [info] Ant with pid #PID<0.214.0> is moving to the position {7, 22}
+19:39:05.776 [info] Ant with pid #PID<0.193.0> is moving to the position {6, 19}
+19:39:05.781 [info] Ant with pid #PID<0.200.0> is moving to the position {2, 5}
+19:39:05.782 [info] Ant with pid #PID<0.187.0> is moving to the position {6, 19}
+19:39:05.790 [info] Ant with pid #PID<0.117.0> is moving to the position {1, 9}
+19:39:05.791 [info] Ant with pid #PID<0.247.0> is moving to the position {10, 9}
+19:39:05.795 [info] Ant with pid #PID<0.115.0> is moving to the position {14, 14}
+19:39:05.801 [info] Ant with pid #PID<0.111.0> is moving to the position {14, 14}
+19:39:05.804 [info] Ant with pid #PID<0.238.0> is moving to the position {6, 19}
+19:39:05.807 [info] Ant with pid #PID<0.237.0> is moving to the position {23, 0}
+19:39:05.811 [info] Ant with pid #PID<0.169.0> is moving to the position {23, 6}
+19:39:05.828 [info] Ant with pid #PID<0.192.0> is moving to the position {18, 3}
+19:39:05.832 [info] Ant with pid #PID<0.213.0> is moving to the position {9, 22}
+19:39:05.838 [info] Ant with pid #PID<0.149.0> is moving to the position {18, 9}
+19:39:05.850 [info] Ant with pid #PID<0.215.0> is moving to the position {6, 6}
+19:39:05.858 [info] Ant with pid #PID<0.239.0> is moving to the position {16, 12}
+19:39:05.858 [info] Ant with pid #PID<0.232.0> is moving to the position {22, 18}
+19:39:05.868 [info] Ant with pid #PID<0.209.0> is moving to the position {4, 3}
+19:39:05.873 [info] Ant with pid #PID<0.115.0> is moving to the position {13, 14}
+19:39:05.884 [info] Ant with pid #PID<0.193.0> is moving to the position {5, 18}
+19:39:05.885 [info] Ant with pid #PID<0.111.0> is moving to the position {13, 14}
+19:39:05.915 [info] Ant with pid #PID<0.242.0> is moving to the position {23, 5}
+19:39:05.935 [info] Ant with pid #PID<0.117.0> is moving to the position {2, 9}
+19:39:05.949 [info] Ant with pid #PID<0.169.0> is moving to the position {23, 5}
+19:39:05.978 [info] Ant with pid #PID<0.178.0> is moving to the position {5, 1}
+19:39:05.978 [info] Ant with pid #PID<0.213.0> is moving to the position {9, 23}
+19:39:05.978 [info] Ant with pid #PID<0.192.0> is moving to the position {17, 3}
+19:39:06.013 [info] Ant with pid #PID<0.222.0> is moving to the position {17, 3}
+19:39:06.014 [info] Ant with pid #PID<0.149.0> is moving to the position {18, 10}
+19:39:06.024 [info] Ant with pid #PID<0.193.0> is moving to the position {5, 17}
+19:39:06.028 [info] Ant with pid #PID<0.232.0> is moving to the position {22, 19}
+19:39:06.039 [info] Ant with pid #PID<0.115.0> is moving to the position {13, 13}
+19:39:06.041 [info] Ant with pid #PID<0.111.0> is moving to the position {13, 13}
+19:39:06.068 [info] Ant with pid #PID<0.121.0> is moving to the position {0, 1}
+19:39:06.070 [info] Ant with pid #PID<0.182.0> is moving to the position {20, 12}
+19:39:06.073 [info] Ant with pid #PID<0.223.0> is moving to the position {12, 15}
+19:39:06.075 [info] Ant with pid #PID<0.215.0> is moving to the position {6, 5}
+19:39:06.080 [info] Ant with pid #PID<0.117.0> is moving to the position {3, 10}
+19:39:06.086 [info] Ant with pid #PID<0.243.0> is moving to the position {13, 18}
+19:39:06.122 [info] Ant with pid #PID<0.178.0> is moving to the position {5, 0}
+19:39:06.153 [info] Ant with pid #PID<0.213.0> is moving to the position {8, 23}
+19:39:06.159 [info] Ant with pid #PID<0.242.0> is moving to the position {23, 4}
+19:39:06.177 [info] Ant with pid #PID<0.192.0> is moving to the position {16, 3}
+19:39:06.195 [info] Ant with pid #PID<0.209.0> is moving to the position {5, 2}
+19:39:06.197 [info] Ant with pid #PID<0.200.0> is moving to the position {3, 6}
+19:39:06.203 [info] Ant with pid #PID<0.115.0> is moving to the position {12, 14}
+19:39:06.218 [info] Ant with pid #PID<0.222.0> is moving to the position {16, 4}
+19:39:06.224 [info] Ant with pid #PID<0.193.0> is moving to the position {5, 16}
+19:39:06.249 [info] Ant with pid #PID<0.111.0> is moving to the position {12, 14}
+19:39:06.268 [info] Ant with pid #PID<0.242.0> is moving to the position {22, 4}
+19:39:06.279 [info] Ant with pid #PID<0.192.0> is moving to the position {17, 4}
+19:39:06.282 [info] Ant with pid #PID<0.115.0> is moving to the position {12, 13}
+19:39:06.287 [info] Ant with pid #PID<0.117.0> is moving to the position {3, 9}
+19:39:06.312 [info] Ant with pid #PID<0.209.0> is moving to the position {5, 3}
+19:39:06.346 [info] Ant with pid #PID<0.115.0> is moving to the position {12, 12}
+19:39:06.449 [info] Ant with pid #PID<0.242.0> is moving to the position {22, 3}
+19:39:06.481 [info] Ant with pid #PID<0.249.0> is moving to the position {21, 16}
+19:39:06.501 [info] Ant with pid #PID<0.119.0> is moving to the position {15, 8}
+19:39:06.502 [info] Ant with pid #PID<0.248.0> is moving to the position {23, 22}
+19:39:06.503 [info] Ant with pid #PID<0.194.0> is moving to the position {16, 13}
+19:39:06.526 [info] Ant with pid #PID<0.199.0> is moving to the position {14, 4}
+19:39:06.535 [info] Ant with pid #PID<0.182.0> is moving to the position {21, 13}
+19:39:06.539 [info] Ant with pid #PID<0.140.0> is moving to the position {5, 8}
+19:39:06.540 [info] Ant with pid #PID<0.216.0> is moving to the position {23, 1}
+19:39:06.540 [info] Ant with pid #PID<0.226.0> is moving to the position {17, 12}
+19:39:06.545 [info] Ant with pid #PID<0.243.0> is moving to the position {14, 19}
+19:39:06.546 [info] Ant with pid #PID<0.219.0> is moving to the position {10, 12}
+19:39:06.546 [info] Ant with pid #PID<0.244.0> is moving to the position {10, 12}
+19:39:06.547 [info] Ant with pid #PID<0.230.0> is moving to the position {0, 12}
+19:39:06.548 [info] Ant with pid #PID<0.172.0> is moving to the position {23, 18}
+19:39:06.549 [info] Ant with pid #PID<0.114.0> is moving to the position {9, 16}
+19:39:06.557 [info] Ant with pid #PID<0.208.0> is moving to the position {17, 12}
+19:39:06.573 [info] Ant with pid #PID<0.178.0> is moving to the position {6, 0}
+19:39:06.585 [info] Ant with pid #PID<0.167.0> is moving to the position {21, 10}
+19:39:06.589 [info] Ant with pid #PID<0.154.0> is moving to the position {11, 1}
+19:39:06.605 [info] Ant with pid #PID<0.183.0> is moving to the position {9, 9}
+19:39:06.618 [info] Ant with pid #PID<0.242.0> is moving to the position {21, 4}
+19:39:06.638 [info] Ant with pid #PID<0.194.0> is moving to the position {16, 14}
+19:39:06.639 [info] Ant with pid #PID<0.154.0> is moving to the position {12, 2}
+19:39:06.644 [info] Ant with pid #PID<0.249.0> is moving to the position {22, 17}
+19:39:06.668 [info] Ant with pid #PID<0.248.0> is moving to the position {23, 21}
+19:39:06.670 [info] Ant with pid #PID<0.167.0> is moving to the position {21, 9}
+19:39:06.672 [info] Ant with pid #PID<0.200.0> is moving to the position {2, 6}
+19:39:06.674 [info] Ant with pid #PID<0.245.0> is moving to the position {18, 19}
+19:39:06.674 [info] Ant with pid #PID<0.119.0> is moving to the position {16, 8}
+19:39:06.691 [info] Ant with pid #PID<0.199.0> is moving to the position {15, 3}
+19:39:06.692 [info] Ant with pid #PID<0.172.0> is moving to the position {23, 19}
+19:39:06.694 [info] Ant with pid #PID<0.208.0> is moving to the position {16, 11}
+19:39:06.694 [info] Ant with pid #PID<0.216.0> is moving to the position {22, 1}
+19:39:06.695 [info] Ant with pid #PID<0.209.0> is moving to the position {6, 2}
+19:39:06.699 [info] Ant with pid #PID<0.190.0> is moving to the position {23, 19}
+19:39:06.699 [info] Ant with pid #PID<0.223.0> is moving to the position {12, 16}
+19:39:06.703 [info] Ant with pid #PID<0.249.0> is moving to the position {22, 16}
+19:39:06.703 [info] Ant with pid #PID<0.194.0> is moving to the position {17, 15}
+19:39:06.706 [info] Ant with pid #PID<0.114.0> is moving to the position {10, 17}
+19:39:06.710 [info] Ant with pid #PID<0.230.0> is moving to the position {0, 13}
+19:39:06.710 [info] Ant with pid #PID<0.113.0> is moving to the position {3, 16}
+19:39:06.711 [info] Ant with pid #PID<0.169.0> is moving to the position {22, 6}
+19:39:06.712 [info] Ant with pid #PID<0.244.0> is moving to the position {10, 13}
+19:39:06.721 [info] Ant with pid #PID<0.243.0> is moving to the position {13, 19}
+19:39:06.723 [info] Ant with pid #PID<0.219.0> is moving to the position {10, 13}
+19:39:06.725 [info] Ant with pid #PID<0.140.0> is moving to the position {4, 8}
+19:39:06.725 [info] Ant with pid #PID<0.182.0> is moving to the position {20, 13}
+19:39:06.726 [info] Ant with pid #PID<0.248.0> is moving to the position {22, 22}
+19:39:06.726 [info] Ant with pid #PID<0.119.0> is moving to the position {17, 9}
+19:39:06.726 [info] Ant with pid #PID<0.245.0> is moving to the position {19, 20}
+19:39:06.742 [info] Ant with pid #PID<0.115.0> is moving to the position {11, 13}
+19:39:06.745 [info] Ant with pid #PID<0.232.0> is moving to the position {22, 20}
+19:39:06.746 [info] Ant with pid #PID<0.183.0> is moving to the position {10, 8}
+19:39:06.746 [info] Ant with pid #PID<0.214.0> is moving to the position {6, 22}
+19:39:06.755 [info] Ant with pid #PID<0.178.0> is moving to the position {6, 1}
+19:39:06.759 [info] Ant with pid #PID<0.199.0> is moving to the position {15, 2}
+19:39:06.762 [info] Ant with pid #PID<0.154.0> is moving to the position {11, 2}
+19:39:06.768 [info] Ant with pid #PID<0.216.0> is moving to the position {22, 2}
+19:39:06.768 [info] Ant with pid #PID<0.208.0> is moving to the position {17, 10}
+19:39:06.769 [info] Ant with pid #PID<0.247.0> is moving to the position {10, 8}
+19:39:06.770 [info] Ant with pid #PID<0.153.0> is moving to the position {4, 22}
+19:39:06.772 [info] Ant with pid #PID<0.230.0> is moving to the position {1, 13}
+19:39:06.774 [info] Ant with pid #PID<0.114.0> is moving to the position {11, 18}
+19:39:06.775 [info] Ant with pid #PID<0.223.0> is moving to the position {12, 17}
+19:39:06.776 [info] Ant with pid #PID<0.149.0> is moving to the position {17, 10}
+19:39:06.778 [info] Ant with pid #PID<0.242.0> is moving to the position {21, 5}
+19:39:06.785 [info] Ant with pid #PID<0.244.0> is moving to the position {10, 14}
+19:39:06.794 [info] Ant with pid #PID<0.243.0> is moving to the position {14, 20}
+19:39:06.796 [info] Ant with pid #PID<0.182.0> is moving to the position {21, 14}
+19:39:06.796 [info] Ant with pid #PID<0.140.0> is moving to the position {5, 9}
+19:39:06.797 [info] Ant with pid #PID<0.219.0> is moving to the position {9, 14}
+19:39:06.801 [info] Ant with pid #PID<0.213.0> is moving to the position {7, 0}
+19:39:06.803 [info] Ant with pid #PID<0.167.0> is moving to the position {22, 10}
+19:39:06.805 [info] Ant with pid #PID<0.232.0> is moving to the position {22, 21}
+19:39:06.806 [info] Ant with pid #PID<0.214.0> is moving to the position {6, 23}
+19:39:06.825 [info] Ant with pid #PID<0.222.0> is moving to the position {17, 5}
+19:39:06.828 [info] Ant with pid #PID<0.183.0> is moving to the position {9, 7}
+19:39:06.828 [info] Ant with pid #PID<0.200.0> is moving to the position {3, 7}
+19:39:06.831 [info] Ant with pid #PID<0.193.0> is moving to the position {4, 17}
+19:39:06.839 [info] Ant with pid #PID<0.192.0> is moving to the position {18, 4}
+19:39:06.842 [info] Ant with pid #PID<0.153.0> is moving to the position {5, 23}
+19:39:06.843 [info] Ant with pid #PID<0.247.0> is moving to the position {9, 7}
+19:39:06.845 [info] Ant with pid #PID<0.117.0> is moving to the position {4, 9}
+19:39:06.850 [info] Ant with pid #PID<0.209.0> is moving to the position {6, 3}
+19:39:06.858 [info] Ant with pid #PID<0.215.0> is moving to the position {6, 4}
+19:39:06.861 [info] Ant with pid #PID<0.149.0> is moving to the position {16, 9}
+19:39:06.868 [info] Ant with pid #PID<0.167.0> is moving to the position {23, 10}
+19:39:06.875 [info] Ant with pid #PID<0.114.0> is moving to the position {10, 18}
+19:39:06.876 [info] Ant with pid #PID<0.154.0> is moving to the position {12, 1}
+19:39:06.878 [info] Ant with pid #PID<0.169.0> is moving to the position {23, 7}
+19:39:06.879 [info] Ant with pid #PID<0.222.0> is moving to the position {18, 5}
+19:39:06.883 [info] Ant with pid #PID<0.194.0> is moving to the position {18, 15}
+19:39:06.888 [info] Ant with pid #PID<0.242.0> is moving to the position {21, 6}
+19:39:06.888 [info] Ant with pid #PID<0.249.0> is moving to the position {21, 15}
+19:39:06.891 [info] Ant with pid #PID<0.248.0> is moving to the position {21, 22}
+19:39:06.892 [info] Ant with pid #PID<0.199.0> is moving to the position {14, 3}
+19:39:06.892 [info] Ant with pid #PID<0.113.0> is moving to the position {4, 16}
+19:39:06.893 [info] Ant with pid #PID<0.193.0> is moving to the position {4, 18}
+19:39:06.894 [info] Ant with pid #PID<0.200.0> is moving to the position {3, 8}
+19:39:06.895 [info] Ant with pid #PID<0.192.0> is moving to the position {19, 5}
+19:39:06.897 [info] Ant with pid #PID<0.245.0> is moving to the position {19, 21}
+19:39:06.907 [info] Ant with pid #PID<0.119.0> is moving to the position {16, 9}
+19:39:06.916 [info] Ant with pid #PID<0.117.0> is moving to the position {5, 10}
+19:39:06.917 [info] Ant with pid #PID<0.216.0> is moving to the position {21, 1}
+19:39:06.917 [info] Ant with pid #PID<0.215.0> is moving to the position {7, 5}
+19:39:06.918 [info] Ant with pid #PID<0.209.0> is moving to the position {7, 4}
+19:39:06.919 [info] Ant with pid #PID<0.153.0> is moving to the position {4, 23}
+19:39:06.935 [info] Ant with pid #PID<0.183.0> is moving to the position {10, 6}
+19:39:06.940 [info] Ant with pid #PID<0.223.0> is moving to the position {11, 17}
+19:39:06.940 [info] Ant with pid #PID<0.244.0> is moving to the position {9, 15}
+19:39:06.945 [info] Ant with pid #PID<0.169.0> is moving to the position {0, 8}
+19:39:06.946 [info] Ant with pid #PID<0.230.0> is moving to the position {0, 14}
+19:39:06.948 [info] Ant with pid #PID<0.194.0> is moving to the position {19, 16}
+19:39:06.949 [info] Ant with pid #PID<0.249.0> is moving to the position {22, 15}
+19:39:06.952 [info] Ant with pid #PID<0.248.0> is moving to the position {21, 21}
+19:39:06.962 [info] Ant with pid #PID<0.182.0> is moving to the position {22, 13}
+19:39:06.963 [info] Ant with pid #PID<0.140.0> is moving to the position {6, 9}
+19:39:06.964 [info] Ant with pid #PID<0.214.0> is moving to the position {5, 22}
+19:39:06.971 [info] Ant with pid #PID<0.232.0> is moving to the position {21, 20}
+19:39:06.976 [info] Ant with pid #PID<0.167.0> is moving to the position {22, 9}
+19:39:06.978 [info] Ant with pid #PID<0.199.0> is moving to the position {14, 2}
+19:39:06.983 [info] Ant with pid #PID<0.247.0> is moving to the position {9, 6}
+19:39:06.986 [info] Ant with pid #PID<0.243.0> is moving to the position {15, 20}
+19:39:06.991 [info] Ant with pid #PID<0.224.0> is moving to the position {23, 10}
+19:39:06.991 [info] Ant with pid #PID<0.216.0> is moving to the position {21, 2}
+19:39:06.995 [info] Ant with pid #PID<0.222.0> is moving to the position {17, 6}
+19:39:06.997 [info] Ant with pid #PID<0.200.0> is moving to the position {2, 7}
+19:39:06.999 [info] Ant with pid #PID<0.219.0> is moving to the position {9, 13}
+19:39:07.008 [info] Ant with pid #PID<0.230.0> is moving to the position {23, 15}
+19:39:07.009 [info] Ant with pid #PID<0.192.0> is moving to the position {20, 5}
+19:39:07.011 [info] Ant with pid #PID<0.149.0> is moving to the position {17, 8}
+19:39:07.045 [info] Ant with pid #PID<0.183.0> is moving to the position {11, 6}
+19:39:07.047 [info] Ant with pid #PID<0.242.0> is moving to the position {20, 5}
+19:39:07.048 [info] Ant with pid #PID<0.247.0> is moving to the position {10, 5}
+19:39:07.050 [info] Ant with pid #PID<0.117.0> is moving to the position {4, 10}
+19:39:07.051 [info] Ant with pid #PID<0.193.0> is moving to the position {3, 18}
+19:39:07.075 [info] Ant with pid #PID<0.194.0> is moving to the position {19, 15}
+19:39:07.076 [info] Ant with pid #PID<0.182.0> is moving to the position {22, 14}
+19:39:07.082 [info] Ant with pid #PID<0.200.0> is moving to the position {2, 8}
+19:39:07.083 [info] Ant with pid #PID<0.215.0> is moving to the position {8, 5}
+19:39:07.094 [info] Ant with pid #PID<0.222.0> is moving to the position {16, 7}
+19:39:07.095 [info] Ant with pid #PID<0.167.0> is moving to the position {23, 8}
+19:39:07.106 [info] Ant with pid #PID<0.224.0> is moving to the position {0, 10}
+19:39:07.126 [info] Ant with pid #PID<0.209.0> is moving to the position {7, 3}
+19:39:07.126 [info] Ant with pid #PID<0.183.0> is moving to the position {12, 6}
+19:39:07.127 [info] Ant with pid #PID<0.192.0> is moving to the position {20, 4}
+19:39:07.128 [info] Ant with pid #PID<0.193.0> is moving to the position {3, 19}
+19:39:07.138 [info] Ant with pid #PID<0.169.0> is moving to the position {1, 8}
+19:39:07.153 [info] Ant with pid #PID<0.247.0> is moving to the position {11, 5}
+19:39:07.155 [info] Ant with pid #PID<0.194.0> is moving to the position {18, 16}
+19:39:07.164 [info] Ant with pid #PID<0.215.0> is moving to the position {9, 5}
+19:39:07.166 [info] Ant with pid #PID<0.192.0> is moving to the position {19, 3}
+19:39:07.170 [info] Ant with pid #PID<0.167.0> is moving to the position {0, 9}
+19:39:07.171 [info] Ant with pid #PID<0.247.0> is moving to the position {12, 5}
+19:39:07.177 [info] Ant with pid #PID<0.117.0> is moving to the position {3, 11}
+19:39:07.186 [info] Ant with pid #PID<0.242.0> is moving to the position {20, 4}
+19:39:07.202 [info] Ant with pid #PID<0.222.0> is moving to the position {17, 7}
+19:39:07.203 [info] Ant with pid #PID<0.194.0> is moving to the position {17, 16}
+19:39:07.246 [info] Ant with pid #PID<0.248.0> is moving to the position {20, 20}
+19:39:07.266 [info] Ant with pid #PID<0.216.0> is moving to the position {20, 2}
+19:39:07.278 [info] Ant with pid #PID<0.242.0> is moving to the position {20, 3}
+19:39:07.284 [info] Ant with pid #PID<0.113.0> is moving to the position {3, 17}
+19:39:07.284 [info] Ant with pid #PID<0.154.0> is moving to the position {12, 0}
+19:39:07.288 [info] Ant with pid #PID<0.245.0> is moving to the position {20, 21}
+19:39:07.296 [info] Ant with pid #PID<0.215.0> is moving to the position {8, 4}
+19:39:07.358 [info] Ant with pid #PID<0.222.0> is moving to the position {18, 7}
+19:39:07.361 [info] Ant with pid #PID<0.214.0> is moving to the position {5, 21}
+19:39:07.364 [info] Ant with pid #PID<0.244.0> is moving to the position {8, 15}
+19:39:07.378 [info] Ant with pid #PID<0.199.0> is moving to the position {14, 1}
+19:39:07.384 [info] Ant with pid #PID<0.113.0> is moving to the position {2, 17}
+19:39:07.403 [info] Ant with pid #PID<0.193.0> is moving to the position {2, 19}
+19:39:07.431 [info] Ant with pid #PID<0.194.0> is moving to the position {18, 17}
+19:39:07.433 [info] Ant with pid #PID<0.219.0> is moving to the position {8, 14}
+19:39:07.465 [info] Ant with pid #PID<0.149.0> is moving to the position {18, 8}
+19:39:07.471 [info] Ant with pid #PID<0.244.0> is moving to the position {8, 14}
+19:39:07.487 [info] Ant with pid #PID<0.214.0> is moving to the position {4, 21}
+19:39:07.488 [info] Ant with pid #PID<0.117.0> is moving to the position {4, 11}
+19:39:07.494 [info] Ant with pid #PID<0.222.0> is moving to the position {19, 6}
+19:39:07.498 [info] Ant with pid #PID<0.199.0> is moving to the position {13, 2}
+19:39:07.550 [info] Ant with pid #PID<0.214.0> is moving to the position {4, 20}
+19:39:07.582 [info] Ant with pid #PID<0.222.0> is moving to the position {20, 6}
+19:39:07.621 [info] Ant with pid #PID<0.249.0> is moving to the position {23, 14}
+19:39:07.639 [info] Ant with pid #PID<0.222.0> is moving to the position {21, 7}
+19:39:07.663 [info] Ant with pid #PID<0.194.0> is moving to the position {17, 17}
+19:39:07.669 [info] Ant with pid #PID<0.154.0> is moving to the position {12, 23}

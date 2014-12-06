@@ -1,0 +1,2121 @@
+18:55:40.335 [info] Ant with pid #PID<0.106.0> has the data [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.04166666666666667]
+18:55:40.335 [info] Ant with pid #PID<0.107.0> has the data [0.1666666666666668, 0.41666666666666663, 0.06779661016949151, 0.04166666666666667]
+18:55:40.336 [info] Ant with pid #PID<0.109.0> has the data [0.11111111111111119, 0.5, 0.05084745762711865, 0.04166666666666667]
+18:55:40.336 [info] Ant with pid #PID<0.110.0> has the data [0.08333333333333327, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]
+18:55:40.336 [info] Ant with pid #PID<0.111.0> has the data [0.19444444444444448, 0.6666666666666666, 0.06779661016949151, 0.04166666666666667]
+18:55:40.336 [info] Ant with pid #PID<0.112.0> has the data [0.30555555555555564, 0.7916666666666665, 0.11864406779661016, 0.12500000000000003]
+18:55:40.336 [info] Ant with pid #PID<0.113.0> has the data [0.08333333333333327, 0.5833333333333333, 0.06779661016949151, 0.08333333333333333]
+18:55:40.336 [info] Ant with pid #PID<0.114.0> has the data [0.19444444444444448, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]
+18:55:40.336 [info] Ant with pid #PID<0.115.0> has the data [0.027777777777777922, 0.3749999999999999, 0.06779661016949151, 0.04166666666666667]
+18:55:40.337 [info] Ant with pid #PID<0.116.0> has the data [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.0]
+18:55:40.337 [info] Ant with pid #PID<0.117.0> has the data [0.30555555555555564, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]
+18:55:40.337 [info] Ant with pid #PID<0.118.0> has the data [0.13888888888888887, 0.5833333333333333, 0.1016949152542373, 0.04166666666666667]
+18:55:40.337 [info] Ant with pid #PID<0.119.0> has the data [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.0]
+18:55:40.337 [info] Ant with pid #PID<0.120.0> has the data [0.0, 0.41666666666666663, 0.016949152542372895, 0.0]
+18:55:40.337 [info] Ant with pid #PID<0.121.0> has the data [0.41666666666666663, 0.8333333333333333, 0.033898305084745756, 0.04166666666666667]
+18:55:40.337 [info] Ant with pid #PID<0.122.0> has the data [0.38888888888888895, 1.0, 0.0847457627118644, 0.12500000000000003]
+18:55:40.338 [info] Ant with pid #PID<0.123.0> has the data [0.30555555555555564, 0.7916666666666665, 0.05084745762711865, 0.12500000000000003]
+18:55:40.338 [info] Ant with pid #PID<0.124.0> has the data [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.08333333333333333]
+18:55:40.338 [info] Ant with pid #PID<0.125.0> has the data [0.38888888888888895, 0.7499999999999998, 0.11864406779661016, 0.08333333333333333]
+18:55:40.338 [info] Ant with pid #PID<0.126.0> has the data [0.22222222222222213, 0.7499999999999998, 0.0847457627118644, 0.08333333333333333]
+18:55:40.338 [info] Ant with pid #PID<0.127.0> has the data [0.30555555555555564, 0.5833333333333333, 0.11864406779661016, 0.04166666666666667]
+18:55:40.338 [info] Ant with pid #PID<0.128.0> has the data [0.22222222222222213, 0.7083333333333333, 0.0847457627118644, 0.12500000000000003]
+18:55:40.338 [info] Ant with pid #PID<0.129.0> has the data [0.08333333333333327, 0.6666666666666666, 0.0, 0.04166666666666667]
+18:55:40.339 [info] Ant with pid #PID<0.130.0> has the data [0.22222222222222213, 0.5416666666666665, 0.11864406779661016, 0.16666666666666669]
+18:55:40.339 [info] Ant with pid #PID<0.131.0> has the data [0.13888888888888887, 0.5833333333333333, 0.15254237288135591, 0.04166666666666667]
+18:55:40.339 [info] Ant with pid #PID<0.132.0> has the data [0.19444444444444448, 0.41666666666666663, 0.1016949152542373, 0.04166666666666667]
+18:55:40.339 [info] Ant with pid #PID<0.133.0> has the data [0.19444444444444448, 0.5833333333333333, 0.1016949152542373, 0.12500000000000003]
+18:55:40.339 [info] Ant with pid #PID<0.134.0> has the data [0.25000000000000006, 0.6249999999999999, 0.0847457627118644, 0.04166666666666667]
+18:55:40.339 [info] Ant with pid #PID<0.135.0> has the data [0.25000000000000006, 0.5833333333333333, 0.06779661016949151, 0.04166666666666667]
+18:55:40.339 [info] Ant with pid #PID<0.136.0> has the data [0.11111111111111119, 0.5, 0.1016949152542373, 0.04166666666666667]
+18:55:40.339 [info] Ant with pid #PID<0.137.0> has the data [0.13888888888888887, 0.4583333333333333, 0.1016949152542373, 0.04166666666666667]
+18:55:40.340 [info] Ant with pid #PID<0.138.0> has the data [0.30555555555555564, 0.5833333333333333, 0.0847457627118644, 0.12500000000000003]
+18:55:40.340 [info] Ant with pid #PID<0.139.0> has the data [0.25000000000000006, 0.8749999999999998, 0.0847457627118644, 0.0]
+18:55:40.340 [info] Ant with pid #PID<0.140.0> has the data [0.3333333333333333, 0.9166666666666666, 0.06779661016949151, 0.04166666666666667]
+18:55:40.340 [info] Ant with pid #PID<0.141.0> has the data [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]
+18:55:40.340 [info] Ant with pid #PID<0.142.0> has the data [0.19444444444444448, 0.5, 0.033898305084745756, 0.04166666666666667]
+18:55:40.340 [info] Ant with pid #PID<0.143.0> has the data [0.3333333333333333, 0.6249999999999999, 0.05084745762711865, 0.04166666666666667]
+18:55:40.340 [info] Ant with pid #PID<0.144.0> has the data [0.1666666666666668, 0.6666666666666666, 0.06779661016949151, 0.0]
+18:55:40.341 [info] Ant with pid #PID<0.145.0> has the data [0.027777777777777922, 0.41666666666666663, 0.05084745762711865, 0.04166666666666667]
+18:55:40.341 [info] Ant with pid #PID<0.146.0> has the data [0.22222222222222213, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]
+18:55:40.341 [info] Ant with pid #PID<0.147.0> has the data [0.19444444444444448, 0.6249999999999999, 0.05084745762711865, 0.08333333333333333]
+18:55:40.341 [info] Ant with pid #PID<0.148.0> has the data [0.055555555555555594, 0.1249999999999999, 0.05084745762711865, 0.08333333333333333]
+18:55:40.341 [info] Ant with pid #PID<0.149.0> has the data [0.027777777777777922, 0.5, 0.05084745762711865, 0.04166666666666667]
+18:55:40.341 [info] Ant with pid #PID<0.150.0> has the data [0.19444444444444448, 0.6249999999999999, 0.1016949152542373, 0.20833333333333334]
+18:55:40.341 [info] Ant with pid #PID<0.151.0> has the data [0.22222222222222213, 0.7499999999999998, 0.15254237288135591, 0.12500000000000003]
+18:55:40.342 [info] Ant with pid #PID<0.152.0> has the data [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.08333333333333333]
+18:55:40.342 [info] Ant with pid #PID<0.153.0> has the data [0.22222222222222213, 0.7499999999999998, 0.1016949152542373, 0.04166666666666667]
+18:55:40.342 [info] Ant with pid #PID<0.154.0> has the data [0.08333333333333327, 0.5, 0.06779661016949151, 0.04166666666666667]
+18:55:40.342 [info] Ant with pid #PID<0.155.0> has the data [0.27777777777777773, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]
+18:55:40.342 [info] Ant with pid #PID<0.156.0> has the data [0.19444444444444448, 0.5416666666666665, 0.06779661016949151, 0.04166666666666667]
+18:55:40.342 [info] Ant with pid #PID<0.157.0> has the data [0.7499999999999999, 0.5, 0.6271186440677966, 0.5416666666666666]
+18:55:40.342 [info] Ant with pid #PID<0.158.0> has the data [0.5833333333333334, 0.5, 0.5932203389830508, 0.5833333333333334]
+18:55:40.342 [info] Ant with pid #PID<0.159.0> has the data [0.7222222222222222, 0.4583333333333333, 0.6610169491525424, 0.5833333333333334]
+18:55:40.343 [info] Ant with pid #PID<0.160.0> has the data [0.3333333333333333, 0.1249999999999999, 0.5084745762711864, 0.5]
+18:55:40.343 [info] Ant with pid #PID<0.161.0> has the data [0.611111111111111, 0.3333333333333332, 0.6101694915254237, 0.5833333333333334]
+18:55:40.343 [info] Ant with pid #PID<0.162.0> has the data [0.38888888888888895, 0.3333333333333332, 0.5932203389830508, 0.5]
+18:55:40.343 [info] Ant with pid #PID<0.163.0> has the data [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625]
+18:55:40.343 [info] Ant with pid #PID<0.164.0> has the data [0.1666666666666668, 0.1666666666666666, 0.38983050847457623, 0.375]
+18:55:40.343 [info] Ant with pid #PID<0.165.0> has the data [0.6388888888888887, 0.3749999999999999, 0.6101694915254237, 0.5]
+18:55:40.343 [info] Ant with pid #PID<0.166.0> has the data [0.25000000000000006, 0.2916666666666667, 0.4915254237288135, 0.5416666666666666]
+18:55:40.344 [info] Ant with pid #PID<0.167.0> has the data [0.19444444444444448, 0.0, 0.423728813559322, 0.375]
+18:55:40.344 [info] Ant with pid #PID<0.168.0> has the data [0.44444444444444453, 0.41666666666666663, 0.5423728813559322, 0.5833333333333334]
+18:55:40.344 [info] Ant with pid #PID<0.169.0> has the data [0.4722222222222222, 0.0833333333333334, 0.5084745762711864, 0.375]
+18:55:40.344 [info] Ant with pid #PID<0.170.0> has the data [0.4999999999999999, 0.3749999999999999, 0.6271186440677966, 0.5416666666666666]
+18:55:40.344 [info] Ant with pid #PID<0.171.0> has the data [0.361111111111111, 0.3749999999999999, 0.4406779661016949, 0.5]
+18:55:40.344 [info] Ant with pid #PID<0.172.0> has the data [0.6666666666666666, 0.4583333333333333, 0.576271186440678, 0.5416666666666666]
+18:55:40.344 [info] Ant with pid #PID<0.173.0> has the data [0.361111111111111, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]
+18:55:40.345 [info] Ant with pid #PID<0.174.0> has the data [0.41666666666666663, 0.2916666666666667, 0.5254237288135593, 0.375]
+18:55:40.345 [info] Ant with pid #PID<0.175.0> has the data [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334]
+18:55:40.345 [info] Ant with pid #PID<0.176.0> has the data [0.361111111111111, 0.20833333333333331, 0.4915254237288135, 0.4166666666666667]
+18:55:40.345 [info] Ant with pid #PID<0.177.0> has the data [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334]
+18:55:40.345 [info] Ant with pid #PID<0.178.0> has the data [0.4999999999999999, 0.3333333333333332, 0.5084745762711864, 0.5]
+18:55:40.345 [info] Ant with pid #PID<0.179.0> has the data [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334]
+18:55:40.345 [info] Ant with pid #PID<0.180.0> has the data [0.4999999999999999, 0.3333333333333332, 0.6271186440677966, 0.4583333333333333]
+18:55:40.346 [info] Ant with pid #PID<0.181.0> has the data [0.5833333333333334, 0.3749999999999999, 0.559322033898305, 0.5]
+18:55:40.346 [info] Ant with pid #PID<0.182.0> has the data [0.6388888888888887, 0.41666666666666663, 0.576271186440678, 0.5416666666666666]
+18:55:40.346 [info] Ant with pid #PID<0.183.0> has the data [0.6944444444444443, 0.3333333333333332, 0.6440677966101694, 0.5416666666666666]
+18:55:40.346 [info] Ant with pid #PID<0.184.0> has the data [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666]
+18:55:40.346 [info] Ant with pid #PID<0.185.0> has the data [0.4722222222222222, 0.3749999999999999, 0.5932203389830508, 0.5833333333333334]
+18:55:40.346 [info] Ant with pid #PID<0.186.0> has the data [0.38888888888888895, 0.25, 0.423728813559322, 0.375]
+18:55:40.346 [info] Ant with pid #PID<0.187.0> has the data [0.3333333333333333, 0.1666666666666666, 0.47457627118644063, 0.4166666666666667]
+18:55:40.347 [info] Ant with pid #PID<0.188.0> has the data [0.3333333333333333, 0.1666666666666666, 0.4576271186440678, 0.375]
+18:55:40.347 [info] Ant with pid #PID<0.189.0> has the data [0.41666666666666663, 0.2916666666666667, 0.4915254237288135, 0.4583333333333333]
+18:55:40.347 [info] Ant with pid #PID<0.190.0> has the data [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625]
+18:55:40.347 [info] Ant with pid #PID<0.191.0> has the data [0.30555555555555564, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]
+18:55:40.347 [info] Ant with pid #PID<0.192.0> has the data [0.4722222222222222, 0.5833333333333333, 0.5932203389830508, 0.625]
+18:55:40.347 [info] Ant with pid #PID<0.193.0> has the data [0.6666666666666666, 0.4583333333333333, 0.6271186440677966, 0.5833333333333334]
+18:55:40.347 [info] Ant with pid #PID<0.194.0> has the data [0.5555555555555555, 0.1249999999999999, 0.576271186440678, 0.5]
+18:55:40.347 [info] Ant with pid #PID<0.195.0> has the data [0.361111111111111, 0.41666666666666663, 0.5254237288135593, 0.5]
+18:55:40.348 [info] Ant with pid #PID<0.196.0> has the data [0.3333333333333333, 0.20833333333333331, 0.5084745762711864, 0.5]
+18:55:40.348 [info] Ant with pid #PID<0.197.0> has the data [0.3333333333333333, 0.25, 0.576271186440678, 0.4583333333333333]
+18:55:40.348 [info] Ant with pid #PID<0.198.0> has the data [0.4999999999999999, 0.41666666666666663, 0.6101694915254237, 0.5416666666666666]
+18:55:40.348 [info] Ant with pid #PID<0.199.0> has the data [0.41666666666666663, 0.25, 0.5084745762711864, 0.4583333333333333]
+18:55:40.348 [info] Ant with pid #PID<0.200.0> has the data [0.19444444444444448, 0.1249999999999999, 0.38983050847457623, 0.375]
+18:55:40.348 [info] Ant with pid #PID<0.201.0> has the data [0.361111111111111, 0.2916666666666667, 0.5423728813559322, 0.5]
+18:55:40.348 [info] Ant with pid #PID<0.202.0> has the data [0.38888888888888895, 0.41666666666666663, 0.5423728813559322, 0.4583333333333333]
+18:55:40.349 [info] Ant with pid #PID<0.203.0> has the data [0.38888888888888895, 0.3749999999999999, 0.5423728813559322, 0.5]
+18:55:40.349 [info] Ant with pid #PID<0.204.0> has the data [0.5277777777777778, 0.3749999999999999, 0.559322033898305, 0.5]
+18:55:40.349 [info] Ant with pid #PID<0.205.0> has the data [0.22222222222222213, 0.20833333333333331, 0.3389830508474576, 0.4166666666666667]
+18:55:40.349 [info] Ant with pid #PID<0.206.0> has the data [0.38888888888888895, 0.3333333333333332, 0.5254237288135593, 0.5]
+18:55:40.349 [info] Ant with pid #PID<0.207.0> has the data [0.5555555555555555, 0.5416666666666665, 0.847457627118644, 1.0]
+18:55:40.349 [info] Ant with pid #PID<0.208.0> has the data [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]
+18:55:40.349 [info] Ant with pid #PID<0.209.0> has the data [0.7777777777777776, 0.41666666666666663, 0.8305084745762712, 0.8333333333333334]
+18:55:40.350 [info] Ant with pid #PID<0.210.0> has the data [0.5555555555555555, 0.3749999999999999, 0.7796610169491525, 0.7083333333333334]
+18:55:40.350 [info] Ant with pid #PID<0.211.0> has the data [0.611111111111111, 0.41666666666666663, 0.8135593220338982, 0.8750000000000001]
+18:55:40.350 [info] Ant with pid #PID<0.212.0> has the data [0.9166666666666665, 0.41666666666666663, 0.9491525423728813, 0.8333333333333334]
+18:55:40.350 [info] Ant with pid #PID<0.213.0> has the data [0.1666666666666668, 0.20833333333333331, 0.5932203389830508, 0.6666666666666666]
+18:55:40.350 [info] Ant with pid #PID<0.214.0> has the data [0.8333333333333333, 0.3749999999999999, 0.8983050847457626, 0.7083333333333334]
+18:55:40.350 [info] Ant with pid #PID<0.215.0> has the data [0.6666666666666666, 0.20833333333333331, 0.8135593220338982, 0.7083333333333334]
+18:55:40.350 [info] Ant with pid #PID<0.216.0> has the data [0.8055555555555556, 0.6666666666666666, 0.8644067796610169, 1.0]
+18:55:40.350 [info] Ant with pid #PID<0.217.0> has the data [0.611111111111111, 0.5, 0.6949152542372881, 0.7916666666666666]
+18:55:40.351 [info] Ant with pid #PID<0.218.0> has the data [0.5833333333333334, 0.2916666666666667, 0.7288135593220338, 0.75]
+18:55:40.351 [info] Ant with pid #PID<0.219.0> has the data [0.6944444444444443, 0.41666666666666663, 0.7627118644067796, 0.8333333333333334]
+18:55:40.351 [info] Ant with pid #PID<0.220.0> has the data [0.38888888888888895, 0.20833333333333331, 0.6779661016949152, 0.7916666666666666]
+18:55:40.351 [info] Ant with pid #PID<0.221.0> has the data [0.41666666666666663, 0.3333333333333332, 0.6949152542372881, 0.9583333333333333]
+18:55:40.351 [info] Ant with pid #PID<0.222.0> has the data [0.5833333333333334, 0.5, 0.7288135593220338, 0.9166666666666666]
+18:55:40.351 [info] Ant with pid #PID<0.223.0> has the data [0.611111111111111, 0.41666666666666663, 0.7627118644067796, 0.7083333333333334]
+18:55:40.351 [info] Ant with pid #PID<0.224.0> has the data [0.9444444444444444, 0.7499999999999998, 0.9661016949152542, 0.8750000000000001]
+18:55:40.352 [info] Ant with pid #PID<0.225.0> has the data [0.9444444444444444, 0.25, 1.0, 0.9166666666666666]
+18:55:40.352 [info] Ant with pid #PID<0.226.0> has the data [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334]
+18:55:40.352 [info] Ant with pid #PID<0.227.0> has the data [0.7222222222222222, 0.5, 0.7966101694915254, 0.9166666666666666]
+18:55:40.352 [info] Ant with pid #PID<0.228.0> has the data [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666]
+18:55:40.352 [info] Ant with pid #PID<0.229.0> has the data [0.9444444444444444, 0.3333333333333332, 0.9661016949152542, 0.7916666666666666]
+18:55:40.352 [info] Ant with pid #PID<0.230.0> has the data [0.5555555555555555, 0.2916666666666667, 0.6610169491525424, 0.7083333333333334]
+18:55:40.352 [info] Ant with pid #PID<0.231.0> has the data [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 0.8333333333333334]
+18:55:40.352 [info] Ant with pid #PID<0.232.0> has the data [0.8055555555555556, 0.5, 0.847457627118644, 0.7083333333333334]
+18:55:40.353 [info] Ant with pid #PID<0.233.0> has the data [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334]
+18:55:40.353 [info] Ant with pid #PID<0.234.0> has the data [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334]
+18:55:40.353 [info] Ant with pid #PID<0.235.0> has the data [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8333333333333334]
+18:55:40.353 [info] Ant with pid #PID<0.236.0> has the data [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625]
+18:55:40.353 [info] Ant with pid #PID<0.237.0> has the data [0.8611111111111112, 0.3333333333333332, 0.8644067796610169, 0.75]
+18:55:40.353 [info] Ant with pid #PID<0.238.0> has the data [1.0, 0.7499999999999998, 0.9152542372881356, 0.7916666666666666]
+18:55:40.353 [info] Ant with pid #PID<0.239.0> has the data [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8750000000000001]
+18:55:40.353 [info] Ant with pid #PID<0.240.0> has the data [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334]
+18:55:40.354 [info] Ant with pid #PID<0.241.0> has the data [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666]
+18:55:40.354 [info] Ant with pid #PID<0.242.0> has the data [0.9444444444444444, 0.41666666666666663, 0.8644067796610169, 0.9166666666666666]
+18:55:40.354 [info] Ant with pid #PID<0.243.0> has the data [0.5555555555555555, 0.5833333333333333, 0.7796610169491525, 0.9583333333333333]
+18:55:40.354 [info] Ant with pid #PID<0.244.0> has the data [0.5833333333333334, 0.4583333333333333, 0.7627118644067796, 0.7083333333333334]
+18:55:40.354 [info] Ant with pid #PID<0.245.0> has the data [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334]
+18:55:40.354 [info] Ant with pid #PID<0.246.0> has the data [0.7222222222222222, 0.4583333333333333, 0.7457627118644068, 0.8333333333333334]
+18:55:40.354 [info] Ant with pid #PID<0.247.0> has the data [0.6666666666666666, 0.4583333333333333, 0.7796610169491525, 0.9583333333333333]
+18:55:40.355 [info] Ant with pid #PID<0.248.0> has the data [0.7222222222222222, 0.4583333333333333, 0.6949152542372881, 0.9166666666666666]
+18:55:40.355 [info] Ant with pid #PID<0.249.0> has the data [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]
+18:55:40.355 [info] Ant with pid #PID<0.250.0> has the data [0.6944444444444443, 0.5, 0.8305084745762712, 0.9166666666666666]
+18:55:40.355 [info] Ant with pid #PID<0.251.0> has the data [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 1.0]
+18:55:40.355 [info] Ant with pid #PID<0.252.0> has the data [0.6666666666666666, 0.41666666666666663, 0.711864406779661, 0.9166666666666666]
+18:55:40.355 [info] Ant with pid #PID<0.253.0> has the data [0.5555555555555555, 0.20833333333333331, 0.6779661016949152, 0.75]
+18:55:40.355 [info] Ant with pid #PID<0.254.0> has the data [0.611111111111111, 0.41666666666666663, 0.711864406779661, 0.7916666666666666]
+18:55:40.356 [info] Ant with pid #PID<0.255.0> has the data [0.5277777777777778, 0.5833333333333333, 0.7457627118644068, 0.9166666666666666]
+18:55:40.356 [info] Ant with pid #PID<0.256.0> has the data [0.44444444444444453, 0.41666666666666663, 0.6949152542372881, 0.7083333333333334]
+18:55:40.359 [info] Ant with pid #PID<0.106.0> is put on the position {10, 17}
+18:55:40.360 [info] Ant with pid #PID<0.107.0> is put on the position {5, 6}
+18:55:40.360 [info] Ant with pid #PID<0.109.0> is put on the position {20, 2}
+18:55:40.360 [info] Ant with pid #PID<0.110.0> is put on the position {14, 18}
+18:55:40.360 [info] Ant with pid #PID<0.111.0> is put on the position {5, 9}
+18:55:40.360 [info] Ant with pid #PID<0.112.0> is put on the position {17, 11}
+18:55:40.360 [info] Ant with pid #PID<0.113.0> is put on the position {3, 17}
+18:55:40.360 [info] Ant with pid #PID<0.114.0> is put on the position {15, 18}
+18:55:40.360 [info] Ant with pid #PID<0.115.0> is put on the position {2, 18}
+18:55:40.360 [info] Ant with pid #PID<0.116.0> is put on the position {14, 13}
+18:55:40.360 [info] Ant with pid #PID<0.117.0> is put on the position {20, 11}
+18:55:40.360 [info] Ant with pid #PID<0.118.0> is put on the position {2, 11}
+18:55:40.360 [info] Ant with pid #PID<0.119.0> is put on the position {8, 9}
+18:55:40.360 [info] Ant with pid #PID<0.120.0> is put on the position {14, 10}
+18:55:40.360 [info] Ant with pid #PID<0.121.0> is put on the position {19, 11}
+18:55:40.361 [info] Ant with pid #PID<0.122.0> is put on the position {1, 14}
+18:55:40.361 [info] Ant with pid #PID<0.123.0> is put on the position {7, 9}
+18:55:40.361 [info] Ant with pid #PID<0.124.0> is put on the position {13, 8}
+18:55:40.361 [info] Ant with pid #PID<0.125.0> is put on the position {18, 8}
+18:55:40.361 [info] Ant with pid #PID<0.126.0> is put on the position {2, 19}
+18:55:40.361 [info] Ant with pid #PID<0.127.0> is put on the position {12, 9}
+18:55:40.361 [info] Ant with pid #PID<0.128.0> is put on the position {22, 19}
+18:55:40.361 [info] Ant with pid #PID<0.129.0> is put on the position {6, 19}
+18:55:40.361 [info] Ant with pid #PID<0.130.0> is put on the position {16, 12}
+18:55:40.361 [info] Ant with pid #PID<0.131.0> is put on the position {2, 20}
+18:55:40.361 [info] Ant with pid #PID<0.132.0> is put on the position {12, 8}
+18:55:40.361 [info] Ant with pid #PID<0.133.0> is put on the position {20, 15}
+18:55:40.361 [info] Ant with pid #PID<0.134.0> is put on the position {3, 7}
+18:55:40.361 [info] Ant with pid #PID<0.135.0> is put on the position {9, 3}
+18:55:40.361 [info] Ant with pid #PID<0.136.0> is put on the position {15, 4}
+18:55:40.361 [info] Ant with pid #PID<0.137.0> is put on the position {0, 21}
+18:55:40.362 [info] Ant with pid #PID<0.138.0> is put on the position {9, 16}
+18:55:40.362 [info] Ant with pid #PID<0.139.0> is put on the position {20, 19}
+18:55:40.362 [info] Ant with pid #PID<0.140.0> is put on the position {8, 20}
+18:55:40.362 [info] Ant with pid #PID<0.141.0> is put on the position {21, 8}
+18:55:40.362 [info] Ant with pid #PID<0.142.0> is put on the position {10, 14}
+18:55:40.362 [info] Ant with pid #PID<0.143.0> is put on the position {0, 20}
+18:55:40.362 [info] Ant with pid #PID<0.144.0> is put on the position {17, 18}
+18:55:40.362 [info] Ant with pid #PID<0.145.0> is put on the position {8, 19}
+18:55:40.362 [info] Ant with pid #PID<0.146.0> is put on the position {0, 0}
+18:55:40.362 [info] Ant with pid #PID<0.147.0> is put on the position {12, 18}
+18:55:40.363 [info] Ant with pid #PID<0.148.0> is put on the position {3, 16}
+18:55:40.363 [info] Ant with pid #PID<0.149.0> is put on the position {14, 21}
+18:55:40.363 [info] Ant with pid #PID<0.150.0> is put on the position {23, 17}
+18:55:40.363 [info] Ant with pid #PID<0.151.0> is put on the position {13, 22}
+18:55:40.363 [info] Ant with pid #PID<0.152.0> is put on the position {1, 11}
+18:55:40.363 [info] Ant with pid #PID<0.153.0> is put on the position {16, 13}
+18:55:40.363 [info] Ant with pid #PID<0.154.0> is put on the position {5, 22}
+18:55:40.363 [info] Ant with pid #PID<0.155.0> is put on the position {18, 6}
+18:55:40.363 [info] Ant with pid #PID<0.156.0> is put on the position {7, 14}
+18:55:40.363 [info] Ant with pid #PID<0.157.0> is put on the position {21, 23}
+18:55:40.363 [info] Ant with pid #PID<0.158.0> is put on the position {8, 1}
+18:55:40.364 [info] Ant with pid #PID<0.159.0> is put on the position {18, 12}
+18:55:40.364 [info] Ant with pid #PID<0.160.0> is put on the position {4, 23}
+18:55:40.364 [info] Ant with pid #PID<0.161.0> is put on the position {14, 14}
+18:55:40.364 [info] Ant with pid #PID<0.162.0> is put on the position {3, 22}
+18:55:40.364 [info] Ant with pid #PID<0.163.0> is put on the position {17, 0}
+18:55:40.364 [info] Ant with pid #PID<0.164.0> is put on the position {6, 13}
+18:55:40.364 [info] Ant with pid #PID<0.165.0> is put on the position {19, 0}
+18:55:40.364 [info] Ant with pid #PID<0.166.0> is put on the position {9, 8}
+18:55:40.364 [info] Ant with pid #PID<0.167.0> is put on the position {1, 16}
+18:55:40.364 [info] Ant with pid #PID<0.168.0> is put on the position {16, 14}
+18:55:40.365 [info] Ant with pid #PID<0.169.0> is put on the position {5, 18}
+18:55:40.365 [info] Ant with pid #PID<0.170.0> is put on the position {20, 16}
+18:55:40.365 [info] Ant with pid #PID<0.171.0> is put on the position {17, 6}
+18:55:40.365 [info] Ant with pid #PID<0.172.0> is put on the position {7, 12}
+18:55:40.365 [info] Ant with pid #PID<0.173.0> is put on the position {19, 6}
+18:55:40.365 [info] Ant with pid #PID<0.174.0> is put on the position {7, 3}
+18:55:40.365 [info] Ant with pid #PID<0.175.0> is put on the position {18, 9}
+18:55:40.365 [info] Ant with pid #PID<0.176.0> is put on the position {4, 16}
+18:55:40.365 [info] Ant with pid #PID<0.177.0> is put on the position {15, 20}
+18:55:40.365 [info] Ant with pid #PID<0.178.0> is put on the position {7, 11}
+18:55:40.366 [info] Ant with pid #PID<0.179.0> is put on the position {23, 14}
+18:55:40.366 [info] Ant with pid #PID<0.180.0> is put on the position {14, 12}
+18:55:40.366 [info] Ant with pid #PID<0.181.0> is put on the position {4, 15}
+18:55:40.366 [info] Ant with pid #PID<0.182.0> is put on the position {18, 14}
+18:55:40.366 [info] Ant with pid #PID<0.183.0> is put on the position {13, 4}
+18:55:40.366 [info] Ant with pid #PID<0.184.0> is put on the position {1, 21}
+18:55:40.366 [info] Ant with pid #PID<0.185.0> is put on the position {13, 14}
+18:55:40.366 [info] Ant with pid #PID<0.186.0> is put on the position {1, 10}
+18:55:40.366 [info] Ant with pid #PID<0.187.0> is put on the position {14, 4}
+18:55:40.366 [info] Ant with pid #PID<0.188.0> is put on the position {2, 22}
+18:55:40.367 [info] Ant with pid #PID<0.189.0> is put on the position {19, 20}
+18:55:40.367 [info] Ant with pid #PID<0.190.0> is put on the position {6, 2}
+18:55:40.367 [info] Ant with pid #PID<0.191.0> is put on the position {17, 4}
+18:55:40.367 [info] Ant with pid #PID<0.192.0> is put on the position {20, 17}
+18:55:40.367 [info] Ant with pid #PID<0.193.0> is put on the position {12, 4}
+18:55:40.367 [info] Ant with pid #PID<0.194.0> is put on the position {8, 7}
+18:55:40.367 [info] Ant with pid #PID<0.195.0> is put on the position {23, 0}
+18:55:40.367 [info] Ant with pid #PID<0.196.0> is put on the position {15, 11}
+18:55:40.368 [info] Ant with pid #PID<0.197.0> is put on the position {4, 1}
+18:55:40.368 [info] Ant with pid #PID<0.198.0> is put on the position {16, 20}
+18:55:40.368 [info] Ant with pid #PID<0.199.0> is put on the position {4, 14}
+18:55:40.368 [info] Ant with pid #PID<0.200.0> is put on the position {16, 8}
+18:55:40.368 [info] Ant with pid #PID<0.201.0> is put on the position {5, 21}
+18:55:40.368 [info] Ant with pid #PID<0.202.0> is put on the position {0, 1}
+18:55:40.368 [info] Ant with pid #PID<0.203.0> is put on the position {11, 7}
+18:55:40.368 [info] Ant with pid #PID<0.204.0> is put on the position {12, 19}
+18:55:40.368 [info] Ant with pid #PID<0.205.0> is put on the position {23, 18}
+18:55:40.369 [info] Ant with pid #PID<0.206.0> is put on the position {12, 10}
+18:55:40.369 [info] Ant with pid #PID<0.207.0> is put on the position {1, 17}
+18:55:40.369 [info] Ant with pid #PID<0.208.0> is put on the position {19, 13}
+18:55:40.369 [info] Ant with pid #PID<0.209.0> is put on the position {13, 2}
+18:55:40.369 [info] Ant with pid #PID<0.210.0> is put on the position {15, 23}
+18:55:40.369 [info] Ant with pid #PID<0.211.0> is put on the position {11, 4}
+18:55:40.369 [info] Ant with pid #PID<0.212.0> is put on the position {12, 14}
+18:55:40.370 [info] Ant with pid #PID<0.213.0> is put on the position {10, 16}
+18:55:40.370 [info] Ant with pid #PID<0.214.0> is put on the position {14, 3}
+18:55:40.370 [info] Ant with pid #PID<0.215.0> is put on the position {22, 23}
+18:55:40.370 [info] Ant with pid #PID<0.216.0> is put on the position {3, 15}
+18:55:40.371 [info] Ant with pid #PID<0.217.0> is put on the position {14, 9}
+18:55:40.371 [info] Ant with pid #PID<0.218.0> is put on the position {14, 2}
+18:55:40.371 [info] Ant with pid #PID<0.219.0> is put on the position {17, 15}
+18:55:40.371 [info] Ant with pid #PID<0.220.0> is put on the position {11, 21}
+18:55:40.371 [info] Ant with pid #PID<0.221.0> is put on the position {13, 3}
+18:55:40.372 [info] Ant with pid #PID<0.222.0> is put on the position {15, 21}
+18:55:40.372 [info] Ant with pid #PID<0.223.0> is put on the position {19, 2}
+18:55:40.372 [info] Ant with pid #PID<0.224.0> is put on the position {23, 13}
+18:55:40.372 [info] Ant with pid #PID<0.225.0> is put on the position {4, 7}
+18:55:40.373 [info] Ant with pid #PID<0.226.0> is put on the position {21, 0}
+18:55:40.373 [info] Ant with pid #PID<0.227.0> is put on the position {22, 4}
+18:55:40.373 [info] Ant with pid #PID<0.228.0> is put on the position {1, 23}
+18:55:40.373 [info] Ant with pid #PID<0.229.0> is put on the position {5, 0}
+18:55:40.373 [info] Ant with pid #PID<0.230.0> is put on the position {8, 17}
+18:55:40.374 [info] Ant with pid #PID<0.231.0> is put on the position {0, 16}
+18:55:40.374 [info] Ant with pid #PID<0.232.0> is put on the position {13, 7}
+18:55:40.374 [info] Ant with pid #PID<0.233.0> is put on the position {9, 5}
+18:55:40.374 [info] Ant with pid #PID<0.234.0> is put on the position {21, 20}
+18:55:40.374 [info] Ant with pid #PID<0.235.0> is put on the position {22, 5}
+18:55:40.374 [info] Ant with pid #PID<0.236.0> is put on the position {14, 15}
+18:55:40.374 [info] Ant with pid #PID<0.237.0> is put on the position {5, 16}
+18:55:40.374 [info] Ant with pid #PID<0.238.0> is put on the position {18, 2}
+18:55:40.375 [info] Ant with pid #PID<0.239.0> is put on the position {7, 13}
+18:55:40.375 [info] Ant with pid #PID<0.240.0> is put on the position {21, 16}
+18:55:40.375 [info] Ant with pid #PID<0.241.0> is put on the position {10, 22}
+18:55:40.375 [info] Ant with pid #PID<0.242.0> is put on the position {0, 4}
+18:55:40.375 [info] Ant with pid #PID<0.243.0> is put on the position {14, 8}
+18:55:40.375 [info] Ant with pid #PID<0.244.0> is put on the position {3, 14}
+18:55:40.375 [info] Ant with pid #PID<0.245.0> is put on the position {17, 22}
+18:55:40.375 [info] Ant with pid #PID<0.246.0> is put on the position {7, 1}
+18:55:40.375 [info] Ant with pid #PID<0.247.0> is put on the position {21, 4}
+18:55:40.375 [info] Ant with pid #PID<0.248.0> is put on the position {10, 13}
+18:55:40.376 [info] Ant with pid #PID<0.249.0> is put on the position {16, 3}
+18:55:40.376 [info] Ant with pid #PID<0.250.0> is put on the position {9, 23}
+18:55:40.376 [info] Ant with pid #PID<0.251.0> is put on the position {1, 12}
+18:55:40.376 [info] Ant with pid #PID<0.252.0> is put on the position {18, 19}
+18:55:40.376 [info] Ant with pid #PID<0.253.0> is put on the position {7, 0}
+18:55:40.376 [info] Ant with pid #PID<0.254.0> is put on the position {5, 10}
+18:55:40.376 [info] Ant with pid #PID<0.255.0> is put on the position {18, 21}
+18:55:40.377 [info] Ant with pid #PID<0.256.0> is put on the position {8, 3}
+18:55:40.429 [info] Ant with pid #PID<0.181.0> is moving to the position {5, 15}
+18:55:40.431 [info] Ant with pid #PID<0.221.0> is moving to the position {12, 3}
+18:55:40.431 [info] Ant with pid #PID<0.214.0> is moving to the position {15, 3}
+18:55:40.445 [info] Ant with pid #PID<0.176.0> is moving to the position {5, 15}
+18:55:40.448 [info] Ant with pid #PID<0.124.0> is moving to the position {13, 9}
+18:55:40.449 [info] Ant with pid #PID<0.216.0> is moving to the position {2, 16}
+18:55:40.463 [info] Ant with pid #PID<0.187.0> is moving to the position {15, 3}
+18:55:40.463 [info] Ant with pid #PID<0.185.0> is moving to the position {13, 13}
+18:55:40.464 [info] Ant with pid #PID<0.183.0> is moving to the position {12, 3}
+18:55:40.465 [info] Ant with pid #PID<0.184.0> is moving to the position {1, 22}
+18:55:40.466 [info] Ant with pid #PID<0.148.0> is moving to the position {2, 17}
+18:55:40.467 [info] Ant with pid #PID<0.132.0> is moving to the position {13, 9}
+18:55:40.477 [info] Ant with pid #PID<0.138.0> is moving to the position {9, 17}
+18:55:40.479 [info] Ant with pid #PID<0.199.0> is moving to the position {5, 14}
+18:55:40.480 [info] Ant with pid #PID<0.177.0> is moving to the position {16, 21}
+18:55:40.480 [info] Ant with pid #PID<0.172.0> is moving to the position {6, 12}
+18:55:40.481 [info] Ant with pid #PID<0.193.0> is moving to the position {12, 3}
+18:55:40.481 [info] Ant with pid #PID<0.170.0> is moving to the position {21, 17}
+18:55:40.481 [info] Ant with pid #PID<0.188.0> is moving to the position {3, 23}
+18:55:40.482 [info] Ant with pid #PID<0.195.0> is moving to the position {22, 0}
+18:55:40.482 [info] Ant with pid #PID<0.244.0> is moving to the position {2, 15}
+18:55:40.483 [info] Ant with pid #PID<0.189.0> is moving to the position {20, 20}
+18:55:40.484 [info] Ant with pid #PID<0.118.0> is moving to the position {2, 10}
+18:55:40.484 [info] Ant with pid #PID<0.127.0> is moving to the position {13, 9}
+18:55:40.484 [info] Ant with pid #PID<0.196.0> is moving to the position {15, 12}
+18:55:40.484 [info] Ant with pid #PID<0.146.0> is moving to the position {23, 1}
+18:55:40.484 [info] Ant with pid #PID<0.160.0> is moving to the position {4, 22}
+18:55:40.485 [info] Ant with pid #PID<0.164.0> is moving to the position {5, 14}
+18:55:40.485 [info] Ant with pid #PID<0.149.0> is moving to the position {14, 22}
+18:55:40.485 [info] Ant with pid #PID<0.207.0> is moving to the position {0, 17}
+18:55:40.485 [info] Ant with pid #PID<0.217.0> is moving to the position {13, 9}
+18:55:40.485 [info] Ant with pid #PID<0.215.0> is moving to the position {22, 0}
+18:55:40.486 [info] Ant with pid #PID<0.113.0> is moving to the position {2, 17}
+18:55:40.486 [info] Ant with pid #PID<0.218.0> is moving to the position {15, 2}
+18:55:40.486 [info] Ant with pid #PID<0.232.0> is moving to the position {14, 7}
+18:55:40.486 [info] Ant with pid #PID<0.152.0> is moving to the position {2, 10}
+18:55:40.486 [info] Ant with pid #PID<0.136.0> is moving to the position {15, 3}
+18:55:40.486 [info] Ant with pid #PID<0.115.0> is moving to the position {2, 17}
+18:55:40.486 [info] Ant with pid #PID<0.161.0> is moving to the position {13, 13}
+18:55:40.487 [info] Ant with pid #PID<0.239.0> is moving to the position {6, 12}
+18:55:40.487 [info] Ant with pid #PID<0.116.0> is moving to the position {15, 13}
+18:55:40.487 [info] Ant with pid #PID<0.209.0> is moving to the position {12, 3}
+18:55:40.487 [info] Ant with pid #PID<0.246.0> is moving to the position {7, 2}
+18:55:40.487 [info] Ant with pid #PID<0.159.0> is moving to the position {17, 13}
+18:55:40.488 [info] Ant with pid #PID<0.130.0> is moving to the position {15, 13}
+18:55:40.488 [info] Ant with pid #PID<0.243.0> is moving to the position {13, 9}
+18:55:40.488 [info] Ant with pid #PID<0.240.0> is moving to the position {21, 17}
+18:55:40.488 [info] Ant with pid #PID<0.222.0> is moving to the position {16, 21}
+18:55:40.489 [info] Ant with pid #PID<0.231.0> is moving to the position {1, 15}
+18:55:40.495 [info] Ant with pid #PID<0.174.0> is moving to the position {7, 2}
+18:55:40.495 [info] Ant with pid #PID<0.192.0> is moving to the position {21, 17}
+18:55:40.496 [info] Ant with pid #PID<0.167.0> is moving to the position {2, 16}
+18:55:40.496 [info] Ant with pid #PID<0.186.0> is moving to the position {2, 10}
+18:55:40.496 [info] Ant with pid #PID<0.180.0> is moving to the position {15, 13}
+18:55:40.496 [info] Ant with pid #PID<0.190.0> is moving to the position {7, 2}
+18:55:40.497 [info] Ant with pid #PID<0.182.0> is moving to the position {17, 13}
+18:55:40.497 [info] Ant with pid #PID<0.106.0> is moving to the position {9, 17}
+18:55:40.497 [info] Ant with pid #PID<0.166.0> is moving to the position {8, 8}
+18:55:40.497 [info] Ant with pid #PID<0.119.0> is moving to the position {8, 8}
+18:55:40.497 [info] Ant with pid #PID<0.158.0> is moving to the position {7, 2}
+18:55:40.497 [info] Ant with pid #PID<0.143.0> is moving to the position {1, 20}
+18:55:40.498 [info] Ant with pid #PID<0.120.0> is moving to the position {13, 9}
+18:55:40.498 [info] Ant with pid #PID<0.155.0> is moving to the position {17, 7}
+18:55:40.498 [info] Ant with pid #PID<0.157.0> is moving to the position {22, 0}
+18:55:40.498 [info] Ant with pid #PID<0.128.0> is moving to the position {23, 20}
+18:55:40.498 [info] Ant with pid #PID<0.162.0> is moving to the position {4, 22}
+18:55:40.498 [info] Ant with pid #PID<0.131.0> is moving to the position {1, 20}
+18:55:40.498 [info] Ant with pid #PID<0.137.0> is moving to the position {1, 20}
+18:55:40.498 [info] Ant with pid #PID<0.156.0> is moving to the position {8, 15}
+18:55:40.498 [info] Ant with pid #PID<0.235.0> is moving to the position {21, 5}
+18:55:40.499 [info] Ant with pid #PID<0.112.0> is moving to the position {17, 12}
+18:55:40.499 [info] Ant with pid #PID<0.153.0> is moving to the position {15, 13}
+18:55:40.499 [info] Ant with pid #PID<0.236.0> is moving to the position {13, 15}
+18:55:40.499 [info] Ant with pid #PID<0.168.0> is moving to the position {15, 13}
+18:55:40.499 [info] Ant with pid #PID<0.126.0> is moving to the position {1, 20}
+18:55:40.499 [info] Ant with pid #PID<0.226.0> is moving to the position {22, 0}
+18:55:40.499 [info] Ant with pid #PID<0.150.0> is moving to the position {22, 18}
+18:55:40.499 [info] Ant with pid #PID<0.208.0> is moving to the position {18, 13}
+18:55:40.499 [info] Ant with pid #PID<0.154.0> is moving to the position {4, 22}
+18:55:40.499 [info] Ant with pid #PID<0.225.0> is moving to the position {4, 6}
+18:55:40.499 [info] Ant with pid #PID<0.133.0> is moving to the position {19, 16}
+18:55:40.499 [info] Ant with pid #PID<0.247.0> is moving to the position {21, 5}
+18:55:40.500 [info] Ant with pid #PID<0.202.0> is moving to the position {23, 1}
+18:55:40.500 [info] Ant with pid #PID<0.255.0> is moving to the position {17, 20}
+18:55:40.500 [info] Ant with pid #PID<0.241.0> is moving to the position {10, 21}
+18:55:40.500 [info] Ant with pid #PID<0.229.0> is moving to the position {6, 1}
+18:55:40.500 [info] Ant with pid #PID<0.256.0> is moving to the position {7, 2}
+18:55:40.500 [info] Ant with pid #PID<0.228.0> is moving to the position {2, 23}
+18:55:40.500 [info] Ant with pid #PID<0.234.0> is moving to the position {20, 20}
+18:55:40.500 [info] Ant with pid #PID<0.219.0> is moving to the position {17, 14}
+18:55:40.500 [info] Ant with pid #PID<0.237.0> is moving to the position {5, 15}
+18:55:40.500 [info] Ant with pid #PID<0.213.0> is moving to the position {9, 17}
+18:55:40.501 [info] Ant with pid #PID<0.121.0> is moving to the position {19, 12}
+18:55:40.501 [info] Ant with pid #PID<0.198.0> is moving to the position {16, 21}
+18:55:40.501 [info] Ant with pid #PID<0.205.0> is moving to the position {0, 17}
+18:55:40.501 [info] Ant with pid #PID<0.139.0> is moving to the position {21, 19}
+18:55:40.501 [info] Ant with pid #PID<0.223.0> is moving to the position {18, 1}
+18:55:40.501 [info] Ant with pid #PID<0.227.0> is moving to the position {21, 5}
+18:55:40.501 [info] Ant with pid #PID<0.252.0> is moving to the position {17, 20}
+18:55:40.501 [info] Ant with pid #PID<0.249.0> is moving to the position {15, 3}
+18:55:40.501 [info] Ant with pid #PID<0.253.0> is moving to the position {6, 1}
+18:55:40.502 [info] Ant with pid #PID<0.251.0> is moving to the position {0, 13}
+18:55:40.503 [info] Ant with pid #PID<0.107.0> is moving to the position {4, 6}
+18:55:40.504 [info] Ant with pid #PID<0.179.0> is moving to the position {0, 15}
+18:55:40.505 [info] Ant with pid #PID<0.191.0> is moving to the position {18, 5}
+18:55:40.505 [info] Ant with pid #PID<0.171.0> is moving to the position {18, 5}
+18:55:40.505 [info] Ant with pid #PID<0.194.0> is moving to the position {8, 8}
+18:55:40.505 [info] Ant with pid #PID<0.197.0> is moving to the position {5, 2}
+18:55:40.505 [info] Ant with pid #PID<0.178.0> is moving to the position {6, 12}
+18:55:40.505 [info] Ant with pid #PID<0.173.0> is moving to the position {18, 5}
+18:55:40.505 [info] Ant with pid #PID<0.110.0> is moving to the position {15, 19}
+18:55:40.505 [info] Ant with pid #PID<0.109.0> is moving to the position {20, 1}
+18:55:40.506 [info] Ant with pid #PID<0.129.0> is moving to the position {7, 19}
+18:55:40.506 [info] Ant with pid #PID<0.125.0> is moving to the position {17, 7}
+18:55:40.506 [info] Ant with pid #PID<0.117.0> is moving to the position {19, 12}
+18:55:40.506 [info] Ant with pid #PID<0.147.0> is moving to the position {11, 18}
+18:55:40.506 [info] Ant with pid #PID<0.145.0> is moving to the position {7, 19}
+18:55:40.506 [info] Ant with pid #PID<0.140.0> is moving to the position {7, 19}
+18:55:40.506 [info] Ant with pid #PID<0.230.0> is moving to the position {9, 17}
+18:55:40.506 [info] Ant with pid #PID<0.135.0> is moving to the position {8, 2}
+18:55:40.507 [info] Ant with pid #PID<0.175.0> is moving to the position {17, 8}
+18:55:40.507 [info] Ant with pid #PID<0.212.0> is moving to the position {13, 15}
+18:55:40.507 [info] Ant with pid #PID<0.114.0> is moving to the position {16, 19}
+18:55:40.507 [info] Ant with pid #PID<0.201.0> is moving to the position {4, 22}
+18:55:40.507 [info] Ant with pid #PID<0.206.0> is moving to the position {13, 9}
+18:55:40.507 [info] Ant with pid #PID<0.144.0> is moving to the position {16, 19}
+18:55:40.507 [info] Ant with pid #PID<0.111.0> is moving to the position {6, 10}
+18:55:40.507 [info] Ant with pid #PID<0.169.0> is moving to the position {4, 17}
+18:55:40.507 [info] Ant with pid #PID<0.220.0> is moving to the position {10, 21}
+18:55:40.507 [info] Ant with pid #PID<0.211.0> is moving to the position {12, 3}
+18:55:40.507 [info] Ant with pid #PID<0.151.0> is moving to the position {14, 22}
+18:55:40.507 [info] Ant with pid #PID<0.134.0> is moving to the position {4, 8}
+18:55:40.508 [info] Ant with pid #PID<0.224.0> is moving to the position {0, 14}
+18:55:40.508 [info] Ant with pid #PID<0.250.0> is moving to the position {8, 0}
+18:55:40.508 [info] Ant with pid #PID<0.142.0> is moving to the position {9, 15}
+18:55:40.508 [info] Ant with pid #PID<0.203.0> is moving to the position {12, 7}
+18:55:40.508 [info] Ant with pid #PID<0.123.0> is moving to the position {6, 10}
+18:55:40.508 [info] Ant with pid #PID<0.204.0> is moving to the position {11, 20}
+18:55:40.508 [info] Ant with pid #PID<0.245.0> is moving to the position {16, 21}
+18:55:40.508 [info] Ant with pid #PID<0.238.0> is moving to the position {18, 1}
+18:55:40.508 [info] Ant with pid #PID<0.248.0> is moving to the position {11, 13}
+18:55:40.508 [info] Ant with pid #PID<0.254.0> is moving to the position {6, 11}
+18:55:41.496 [info] Ant with pid #PID<0.122.0> is moving to the position {2, 14}
+18:55:41.552 [info] Ant with pid #PID<0.165.0> is moving to the position {20, 0}
+18:55:41.554 [info] Ant with pid #PID<0.200.0> is moving to the position {16, 7}
+18:55:41.555 [info] Ant with pid #PID<0.225.0> is moving to the position {5, 7}
+18:55:41.558 [info] Ant with pid #PID<0.109.0> is moving to the position {19, 1}
+18:55:41.574 [info] Ant with pid #PID<0.210.0> is moving to the position {16, 22}
+18:55:41.578 [info] Ant with pid #PID<0.163.0> is moving to the position {18, 23}
+18:55:41.579 [info] Ant with pid #PID<0.133.0> is moving to the position {19, 15}
+18:55:41.632 [info] Ant with pid #PID<0.122.0> is moving to the position {1, 13}
+18:55:41.651 [info] Ant with pid #PID<0.136.0> is moving to the position {16, 4}
+18:55:41.652 [info] Ant with pid #PID<0.135.0> is moving to the position {9, 2}
+18:55:41.675 [info] Ant with pid #PID<0.154.0> is moving to the position {4, 21}
+18:55:41.677 [info] Ant with pid #PID<0.237.0> is moving to the position {6, 15}
+18:55:41.678 [info] Ant with pid #PID<0.238.0> is moving to the position {17, 1}
+18:55:41.692 [info] Ant with pid #PID<0.107.0> is moving to the position {4, 5}
+18:55:41.692 [info] Ant with pid #PID<0.119.0> is moving to the position {7, 8}
+18:55:41.693 [info] Ant with pid #PID<0.146.0> is moving to the position {22, 1}
+18:55:41.693 [info] Ant with pid #PID<0.194.0> is moving to the position {9, 7}
+18:55:41.694 [info] Ant with pid #PID<0.166.0> is moving to the position {9, 7}
+18:55:41.694 [info] Ant with pid #PID<0.134.0> is moving to the position {5, 8}
+18:55:41.695 [info] Ant with pid #PID<0.151.0> is moving to the position {13, 21}
+18:55:41.695 [info] Ant with pid #PID<0.149.0> is moving to the position {13, 21}
+18:55:41.696 [info] Ant with pid #PID<0.203.0> is moving to the position {11, 8}
+18:55:41.696 [info] Ant with pid #PID<0.189.0> is moving to the position {20, 21}
+18:55:41.696 [info] Ant with pid #PID<0.234.0> is moving to the position {20, 21}
+18:55:41.696 [info] Ant with pid #PID<0.230.0> is moving to the position {8, 16}
+18:55:41.697 [info] Ant with pid #PID<0.213.0> is moving to the position {8, 16}
+18:55:41.715 [info] Ant with pid #PID<0.204.0> is moving to the position {12, 20}
+18:55:41.717 [info] Ant with pid #PID<0.145.0> is moving to the position {7, 20}
+18:55:41.717 [info] Ant with pid #PID<0.140.0> is moving to the position {7, 20}
+18:55:41.719 [info] Ant with pid #PID<0.232.0> is moving to the position {15, 8}
+18:55:41.719 [info] Ant with pid #PID<0.186.0> is moving to the position {1, 9}
+18:55:41.722 [info] Ant with pid #PID<0.248.0> is moving to the position {11, 14}
+18:55:41.748 [info] Ant with pid #PID<0.225.0> is moving to the position {5, 8}
+18:55:41.803 [info] Ant with pid #PID<0.136.0> is moving to the position {16, 5}
+18:55:41.817 [info] Ant with pid #PID<0.120.0> is moving to the position {13, 10}
+18:55:41.818 [info] Ant with pid #PID<0.146.0> is moving to the position {21, 1}
+18:55:41.819 [info] Ant with pid #PID<0.116.0> is moving to the position {15, 14}
+18:55:41.819 [info] Ant with pid #PID<0.187.0> is moving to the position {16, 2}
+18:55:41.819 [info] Ant with pid #PID<0.214.0> is moving to the position {16, 2}
+18:55:41.820 [info] Ant with pid #PID<0.208.0> is moving to the position {19, 14}
+18:55:41.821 [info] Ant with pid #PID<0.224.0> is moving to the position {23, 15}
+18:55:41.821 [info] Ant with pid #PID<0.217.0> is moving to the position {13, 10}
+18:55:41.821 [info] Ant with pid #PID<0.153.0> is moving to the position {15, 14}
+18:55:41.822 [info] Ant with pid #PID<0.206.0> is moving to the position {13, 10}
+18:55:41.822 [info] Ant with pid #PID<0.243.0> is moving to the position {13, 10}
+18:55:41.825 [info] Ant with pid #PID<0.213.0> is moving to the position {7, 16}
+18:55:41.825 [info] Ant with pid #PID<0.154.0> is moving to the position {3, 21}
+18:55:41.838 [info] Ant with pid #PID<0.112.0> is moving to the position {18, 11}
+18:55:41.839 [info] Ant with pid #PID<0.125.0> is moving to the position {18, 7}
+18:55:41.839 [info] Ant with pid #PID<0.155.0> is moving to the position {18, 7}
+18:55:41.840 [info] Ant with pid #PID<0.196.0> is moving to the position {14, 11}
+18:55:41.840 [info] Ant with pid #PID<0.251.0> is moving to the position {0, 12}
+18:55:41.841 [info] Ant with pid #PID<0.114.0> is moving to the position {16, 18}
+18:55:41.841 [info] Ant with pid #PID<0.157.0> is moving to the position {21, 1}
+18:55:41.842 [info] Ant with pid #PID<0.226.0> is moving to the position {21, 1}
+18:55:41.842 [info] Ant with pid #PID<0.115.0> is moving to the position {3, 18}
+18:55:41.842 [info] Ant with pid #PID<0.144.0> is moving to the position {16, 18}
+18:55:41.843 [info] Ant with pid #PID<0.219.0> is moving to the position {18, 15}
+18:55:41.843 [info] Ant with pid #PID<0.215.0> is moving to the position {21, 1}
+18:55:41.843 [info] Ant with pid #PID<0.148.0> is moving to the position {3, 18}
+18:55:41.844 [info] Ant with pid #PID<0.223.0> is moving to the position {18, 0}
+18:55:41.844 [info] Ant with pid #PID<0.229.0> is moving to the position {6, 0}
+18:55:41.845 [info] Ant with pid #PID<0.119.0> is moving to the position {6, 9}
+18:55:41.845 [info] Ant with pid #PID<0.179.0> is moving to the position {23, 15}
+18:55:41.857 [info] Ant with pid #PID<0.113.0> is moving to the position {3, 18}
+18:55:41.859 [info] Ant with pid #PID<0.193.0> is moving to the position {11, 3}
+18:55:41.859 [info] Ant with pid #PID<0.221.0> is moving to the position {12, 2}
+18:55:41.859 [info] Ant with pid #PID<0.185.0> is moving to the position {12, 13}
+18:55:41.860 [info] Ant with pid #PID<0.138.0> is moving to the position {10, 18}
+18:55:41.860 [info] Ant with pid #PID<0.183.0> is moving to the position {11, 3}
+18:55:41.860 [info] Ant with pid #PID<0.106.0> is moving to the position {10, 18}
+18:55:41.861 [info] Ant with pid #PID<0.117.0> is moving to the position {18, 11}
+18:55:41.862 [info] Ant with pid #PID<0.137.0> is moving to the position {1, 19}
+18:55:41.862 [info] Ant with pid #PID<0.199.0> is moving to the position {5, 13}
+18:55:41.862 [info] Ant with pid #PID<0.121.0> is moving to the position {18, 11}
+18:55:41.862 [info] Ant with pid #PID<0.143.0> is moving to the position {1, 19}
+18:55:41.863 [info] Ant with pid #PID<0.205.0> is moving to the position {0, 18}
+18:55:41.863 [info] Ant with pid #PID<0.139.0> is moving to the position {21, 18}
+18:55:41.863 [info] Ant with pid #PID<0.126.0> is moving to the position {1, 19}
+18:55:41.863 [info] Ant with pid #PID<0.110.0> is moving to the position {16, 18}
+18:55:41.864 [info] Ant with pid #PID<0.161.0> is moving to the position {12, 13}
+18:55:41.864 [info] Ant with pid #PID<0.207.0> is moving to the position {0, 18}
+18:55:41.864 [info] Ant with pid #PID<0.164.0> is moving to the position {5, 13}
+18:55:41.864 [info] Ant with pid #PID<0.254.0> is moving to the position {5, 11}
+18:55:41.864 [info] Ant with pid #PID<0.209.0> is moving to the position {12, 2}
+18:55:41.864 [info] Ant with pid #PID<0.142.0> is moving to the position {10, 15}
+18:55:41.865 [info] Ant with pid #PID<0.202.0> is moving to the position {23, 2}
+18:55:41.865 [info] Ant with pid #PID<0.178.0> is moving to the position {5, 13}
+18:55:41.865 [info] Ant with pid #PID<0.123.0> is moving to the position {6, 9}
+18:55:41.865 [info] Ant with pid #PID<0.172.0> is moving to the position {5, 11}
+18:55:41.865 [info] Ant with pid #PID<0.239.0> is moving to the position {5, 11}
+18:55:41.866 [info] Ant with pid #PID<0.111.0> is moving to the position {6, 9}
+18:55:41.866 [info] Ant with pid #PID<0.150.0> is moving to the position {23, 19}
+18:55:41.866 [info] Ant with pid #PID<0.175.0> is moving to the position {17, 9}
+18:55:41.867 [info] Ant with pid #PID<0.228.0> is moving to the position {1, 0}
+18:55:41.868 [info] Ant with pid #PID<0.169.0> is moving to the position {5, 17}
+18:55:41.868 [info] Ant with pid #PID<0.255.0> is moving to the position {17, 21}
+18:55:41.868 [info] Ant with pid #PID<0.252.0> is moving to the position {17, 21}
+18:55:41.868 [info] Ant with pid #PID<0.184.0> is moving to the position {2, 21}
+18:55:41.883 [info] Ant with pid #PID<0.129.0> is moving to the position {7, 18}
+18:55:41.883 [info] Ant with pid #PID<0.118.0> is moving to the position {3, 10}
+18:55:41.883 [info] Ant with pid #PID<0.156.0> is moving to the position {9, 14}
+18:55:41.884 [info] Ant with pid #PID<0.152.0> is moving to the position {3, 10}
+18:55:41.885 [info] Ant with pid #PID<0.212.0> is moving to the position {12, 15}
+18:55:41.885 [info] Ant with pid #PID<0.250.0> is moving to the position {8, 23}
+18:55:41.886 [info] Ant with pid #PID<0.236.0> is moving to the position {12, 15}
+18:55:41.886 [info] Ant with pid #PID<0.173.0> is moving to the position {17, 5}
+18:55:41.887 [info] Ant with pid #PID<0.170.0> is moving to the position {22, 16}
+18:55:41.888 [info] Ant with pid #PID<0.218.0> is moving to the position {16, 2}
+18:55:41.889 [info] Ant with pid #PID<0.191.0> is moving to the position {17, 5}
+18:55:41.889 [info] Ant with pid #PID<0.171.0> is moving to the position {17, 5}
+18:55:41.890 [info] Ant with pid #PID<0.240.0> is moving to the position {22, 16}
+18:55:41.890 [info] Ant with pid #PID<0.192.0> is moving to the position {21, 18}
+18:55:41.890 [info] Ant with pid #PID<0.107.0> is moving to the position {5, 5}
+18:55:41.898 [info] Ant with pid #PID<0.220.0> is moving to the position {11, 22}
+18:55:41.899 [info] Ant with pid #PID<0.241.0> is moving to the position {11, 22}
+18:55:41.900 [info] Ant with pid #PID<0.235.0> is moving to the position {20, 5}
+18:55:41.900 [info] Ant with pid #PID<0.227.0> is moving to the position {20, 5}
+18:55:41.901 [info] Ant with pid #PID<0.247.0> is moving to the position {20, 5}
+18:55:41.903 [info] Ant with pid #PID<0.128.0> is moving to the position {0, 19}
+18:55:41.905 [info] Ant with pid #PID<0.147.0> is moving to the position {11, 19}
+18:55:41.907 [info] Ant with pid #PID<0.197.0> is moving to the position {5, 1}
+18:55:41.915 [info] Ant with pid #PID<0.186.0> is moving to the position {2, 9}
+18:55:41.927 [info] Ant with pid #PID<0.230.0> is moving to the position {7, 17}
+18:55:41.929 [info] Ant with pid #PID<0.237.0> is moving to the position {6, 16}
+18:55:41.930 [info] Ant with pid #PID<0.135.0> is moving to the position {9, 1}
+18:55:41.931 [info] Ant with pid #PID<0.238.0> is moving to the position {17, 2}
+18:55:41.945 [info] Ant with pid #PID<0.133.0> is moving to the position {20, 14}
+18:55:41.948 [info] Ant with pid #PID<0.134.0> is moving to the position {6, 8}
+18:55:41.961 [info] Ant with pid #PID<0.213.0> is moving to the position {7, 17}
+18:55:41.968 [info] Ant with pid #PID<0.149.0> is moving to the position {14, 20}
+18:55:41.968 [info] Ant with pid #PID<0.151.0> is moving to the position {12, 21}
+18:55:41.968 [info] Ant with pid #PID<0.203.0> is moving to the position {10, 7}
+18:55:41.970 [info] Ant with pid #PID<0.232.0> is moving to the position {15, 7}
+18:55:41.979 [info] Ant with pid #PID<0.187.0> is moving to the position {17, 3}
+18:55:41.981 [info] Ant with pid #PID<0.207.0> is moving to the position {1, 18}
+18:55:41.984 [info] Ant with pid #PID<0.120.0> is moving to the position {13, 11}
+18:55:41.985 [info] Ant with pid #PID<0.116.0> is moving to the position {15, 15}
+18:55:41.987 [info] Ant with pid #PID<0.153.0> is moving to the position {15, 15}
+18:55:41.987 [info] Ant with pid #PID<0.119.0> is moving to the position {7, 10}
+18:55:41.988 [info] Ant with pid #PID<0.217.0> is moving to the position {13, 11}
+18:55:41.988 [info] Ant with pid #PID<0.204.0> is moving to the position {12, 21}
+18:55:41.988 [info] Ant with pid #PID<0.243.0> is moving to the position {13, 11}
+18:55:41.989 [info] Ant with pid #PID<0.166.0> is moving to the position {10, 8}
+18:55:41.989 [info] Ant with pid #PID<0.145.0> is moving to the position {6, 20}
+18:55:41.989 [info] Ant with pid #PID<0.194.0> is moving to the position {10, 8}
+18:55:41.990 [info] Ant with pid #PID<0.234.0> is moving to the position {19, 21}
+18:55:41.990 [info] Ant with pid #PID<0.140.0> is moving to the position {6, 20}
+18:55:41.990 [info] Ant with pid #PID<0.189.0> is moving to the position {19, 21}
+18:55:41.991 [info] Ant with pid #PID<0.154.0> is moving to the position {3, 20}
+18:55:41.993 [info] Ant with pid #PID<0.136.0> is moving to the position {15, 5}
+18:55:42.007 [info] Ant with pid #PID<0.157.0> is moving to the position {22, 2}
+18:55:42.008 [info] Ant with pid #PID<0.215.0> is moving to the position {22, 2}
+18:55:42.009 [info] Ant with pid #PID<0.122.0> is moving to the position {2, 13}
+18:55:42.009 [info] Ant with pid #PID<0.214.0> is moving to the position {16, 1}
+18:55:42.010 [info] Ant with pid #PID<0.224.0> is moving to the position {22, 14}
+18:55:42.010 [info] Ant with pid #PID<0.146.0> is moving to the position {21, 2}
+18:55:42.022 [info] Ant with pid #PID<0.165.0> is moving to the position {19, 23}
+18:55:42.027 [info] Ant with pid #PID<0.251.0> is moving to the position {23, 12}
+18:55:42.027 [info] Ant with pid #PID<0.225.0> is moving to the position {6, 7}
+18:55:42.029 [info] Ant with pid #PID<0.229.0> is moving to the position {7, 23}
+18:55:42.030 [info] Ant with pid #PID<0.148.0> is moving to the position {3, 19}
+18:55:42.047 [info] Ant with pid #PID<0.200.0> is moving to the position {16, 6}
+18:55:42.060 [info] Ant with pid #PID<0.118.0> is moving to the position {4, 9}
+18:55:42.061 [info] Ant with pid #PID<0.152.0> is moving to the position {4, 9}
+18:55:42.066 [info] Ant with pid #PID<0.221.0> is moving to the position {13, 1}
+18:55:42.066 [info] Ant with pid #PID<0.193.0> is moving to the position {10, 4}
+18:55:42.067 [info] Ant with pid #PID<0.129.0> is moving to the position {6, 18}
+18:55:42.067 [info] Ant with pid #PID<0.183.0> is moving to the position {10, 4}
+18:55:42.070 [info] Ant with pid #PID<0.254.0> is moving to the position {5, 12}
+18:55:42.070 [info] Ant with pid #PID<0.239.0> is moving to the position {5, 12}
+18:55:42.071 [info] Ant with pid #PID<0.172.0> is moving to the position {5, 12}
+18:55:42.071 [info] Ant with pid #PID<0.187.0> is moving to the position {18, 4}
+18:55:42.072 [info] Ant with pid #PID<0.228.0> is moving to the position {2, 0}
+18:55:42.073 [info] Ant with pid #PID<0.175.0> is moving to the position {16, 9}
+18:55:42.082 [info] Ant with pid #PID<0.163.0> is moving to the position {17, 23}
+18:55:42.092 [info] Ant with pid #PID<0.202.0> is moving to the position {0, 2}
+18:55:42.093 [info] Ant with pid #PID<0.236.0> is moving to the position {11, 15}
+18:55:42.099 [info] Ant with pid #PID<0.213.0> is moving to the position {6, 17}
+18:55:42.111 [info] Ant with pid #PID<0.250.0> is moving to the position {9, 0}
+18:55:42.112 [info] Ant with pid #PID<0.230.0> is moving to the position {6, 17}
+18:55:42.115 [info] Ant with pid #PID<0.107.0> is moving to the position {6, 6}
+18:55:42.120 [info] Ant with pid #PID<0.186.0> is moving to the position {3, 9}
+18:55:42.122 [info] Ant with pid #PID<0.120.0> is moving to the position {13, 12}
+18:55:42.127 [info] Ant with pid #PID<0.227.0> is moving to the position {20, 4}
+18:55:42.127 [info] Ant with pid #PID<0.235.0> is moving to the position {21, 6}
+18:55:42.128 [info] Ant with pid #PID<0.247.0> is moving to the position {20, 4}
+18:55:42.134 [info] Ant with pid #PID<0.151.0> is moving to the position {13, 20}
+18:55:42.136 [info] Ant with pid #PID<0.135.0> is moving to the position {10, 2}
+18:55:42.145 [info] Ant with pid #PID<0.116.0> is moving to the position {16, 15}
+18:55:42.146 [info] Ant with pid #PID<0.153.0> is moving to the position {16, 15}
+18:55:42.151 [info] Ant with pid #PID<0.243.0> is moving to the position {12, 12}
+18:55:42.153 [info] Ant with pid #PID<0.133.0> is moving to the position {21, 15}
+18:55:42.168 [info] Ant with pid #PID<0.157.0> is moving to the position {23, 3}
+18:55:42.170 [info] Ant with pid #PID<0.215.0> is moving to the position {23, 3}
+18:55:42.172 [info] Ant with pid #PID<0.145.0> is moving to the position {5, 20}
+18:55:42.177 [info] Ant with pid #PID<0.217.0> is moving to the position {12, 12}
+18:55:42.190 [info] Ant with pid #PID<0.224.0> is moving to the position {22, 13}
+18:55:42.192 [info] Ant with pid #PID<0.225.0> is moving to the position {7, 7}
+18:55:42.192 [info] Ant with pid #PID<0.120.0> is moving to the position {12, 11}
+18:55:42.198 [info] Ant with pid #PID<0.189.0> is moving to the position {18, 22}
+18:55:42.198 [info] Ant with pid #PID<0.152.0> is moving to the position {3, 9}
+18:55:42.199 [info] Ant with pid #PID<0.192.0> is moving to the position {22, 17}
+18:55:42.212 [info] Ant with pid #PID<0.138.0> is moving to the position {11, 17}
+18:55:42.217 [info] Ant with pid #PID<0.214.0> is moving to the position {16, 0}
+18:55:42.234 [info] Ant with pid #PID<0.221.0> is moving to the position {14, 1}
+18:55:42.238 [info] Ant with pid #PID<0.148.0> is moving to the position {4, 20}
+18:55:42.243 [info] Ant with pid #PID<0.170.0> is moving to the position {23, 16}
+18:55:42.245 [info] Ant with pid #PID<0.240.0> is moving to the position {23, 16}
+18:55:42.246 [info] Ant with pid #PID<0.241.0> is moving to the position {10, 23}
+18:55:42.256 [info] Ant with pid #PID<0.116.0> is moving to the position {15, 16}
+18:55:42.259 [info] Ant with pid #PID<0.243.0> is moving to the position {12, 11}
+18:55:42.259 [info] Ant with pid #PID<0.229.0> is moving to the position {6, 23}
+18:55:42.260 [info] Ant with pid #PID<0.239.0> is moving to the position {4, 11}
+18:55:42.266 [info] Ant with pid #PID<0.233.0> is moving to the position {10, 6}
+18:55:42.268 [info] Ant with pid #PID<0.215.0> is moving to the position {22, 3}
+18:55:42.269 [info] Ant with pid #PID<0.172.0> is moving to the position {4, 13}
+18:55:42.271 [info] Ant with pid #PID<0.153.0> is moving to the position {15, 16}
+18:55:42.272 [info] Ant with pid #PID<0.157.0> is moving to the position {22, 3}
+18:55:42.280 [info] Ant with pid #PID<0.251.0> is moving to the position {0, 11}
+18:55:42.283 [info] Ant with pid #PID<0.236.0> is moving to the position {12, 16}
+18:55:42.287 [info] Ant with pid #PID<0.193.0> is moving to the position {11, 5}
+18:55:42.292 [info] Ant with pid #PID<0.183.0> is moving to the position {11, 5}
+18:55:42.293 [info] Ant with pid #PID<0.187.0> is moving to the position {18, 3}
+18:55:42.296 [info] Ant with pid #PID<0.175.0> is moving to the position {17, 10}
+18:55:42.297 [info] Ant with pid #PID<0.119.0> is moving to the position {8, 10}
+18:55:42.300 [info] Ant with pid #PID<0.107.0> is moving to the position {6, 5}
+18:55:42.306 [info] Ant with pid #PID<0.225.0> is moving to the position {7, 6}
+18:55:42.323 [info] Ant with pid #PID<0.151.0> is moving to the position {14, 19}
+18:55:42.345 [info] Ant with pid #PID<0.133.0> is moving to the position {21, 14}
+18:55:42.352 [info] Ant with pid #PID<0.224.0> is moving to the position {22, 12}
+18:55:42.353 [info] Ant with pid #PID<0.242.0> is moving to the position {23, 4}
+18:55:42.368 [info] Ant with pid #PID<0.227.0> is moving to the position {21, 3}
+18:55:42.372 [info] Ant with pid #PID<0.247.0> is moving to the position {21, 3}
+18:55:42.377 [info] Ant with pid #PID<0.235.0> is moving to the position {20, 6}
+18:55:42.381 [info] Ant with pid #PID<0.120.0> is moving to the position {11, 10}
+18:55:42.393 [info] Ant with pid #PID<0.221.0> is moving to the position {15, 1}
+18:55:42.405 [info] Ant with pid #PID<0.145.0> is moving to the position {4, 19}
+18:55:42.410 [info] Ant with pid #PID<0.129.0> is moving to the position {5, 19}
+18:55:42.442 [info] Ant with pid #PID<0.225.0> is moving to the position {8, 6}
+18:55:42.451 [info] Ant with pid #PID<0.214.0> is moving to the position {15, 1}
+18:55:42.453 [info] Ant with pid #PID<0.232.0> is moving to the position {14, 6}
+18:55:42.455 [info] Ant with pid #PID<0.186.0> is moving to the position {2, 8}
+18:55:42.466 [info] Ant with pid #PID<0.146.0> is moving to the position {20, 3}
+18:55:42.472 [info] Ant with pid #PID<0.243.0> is moving to the position {11, 12}
+18:55:42.484 [info] Ant with pid #PID<0.116.0> is moving to the position {15, 17}
+18:55:42.490 [info] Ant with pid #PID<0.140.0> is moving to the position {5, 19}
+18:55:42.490 [info] Ant with pid #PID<0.194.0> is moving to the position {9, 9}
+18:55:42.500 [info] Ant with pid #PID<0.241.0> is moving to the position {9, 22}
+18:55:42.504 [info] Ant with pid #PID<0.187.0> is moving to the position {19, 4}
+18:55:42.510 [info] Ant with pid #PID<0.122.0> is moving to the position {2, 12}
+18:55:42.511 [info] Ant with pid #PID<0.200.0> is moving to the position {15, 6}
+18:55:42.512 [info] Ant with pid #PID<0.251.0> is moving to the position {23, 11}
+18:55:42.516 [info] Ant with pid #PID<0.239.0> is moving to the position {4, 12}
+18:55:42.529 [info] Ant with pid #PID<0.175.0> is moving to the position {16, 10}
+18:55:42.533 [info] Ant with pid #PID<0.135.0> is moving to the position {10, 3}
+18:55:42.537 [info] Ant with pid #PID<0.236.0> is moving to the position {13, 16}
+18:55:42.541 [info] Ant with pid #PID<0.193.0> is moving to the position {10, 5}
+18:55:42.547 [info] Ant with pid #PID<0.183.0> is moving to the position {10, 5}
+18:55:42.548 [info] Ant with pid #PID<0.153.0> is moving to the position {16, 17}
+18:55:42.551 [info] Ant with pid #PID<0.119.0> is moving to the position {9, 9}
+18:55:42.560 [info] Ant with pid #PID<0.120.0> is moving to the position {11, 9}
+18:55:42.561 [info] Ant with pid #PID<0.146.0> is moving to the position {19, 3}
+18:55:42.578 [info] Ant with pid #PID<0.133.0> is moving to the position {20, 13}
+18:55:42.603 [info] Ant with pid #PID<0.194.0> is moving to the position {10, 9}
+18:55:42.623 [info] Ant with pid #PID<0.122.0> is moving to the position {3, 13}
+18:55:42.626 [info] Ant with pid #PID<0.224.0> is moving to the position {21, 13}
+18:55:42.634 [info] Ant with pid #PID<0.235.0> is moving to the position {19, 5}
+18:55:42.649 [info] Ant with pid #PID<0.120.0> is moving to the position {10, 9}
+18:55:42.660 [info] Ant with pid #PID<0.119.0> is moving to the position {10, 9}
+18:55:42.673 [info] Ant with pid #PID<0.181.0> is moving to the position {6, 14}
+18:55:42.673 [info] Ant with pid #PID<0.225.0> is moving to the position {9, 6}
+18:55:42.675 [info] Ant with pid #PID<0.162.0> is moving to the position {5, 23}
+18:55:42.675 [info] Ant with pid #PID<0.160.0> is moving to the position {5, 23}
+18:55:42.676 [info] Ant with pid #PID<0.201.0> is moving to the position {5, 23}
+18:55:42.677 [info] Ant with pid #PID<0.158.0> is moving to the position {6, 3}
+18:55:42.678 [info] Ant with pid #PID<0.174.0> is moving to the position {6, 3}
+18:55:42.678 [info] Ant with pid #PID<0.256.0> is moving to the position {6, 3}
+18:55:42.679 [info] Ant with pid #PID<0.246.0> is moving to the position {6, 3}
+18:55:42.679 [info] Ant with pid #PID<0.195.0> is moving to the position {23, 23}
+18:55:42.679 [info] Ant with pid #PID<0.176.0> is moving to the position {6, 14}
+18:55:42.694 [info] Ant with pid #PID<0.188.0> is moving to the position {4, 0}
+18:55:42.697 [info] Ant with pid #PID<0.107.0> is moving to the position {5, 4}
+18:55:42.710 [info] Ant with pid #PID<0.186.0> is moving to the position {3, 8}
+18:55:42.717 [info] Ant with pid #PID<0.196.0> is moving to the position {15, 10}
+18:55:42.723 [info] Ant with pid #PID<0.233.0> is moving to the position {11, 6}
+18:55:42.727 [info] Ant with pid #PID<0.155.0> is moving to the position {19, 7}
+18:55:42.727 [info] Ant with pid #PID<0.125.0> is moving to the position {19, 7}
+18:55:42.730 [info] Ant with pid #PID<0.112.0> is moving to the position {18, 10}
+18:55:42.734 [info] Ant with pid #PID<0.139.0> is moving to the position {20, 18}
+18:55:42.739 [info] Ant with pid #PID<0.219.0> is moving to the position {18, 16}
+18:55:42.740 [info] Ant with pid #PID<0.255.0> is moving to the position {18, 20}
+18:55:42.743 [info] Ant with pid #PID<0.225.0> is moving to the position {8, 5}
+18:55:42.743 [info] Ant with pid #PID<0.169.0> is moving to the position {4, 18}
+18:55:42.751 [info] Ant with pid #PID<0.117.0> is moving to the position {19, 10}
+18:55:42.752 [info] Ant with pid #PID<0.121.0> is moving to the position {19, 10}
+18:55:42.765 [info] Ant with pid #PID<0.209.0> is moving to the position {12, 1}
+18:55:42.768 [info] Ant with pid #PID<0.106.0> is moving to the position {10, 19}
+18:55:42.776 [info] Ant with pid #PID<0.242.0> is moving to the position {23, 5}
+18:55:42.790 [info] Ant with pid #PID<0.246.0> is moving to the position {7, 4}
+18:55:42.795 [info] Ant with pid #PID<0.147.0> is moving to the position {10, 19}
+18:55:42.797 [info] Ant with pid #PID<0.198.0> is moving to the position {15, 22}
+18:55:42.798 [info] Ant with pid #PID<0.211.0> is moving to the position {11, 2}
+18:55:42.802 [info] Ant with pid #PID<0.220.0> is moving to the position {12, 22}
+18:55:42.813 [info] Ant with pid #PID<0.195.0> is moving to the position {0, 23}
+18:55:42.815 [info] Ant with pid #PID<0.181.0> is moving to the position {7, 15}
+18:55:42.817 [info] Ant with pid #PID<0.162.0> is moving to the position {6, 22}
+18:55:42.819 [info] Ant with pid #PID<0.160.0> is moving to the position {6, 22}
+18:55:42.819 [info] Ant with pid #PID<0.201.0> is moving to the position {6, 22}
+18:55:42.822 [info] Ant with pid #PID<0.176.0> is moving to the position {7, 15}
+18:55:42.836 [info] Ant with pid #PID<0.138.0> is moving to the position {11, 16}
+18:55:42.840 [info] Ant with pid #PID<0.179.0> is moving to the position {22, 15}
+18:55:42.841 [info] Ant with pid #PID<0.158.0> is moving to the position {6, 4}
+18:55:42.841 [info] Ant with pid #PID<0.174.0> is moving to the position {6, 4}
+18:55:42.841 [info] Ant with pid #PID<0.256.0> is moving to the position {5, 3}
+18:55:42.856 [info] Ant with pid #PID<0.142.0> is moving to the position {11, 16}
+18:55:42.858 [info] Ant with pid #PID<0.188.0> is moving to the position {3, 0}
+18:55:42.863 [info] Ant with pid #PID<0.229.0> is moving to the position {7, 22}
+18:55:42.871 [info] Ant with pid #PID<0.198.0> is moving to the position 16
+18:55:42.871 [info] Ant with pid #PID<0.211.0> is moving to the position 11
+18:55:43.029 [error] GenServer #PID<0.259.0> terminating
+Last message: {:get_grid_and_bound, #PID<0.198.0>}
+State: {#HashDict<[{#PID<0.109.0>, {19, 1}}, {#PID<0.119.0>, {10, 9}}, {#PID<0.249.0>, {15, 3}}, {#PID<0.193.0>, {10, 5}}, {#PID<0.202.0>, {0, 2}}, {#PID<0.221.0>, {15, 1}}, {#PID<0.209.0>, {12, 1}}, {#PID<0.141.0>, {21, 8}}, {#PID<0.192.0>, {22, 17}}, {#PID<0.218.0>, {16, 2}}, {#PID<0.170.0>, {23, 16}}, {#PID<0.204.0>, {12, 21}}, {#PID<0.201.0>, {6, 22}}, {#PID<0.152.0>, {3, 9}}, {#PID<0.191.0>, {17, 5}}, {#PID<0.228.0>, {2, 0}}, {#PID<0.178.0>, {5, 13}}, {#PID<0.217.0>, {12, 12}}, {#PID<0.223.0>, {18, 0}}, {#PID<0.106.0>, {10, 19}}, {#PID<0.149.0>, {14, 20}}, {#PID<0.216.0>, {2, 16}}, {#PID<0.214.0>, {15, 1}}, {#PID<0.174.0>, {6, 4}}, {#PID<0.162.0>, {6, 22}}, {#PID<0.182.0>, {17, 13}}, {#PID<0.140.0>, {5, 19}}, {#PID<0.110.0>, {16, 18}}, {#PID<0.225.0>, {8, 5}}, {#PID<0.238.0>, {17, 2}}, {#PID<0.113.0>, {3, 18}}, {#PID<0.198.0>, 16}, {#PID<0.199.0>, {5, 13}}, {#PID<0.211.0>, 11}, {#PID<0.129.0>, {5, 19}}, {#PID<0.136.0>, {15, 5}}, {#PID<0.107.0>, {5, 4}}, {#PID<0.116.0>, {15, 17}}, {#PID<0.231.0>, {1, 15}}, {#PID<0.208.0>, {19, 14}}, {#PID<0.169.0>, {4, 18}}, {#PID<0.219.0>, {18, 16}}, {#PID<0.230.0>, {6, 17}}, {#PID<0.235.0>, {19, 5}}, {#PID<0.242.0>, {23, 5}}, {#PID<0.161.0>, {12, 13}}, {#PID<0.255.0>, {18, ...}}, {#PID<0.195.0>, ...}, {...}, ...]>, #HashDict<[{{15, 18}, #PID<0.114.0>}, {{18, 12}, #PID<0.159.0>}, {{4, 6}, #PID<0.107.0>}, {{15, 8}, #PID<0.232.0>}, {{16, 7}, #PID<0.200.0>}, {{12, 20}, #PID<0.204.0>}, {{22, 17}, #PID<0.192.0>}, {{18, 15}, #PID<0.219.0>}, {{22, 19}, #PID<0.128.0>}, {{6, 15}, #PID<0.237.0>}, {{16, 22}, #PID<0.210.0>}, {{4, 8}, #PID<0.134.0>}, {{4, 21}, #PID<0.154.0>}, {{18, 6}, #PID<0.155.0>}, {{22, 15}, #PID<0.179.0>}, {{14, 3}, #PID<0.214.0>}, {{7, 13}, #PID<0.239.0>}, {{4, 5}, #PID<0.107.0>}, {{3, 19}, #PID<0.148.0>}, {{20, 4}, #PID<0.247.0>}, {{11, 16}, #PID<0.142.0>}, {{15, 15}, #PID<0.153.0>}, {{8, 19}, #PID<0.145.0>}, {{17, 4}, #PID<0.191.0>}, {{15, 17}, #PID<0.116.0>}, {{17, 22}, #PID<0.245.0>}, {{10, 7}, #PID<0.203.0>}, {{0, 2}, #PID<0.202.0>}, {{1, 17}, #PID<0.207.0>}, {{16, 17}, #PID<0.153.0>}, {{7, 4}, #PID<0.246.0>}, {{6, 13}, #PID<0.164.0>}, {{0, 23}, #PID<0.195.0>}, {{23, 20}, #PID<0.128.0>}, {{10, 6}, #PID<0.233.0>}, {{2, 17}, #PID<0.115.0>}, {{3, 0}, #PID<0.188.0>}, {{16, 0}, #PID<0.214.0>}, {{6, 5}, #PID<0.107.0>}, {{12, 7}, #PID<0.203.0>}, {{0, 20}, #PID<0.143.0>}, {{12, 14}, #PID<0.212.0>}, {{3, 9}, #PID<0.152.0>}, {{8, 16}, #PID<0.213.0>}, {{12, 21}, #PID<0.204.0>}, {{15, ...}, #PID<0.168.0>}, {{...}, ...}, {...}, ...]>, 24}
+** (exit) an exception was raised:
+    ** (MatchError) no match of right hand side value: 16
+        (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+        (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+        (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.032 [error] GenServer #PID<0.166.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.60417114399296, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.166.0>, [0.25000000000000006, 0.2916666666666667, 0.4915254237288135, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {10, 7}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.033 [error] GenServer #PID<0.256.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.256.0>, [0.44444444444444453, 0.41666666666666663, 0.6949152542372881, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {4, 4}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.034 [error] GenServer #PID<0.134.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.57702165516207, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.134.0>, [0.25000000000000006, 0.6249999999999999, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 7}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.035 [error] GenServer #PID<0.137.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.137.0>, [0.13888888888888887, 0.4583333333333333, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.036 [error] GenServer #PID<0.162.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.162.0>, [0.38888888888888895, 0.3333333333333332, 0.5932203389830508, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {6, 21}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.036 [error] GenServer #PID<0.153.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3816972919388698, 17.357915241847294, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.153.0>, [0.22222222222222213, 0.7499999999999998, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 16}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.037 [error] GenServer #PID<0.149.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.57702165516207, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.149.0>, [0.027777777777777922, 0.5, 0.05084745762711865, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.149.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.038 [error] GenServer #PID<0.142.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.142.0>, [0.19444444444444448, 0.5, 0.033898305084745756, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {12, 15}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.039 [error] GenServer #PID<0.184.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.184.0>, [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {1, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.039 [error] GenServer #PID<0.228.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.228.0>, [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {4, 2}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.040 [error] GenServer #PID<0.175.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.37901348413751673, 16.62674317772843, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.175.0>, [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {15, 10}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.041 [error] GenServer #PID<0.143.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.143.0>, [0.3333333333333333, 0.6249999999999999, 0.05084745762711865, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.042 [error] GenServer #PID<0.202.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.202.0>, [0.38888888888888895, 0.41666666666666663, 0.5423728813559322, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 4}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.042 [error] GenServer #PID<0.220.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.57702165516207, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.220.0>, [0.38888888888888895, 0.20833333333333331, 0.6779661016949152, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {13, 23}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.043 [error] GenServer #PID<0.214.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.214.0>, [0.8333333333333333, 0.3749999999999999, 0.8983050847457626, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 2}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.044 [error] GenServer #PID<0.144.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.144.0>, [0.1666666666666668, 0.6666666666666666, 0.06779661016949151, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {17, 19}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.044 [error] GenServer #PID<0.197.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.524199275362982, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.197.0>, [0.3333333333333333, 0.25, 0.576271186440678, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 1}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.045 [error] GenServer #PID<0.218.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.218.0>, [0.5833333333333334, 0.2916666666666667, 0.7288135593220338, 0.75]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 3}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.046 [error] GenServer #PID<0.242.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3112299074547633, 9.233403815083834, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.242.0>, [0.9444444444444444, 0.41666666666666663, 0.8644067796610169, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {22, 7}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.046 [error] GenServer #PID<0.131.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.35312467360713, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.131.0>, [0.13888888888888887, 0.5833333333333333, 0.15254237288135591, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.131.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.047 [error] GenServer #PID<0.114.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.114.0>, [0.19444444444444448, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {17, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.048 [error] GenServer #PID<0.136.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3112299074547633, 9.233403815083834, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.136.0>, [0.11111111111111119, 0.5, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.048 [error] GenServer #PID<0.205.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.205.0>, [0.22222222222222213, 0.20833333333333331, 0.3389830508474576, 0.4166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {23, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.049 [error] GenServer #PID<0.106.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.106.0>, [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {10, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.050 [error] GenServer #PID<0.141.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 7.835070238598154, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.141.0>, [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {21, 9}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.050 [error] GenServer #PID<0.248.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.248.0>, [0.7222222222222222, 0.4583333333333333, 0.6949152542372881, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {11, 13}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.051 [error] GenServer #PID<0.244.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.244.0>, [0.5833333333333334, 0.4583333333333333, 0.7627118644067796, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 14}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.051 [error] GenServer #PID<0.247.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.37901348413751673, 16.62674317772843, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.247.0>, [0.6666666666666666, 0.4583333333333333, 0.7796610169491525, 0.9583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {21, 2}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.052 [error] GenServer #PID<0.229.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.229.0>, [0.9444444444444444, 0.3333333333333332, 0.9661016949152542, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 21}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.053 [error] GenServer #PID<0.249.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.249.0>, [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 2}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.054 [error] GenServer #PID<0.232.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3494979799544908, 12.165652095889548, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.232.0>, [0.8055555555555556, 0.5, 0.847457627118644, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {13, 4}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.054 [error] GenServer #PID<0.135.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.37901348413751673, 16.62674317772843, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.135.0>, [0.25000000000000006, 0.5833333333333333, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.135.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.055 [error] GenServer #PID<0.132.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.132.0>, [0.19444444444444448, 0.41666666666666663, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 8}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.055 [error] GenServer #PID<0.181.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.181.0>, [0.5833333333333334, 0.3749999999999999, 0.559322033898305, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {8, 15}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.056 [error] GenServer #PID<0.219.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.219.0>, [0.6944444444444443, 0.41666666666666663, 0.7627118644067796, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 15}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.057 [error] GenServer #PID<0.192.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.192.0>, [0.4722222222222222, 0.5833333333333333, 0.5932203389830508, 0.625]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {22, 16}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.057 [error] GenServer #PID<0.211.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.423990209194434, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.211.0>, [0.611111111111111, 0.41666666666666663, 0.8135593220338982, 0.8750000000000001]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.211.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.058 [error] GenServer #PID<0.200.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.200.0>, [0.19444444444444448, 0.1249999999999999, 0.38983050847457623, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 6}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.058 [error] GenServer #PID<0.221.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3816972919388698, 17.357915241847294, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.221.0>, [0.41666666666666663, 0.3333333333333332, 0.6949152542372881, 0.9583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 1}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.059 [error] GenServer #PID<0.112.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.112.0>, [0.30555555555555564, 0.7916666666666665, 0.11864406779661016, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:update_ant_position, #PID<0.112.0>, {19, 9}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.060 [error] GenServer #PID<0.185.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.185.0>, [0.4722222222222222, 0.3749999999999999, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {13, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.060 [error] GenServer #PID<0.125.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.125.0>, [0.38888888888888895, 0.7499999999999998, 0.11864406779661016, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {19, 7}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.061 [error] GenServer #PID<0.111.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.111.0>, [0.19444444444444448, 0.6666666666666666, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {5, 8}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.062 [error] GenServer #PID<0.180.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.180.0>, [0.4999999999999999, 0.3333333333333332, 0.6271186440677966, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.062 [error] GenServer #PID<0.191.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.191.0>, [0.30555555555555564, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.063 [error] GenServer #PID<0.116.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3816972919388698, 17.357915241847294, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.116.0>, [0.1666666666666668, 0.4583333333333333, 0.0847457627118644, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.116.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.063 [error] GenServer #PID<0.241.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3494979799544908, 12.165652095889548, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.241.0>, [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {8, 23}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.064 [error] GenServer #PID<0.222.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.222.0>, [0.5833333333333334, 0.5, 0.7288135593220338, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 21}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.064 [error] GenServer #PID<0.193.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3815407839391517, 17.250420037875507, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.193.0>, [0.6666666666666666, 0.4583333333333333, 0.6271186440677966, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {11, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.065 [error] GenServer #PID<0.150.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.150.0>, [0.19444444444444448, 0.6249999999999999, 0.1016949152542373, 0.20833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {23, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.066 [error] GenServer #PID<0.235.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.39032738762586244, 19.902597700290354, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.235.0>, [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.066 [error] GenServer #PID<0.208.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.399982135936286, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.208.0>, [0.41666666666666663, 0.2916666666666667, 0.6949152542372881, 0.75]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.208.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.067 [error] GenServer #PID<0.243.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3641387254096248, 13.987275482583884, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.243.0>, [0.5555555555555555, 0.5833333333333333, 0.7796610169491525, 0.9583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {11, 11}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.067 [error] GenServer #PID<0.252.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.252.0>, [0.6666666666666666, 0.41666666666666663, 0.711864406779661, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 21}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.068 [error] GenServer #PID<0.109.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.109.0>, [0.11111111111111119, 0.5, 0.05084745762711865, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 0}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.069 [error] GenServer #PID<0.133.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.38342083475165356, 17.84112033486913, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.133.0>, [0.19444444444444448, 0.5833333333333333, 0.1016949152542373, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {19, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.069 [error] GenServer #PID<0.179.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.179.0>, [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {21, 16}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.070 [error] GenServer #PID<0.129.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.60417114399296, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.129.0>, [0.08333333333333327, 0.6666666666666666, 0.0, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.129.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.071 [error] GenServer #PID<0.246.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.246.0>, [0.7222222222222222, 0.4583333333333333, 0.7457627118644068, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 6}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.071 [error] GenServer #PID<0.230.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3112299074547633, 9.233403815083834, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.230.0>, [0.5555555555555555, 0.2916666666666667, 0.6610169491525424, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.230.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.072 [error] GenServer #PID<0.147.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.147.0>, [0.19444444444444448, 0.6249999999999999, 0.05084745762711865, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.073 [error] GenServer #PID<0.245.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.245.0>, [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 22}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.073 [error] GenServer #PID<0.212.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.212.0>, [0.9166666666666665, 0.41666666666666663, 0.9491525423728813, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {12, 16}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.074 [error] GenServer #PID<0.173.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.173.0>, [0.361111111111111, 0.41666666666666663, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 4}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.074 [error] GenServer #PID<0.122.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3815407839391517, 17.250420037875507, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.122.0>, [0.38888888888888895, 1.0, 0.0847457627118644, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 13}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.075 [error] GenServer #PID<0.155.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.155.0>, [0.27777777777777773, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {19, 7}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.076 [error] GenServer #PID<0.168.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.168.0>, [0.44444444444444453, 0.41666666666666663, 0.5423728813559322, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.077 [error] GenServer #PID<0.163.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.32584324213474547, 10.131032794569496, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.163.0>, [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 22}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.077 [error] GenServer #PID<0.206.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.423990209194434, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.206.0>, [0.38888888888888895, 0.3333333333333332, 0.5254237288135593, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 10}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.078 [error] GenServer #PID<0.146.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3815407839391517, 17.250420037875507, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.146.0>, [0.22222222222222213, 0.5833333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 3}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.078 [error] GenServer #PID<0.239.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.37901348413751673, 16.62674317772843, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.239.0>, [0.5833333333333334, 0.3333333333333332, 0.7796610169491525, 0.8750000000000001]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {5, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.079 [error] GenServer #PID<0.172.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.32584324213474547, 10.131032794569496, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.172.0>, [0.6666666666666666, 0.4583333333333333, 0.576271186440678, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {5, 14}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.079 [error] GenServer #PID<0.213.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3815407839391517, 17.250420037875507, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.213.0>, [0.1666666666666668, 0.20833333333333331, 0.5932203389830508, 0.6666666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.080 [error] GenServer #PID<0.187.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.37901348413751673, 16.62674317772843, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.187.0>, [0.3333333333333333, 0.1666666666666666, 0.47457627118644063, 0.4166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 3}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.081 [error] GenServer #PID<0.117.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.117.0>, [0.30555555555555564, 0.7083333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 9}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.081 [error] GenServer #PID<0.107.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.395975040200271, 22.14244640968112, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.107.0>, [0.1666666666666668, 0.41666666666666663, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {4, 4}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.082 [error] GenServer #PID<0.254.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.57702165516207, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.254.0>, [0.611111111111111, 0.41666666666666663, 0.711864406779661, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.083 [error] GenServer #PID<0.130.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.130.0>, [0.22222222222222213, 0.5416666666666665, 0.11864406779661016, 0.16666666666666669]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.083 [error] GenServer #PID<0.164.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.164.0>, [0.1666666666666668, 0.1666666666666666, 0.38983050847457623, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 13}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.084 [error] GenServer #PID<0.204.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.60417114399296, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.204.0>, [0.5277777777777778, 0.3749999999999999, 0.559322033898305, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {11, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.085 [error] GenServer #PID<0.231.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.231.0>, [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 14}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.104 [error] GenServer #PID<0.124.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.124.0>, [0.22222222222222213, 0.6249999999999999, 0.06779661016949151, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 9}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.105 [error] GenServer #PID<0.170.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.60417114399296, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.170.0>, [0.4999999999999999, 0.3749999999999999, 0.6271186440677966, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 17}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.105 [error] GenServer #PID<0.118.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.118.0>, [0.13888888888888887, 0.5833333333333333, 0.1016949152542373, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {4, 11}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.106 [error] GenServer #PID<0.128.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.128.0>, [0.22222222222222213, 0.7083333333333333, 0.0847457627118644, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.107 [error] GenServer #PID<0.194.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3815407839391517, 17.250420037875507, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.194.0>, [0.5555555555555555, 0.1249999999999999, 0.576271186440678, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 8}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.107 [error] GenServer #PID<0.165.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3112299074547633, 9.233403815083834, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.165.0>, [0.6388888888888887, 0.3749999999999999, 0.6101694915254237, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {19, 23}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.108 [error] GenServer #PID<0.160.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.160.0>, [0.3333333333333333, 0.1249999999999999, 0.5084745762711864, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.108 [error] GenServer #PID<0.186.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.395975040200271, 22.250244011942705, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.186.0>, [0.38888888888888895, 0.25, 0.423728813559322, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {4, 7}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.109 [error] GenServer #PID<0.123.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.123.0>, [0.30555555555555564, 0.7916666666666665, 0.05084745762711865, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {5, 8}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.109 [error] GenServer #PID<0.198.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.423990209194434, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.198.0>, [0.4999999999999999, 0.41666666666666663, 0.6101694915254237, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.198.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.110 [error] GenServer #PID<0.152.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3641387254096248, 13.987275482583884, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.152.0>, [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {4, 10}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.110 [error] GenServer #PID<0.226.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.423990209194434, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.226.0>, [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 0}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.111 [error] GenServer #PID<0.159.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.159.0>, [0.7222222222222222, 0.4583333333333333, 0.6610169491525424, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.112 [error] GenServer #PID<0.238.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.238.0>, [1.0, 0.7499999999999998, 0.9152542372881356, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 3}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.112 [error] GenServer #PID<0.110.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.110.0>, [0.08333333333333327, 0.4583333333333333, 0.0847457627118644, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.113 [error] GenServer #PID<0.156.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.524199275362982, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.156.0>, [0.19444444444444448, 0.5416666666666665, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {8, 13}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.113 [error] GenServer #PID<0.233.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3112299074547633, 9.233403815083834, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.233.0>, [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {12, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.114 [error] GenServer #PID<0.216.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.216.0>, [0.8055555555555556, 0.6666666666666666, 0.8644067796610169, 1.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 15}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.114 [error] GenServer #PID<0.207.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.207.0>, [0.5555555555555555, 0.5416666666666665, 0.847457627118644, 1.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 19}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.115 [error] GenServer #PID<0.217.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.57702165516207, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.217.0>, [0.611111111111111, 0.5, 0.6949152542372881, 0.7916666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {13, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.115 [error] GenServer #PID<0.139.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.139.0>, [0.25000000000000006, 0.8749999999999998, 0.0847457627118644, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.116 [error] GenServer #PID<0.250.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.250.0>, [0.6944444444444443, 0.5, 0.8305084745762712, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {11, 1}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.116 [error] GenServer #PID<0.145.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3816972919388698, 17.357915241847294, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.145.0>, [0.027777777777777922, 0.41666666666666663, 0.05084745762711865, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 19}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.117 [error] GenServer #PID<0.178.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.178.0>, [0.4999999999999999, 0.3333333333333332, 0.5084745762711864, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 13}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.117 [error] GenServer #PID<0.209.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.209.0>, [0.7777777777777776, 0.41666666666666663, 0.8305084745762712, 0.8333333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {12, 2}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.118 [error] GenServer #PID<0.126.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.126.0>, [0.22222222222222213, 0.7499999999999998, 0.0847457627118644, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.118 [error] GenServer #PID<0.225.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.395975040200271, 22.47462159330536, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.225.0>, [0.9444444444444444, 0.25, 1.0, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 6}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.119 [error] GenServer #PID<0.195.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.195.0>, [0.361111111111111, 0.41666666666666663, 0.5254237288135593, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {0, 0}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.120 [error] GenServer #PID<0.223.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.223.0>, [0.611111111111111, 0.41666666666666663, 0.7627118644067796, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {19, 1}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.120 [error] GenServer #PID<0.119.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.394393013878873, 21.34986815000842, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.119.0>, [0.13888888888888887, 0.41666666666666663, 0.06779661016949151, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {11, 9}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.121 [error] GenServer #PID<0.177.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.177.0>, [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 22}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.121 [error] GenServer #PID<0.174.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.174.0>, [0.41666666666666663, 0.2916666666666667, 0.5254237288135593, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {5, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.122 [error] GenServer #PID<0.189.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3641387254096248, 13.987275482583884, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.189.0>, [0.41666666666666663, 0.2916666666666667, 0.4915254237288135, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 23}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.122 [error] GenServer #PID<0.157.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.157.0>, [0.7499999999999999, 0.5, 0.6271186440677966, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {22, 4}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.123 [error] GenServer #PID<0.240.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.60417114399296, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.240.0>, [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {0, 16}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.123 [error] GenServer #PID<0.148.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.60417114399296, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.148.0>, [0.055555555555555594, 0.1249999999999999, 0.05084745762711865, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.148.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.124 [error] GenServer #PID<0.171.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.171.0>, [0.361111111111111, 0.3749999999999999, 0.4406779661016949, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {16, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.124 [error] GenServer #PID<0.255.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.255.0>, [0.5277777777777778, 0.5833333333333333, 0.7457627118644068, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.125 [error] GenServer #PID<0.140.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3494979799544908, 12.165652095889548, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.140.0>, [0.3333333333333333, 0.9166666666666666, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 18}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.125 [error] GenServer #PID<0.115.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.423990209194434, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.115.0>, [0.027777777777777922, 0.3749999999999999, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 17}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.126 [error] GenServer #PID<0.188.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.188.0>, [0.3333333333333333, 0.1666666666666666, 0.4576271186440678, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 1}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.126 [error] GenServer #PID<0.167.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.167.0>, [0.19444444444444448, 0.0, 0.423728813559322, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 16}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.127 [error] GenServer #PID<0.176.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.176.0>, [0.361111111111111, 0.20833333333333331, 0.4915254237288135, 0.4166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {6, 15}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.127 [error] GenServer #PID<0.182.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.182.0>, [0.6388888888888887, 0.41666666666666663, 0.576271186440678, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.128 [error] GenServer #PID<0.190.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.190.0>, [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {8, 2}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.128 [error] GenServer #PID<0.151.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3641387254096248, 13.987275482583884, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.151.0>, [0.22222222222222213, 0.7499999999999998, 0.15254237288135591, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {15, 19}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.129 [error] GenServer #PID<0.215.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.33472351352282526, 10.804639331759638, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.215.0>, [0.6666666666666666, 0.20833333333333331, 0.8135593220338982, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {23, 3}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.129 [error] GenServer #PID<0.201.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.201.0>, [0.361111111111111, 0.2916666666666667, 0.5423728813559322, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:has_position?, {5, 23}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.130 [error] GenServer #PID<0.127.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.127.0>, [0.30555555555555564, 0.5833333333333333, 0.11864406779661016, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {14, 9}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.131 [error] GenServer #PID<0.227.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.37901348413751673, 16.62674317772843, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.227.0>, [0.7222222222222222, 0.5, 0.7966101694915254, 0.9166666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {22, 2}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.131 [error] GenServer #PID<0.183.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3815407839391517, 17.250420037875507, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.183.0>, [0.6944444444444443, 0.3333333333333332, 0.6440677966101694, 0.5416666666666666]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {10, 6}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.131 [error] GenServer #PID<0.210.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.524199275362982, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.210.0>, [0.5555555555555555, 0.3749999999999999, 0.7796610169491525, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {15, 21}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.132 [error] GenServer #PID<0.236.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.37901348413751673, 16.62674317772843, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.236.0>, [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.236.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.132 [error] GenServer #PID<0.251.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3641387254096248, 13.987275482583884, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.251.0>, [0.6666666666666666, 0.5416666666666665, 0.7966101694915254, 1.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_grid_and_bound, #PID<0.251.0>}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.132 [error] GenServer #PID<0.113.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.113.0>, [0.08333333333333327, 0.5833333333333333, 0.06779661016949151, 0.08333333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 19}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.133 [error] GenServer #PID<0.203.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.57702165516207, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.203.0>, [0.38888888888888895, 0.3749999999999999, 0.5423728813559322, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 7}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.133 [error] GenServer #PID<0.158.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.473230699724347, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.158.0>, [0.5833333333333334, 0.5, 0.5932203389830508, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {5, 5}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.134 [error] GenServer #PID<0.138.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3112299074547633, 9.233403815083834, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.138.0>, [0.30555555555555564, 0.5833333333333333, 0.0847457627118644, 0.12500000000000003]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {11, 17}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.134 [error] GenServer #PID<0.237.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.237.0>, [0.8611111111111112, 0.3333333333333332, 0.8644067796610169, 0.75]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 17}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.135 [error] GenServer #PID<0.161.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.161.0>, [0.611111111111111, 0.3333333333333332, 0.6101694915254237, 0.5833333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {12, 14}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.135 [error] GenServer #PID<0.196.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.196.0>, [0.3333333333333333, 0.20833333333333331, 0.5084745762711864, 0.5]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {17, 10}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.136 [error] GenServer #PID<0.224.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.39032738762586244, 19.902597700290354, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.224.0>, [0.9444444444444444, 0.7499999999999998, 0.9661016949152542, 0.8750000000000001]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {20, 13}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.136 [error] GenServer #PID<0.121.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.550370350305379, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.121.0>, [0.41666666666666663, 0.8333333333333333, 0.033898305084745756, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 9}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.137 [error] GenServer #PID<0.169.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.498491429690192, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.169.0>, [0.4722222222222222, 0.0833333333333334, 0.5084745762711864, 0.375]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {3, 19}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.137 [error] GenServer #PID<0.253.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.376364455198306, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.253.0>, [0.5555555555555555, 0.20833333333333331, 0.6779661016949152, 0.75]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {7, 1}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.138 [error] GenServer #PID<0.120.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.394393013878873, 21.34986815000842, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.120.0>, [0.0, 0.41666666666666663, 0.016949152542372895, 0.0]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {9, 8}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.138 [error] GenServer #PID<0.154.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.3112299074547633, 9.233403815083834, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.154.0>, [0.08333333333333327, 0.5, 0.06779661016949151, 0.04166666666666667]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {2, 20}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.139 [error] GenServer #PID<0.199.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.448401798321978, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.199.0>, [0.41666666666666663, 0.25, 0.5084745762711864, 0.4583333333333333]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {6, 12}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3
+18:55:43.139 [error] GenServer #PID<0.234.0> terminating
+Last message: {:"$gen_cast", {:work, #PID<0.259.0>, 1, 1, 0.29879644446817705, 8.60417114399296, 0.9, #PID<0.105.0>, #PID<0.257.0>, #PID<0.258.0>}}
+State: {#PID<0.234.0>, [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334]}
+** (exit) exited in: GenServer.call(#PID<0.259.0>, {:get_ant, {18, 22}}, 5000)
+    ** (EXIT) an exception was raised:
+        ** (MatchError) no match of right hand side value: 16
+            (A4C) lib/a4c/grid.ex:21: A4C.Grid.handle_call/3
+            (stdlib) gen_server.erl:580: :gen_server.handle_msg/5
+            (stdlib) proc_lib.erl:237: :proc_lib.init_p_do_apply/3

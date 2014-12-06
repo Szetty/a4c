@@ -1,0 +1,3 @@
+%{"csvlixir": {:hex, :csvlixir, "1.0.0"},
+  "exactor": {:hex, :exactor, "2.0.0"},
+  "logger_file_backend": {:hex, :logger_file_backend, "0.0.3"}}
